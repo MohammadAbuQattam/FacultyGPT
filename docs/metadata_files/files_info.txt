@@ -1,0 +1,17 @@
+# courses
+Courses and information about each course.
+
+# profs
+Professors and information about each one of them.
+
+# courses_codes
+This section contains each course along with its code.
+
+# faculty_info
+This section provides information about the KASIT Faculty.
+
+# students_info
+This file contains information about students in the faculty.
+
+# deans_info
+This file contains information about the deans.
