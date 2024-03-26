@@ -1,11 +1,13 @@
 import os
 import sys
+
+sys.path.append('../')
 from langchain_openai import OpenAIEmbeddings
 from dotenv import load_dotenv, find_dotenv
-from utils import load_file, split_file, save_to_database, create_file_path
-from constants import DATABASE_KNOWLEDGE_FILES_DIRECTORY, KNOWLEDGE_FILES_DIRECTORY
-
-sys.path.append('../..')
+from utils import load_file, split_file, save_to_database, create_path
+from constants import (SEPERATED_DATABASE_KNOWLEDGE_FILES_DIRECTORY,
+                       COMBINED_DATABASE_KNOWLEDGE_FILES_DIRECTORY,
+                       KNOWLEDGE_FILES_DIRECTORY)
 
 
 def get_list_of_files(directory):
@@ -21,23 +23,14 @@ def get_list_of_files(directory):
     return os.listdir(directory)
 
 
-def process_file(file_path):
-    """
-    Processes a single file by loading, splitting, embedding, and saving its content.
-
-    Parameters:
-    - file_path (str): The path to the file to be processed.
-
-    Raises:
-    - Exception: If any step in the process fails, an exception is raised.
-    """
+def process_file(directory, file_name):
     try:
-        # Load the file's content, split based on markdown headers, embed using OpenAI, and save to DB.
+        file_path = create_path(directory, file_name)
         file_docs = load_file(file_path)
         documents = split_file(file_docs)
         embedding = OpenAIEmbeddings()
-        vectordb = save_to_database(documents, embedding, DATABASE_KNOWLEDGE_FILES_DIRECTORY)
-        print(vectordb._collection.count())
+        save_to_database(documents, embedding, COMBINED_DATABASE_KNOWLEDGE_FILES_DIRECTORY)
+        save_to_database(documents, embedding, create_path(SEPERATED_DATABASE_KNOWLEDGE_FILES_DIRECTORY, file_name))
     except Exception as e:
         print(f"An error occurred: {e}")
         sys.exit(1)
@@ -50,7 +43,7 @@ if not load_dotenv(find_dotenv()):
 try:
     knowledge_files = get_list_of_files(KNOWLEDGE_FILES_DIRECTORY)
     for file in knowledge_files:
-        process_file(create_file_path(KNOWLEDGE_FILES_DIRECTORY, file))
+        process_file(KNOWLEDGE_FILES_DIRECTORY, file)
 except Exception as e:
     print(f"An error occurred: {e}")
     sys.exit(1)
