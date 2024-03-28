@@ -1,0 +1,151 @@
+# computer graphics
+code: 1901359  
+prerequisites: data structures  
+computer graphics provides an overview of computer graphics applications, including graphics output primitives and their attributes, 2d and 3d geometric transformations, 2d viewing and clipping, graphical user interface attributes, and an introduction to opengl programming. example applications developed in lectures using c++ and opengl will demonstrate the techniques presented. a project involving well-known 3d computer graphics software is required.
+
+# calculus 1  
+code: 0301101  
+prerequisites: none  
+calculus 1 covers topics such as functions (domain, operations, graphs), trigonometric functions, limits (meaning, computational techniques, at infinity, infinite limits), continuity, limits and continuity of trigonometric functions, differentiation techniques, derivatives of trigonometric functions, the chain rule, implicit differentiation, differentials, rolle’s theorem, the mean value theorem, l’hôpital’s rule, and more, focusing on the foundational aspects of calculus.
+
+# calculus 2  
+code: 0301102  
+prerequisites: calculus i  
+calculus 2 delves deeper into topics of calculus, including integration by parts, trigonometric integrals and substitutions, integration of rational functions by partial fractions, improper integrals, volumes, arc length, and series, extending the foundational knowledge established in calculus 1.
+
+# principles of statistics  
+code: 0301131  
+prerequisites: none  
+principles of statistics focuses on describing statistical data with tables, graphs, and numerical measures, counting methods, elements of probability and random variables, and the binomial, poisson, and normal distributions, aiming to provide a solid foundation in statistics.
+
+# physics for computer science students  
+code: 0302108  
+prerequisites: none  
+physics for computer science students is designed for first-year computer science students, covering physical quantities and their applications to motion, forces, fields, and electrical currents, among other topics, to introduce the basics of physics relevant to computing.
+
+# computer ethics  
+code: 5402345  
+prerequisites: fundamentals of information technology  
+computer ethics explores the branch of practical philosophy concerning computing professionals' decisions regarding professional and social conduct, addressing privacy issues, ethical behavior in technology, and legal aspects of conduct within a computerized environment.
+
+# computer networks  
+code: 1931361  
+prerequisites: data structures  
+computer networks offers a broad overview of computer networks, including network applications, classifications, topologies, layers, performance measures, transmission media, protocols, and the architecture of the internet and local area networks.
+
+# computer networks 2  
+code: 1901461  
+prerequisites: computer networks  
+computer networks 2 describes the architecture, components, and operations of routers and switches in a small network, focusing on configuring routers and switches for basic functionality.
+
+# computer organization  
+code: 1901322  
+prerequisites: logic design  
+computer organization introduces computer organization concepts, including the cpu, main memory, i/o organization, computer arithmetic, and an introduction to parallel processing, laying the groundwork for understanding the physical structure of computers.
+
+# data structures-1  
+code: 1901233  
+prerequisites: computer skills for scientific faculties  
+data structures-1 explores data structures and concepts such as records, classes, data abstraction, inheritance, composition, templates, lists, stacks, queues, and their implementations, emphasizing the importance of data organization for efficient algorithm design.
+
+# data structure-1 lab  
+code: 1901235  
+prerequisites: simultaneously with data structures 1  
+data structure-1 lab focuses on the practical implementation of data structures, assessing students through practical exams and quizzes, and is designed to complement the theoretical knowledge acquired in data structures-1 with hands-on experience.
+
+# data structures-2  
+code: 1901234  
+prerequisites: data structures 1  
+data structures-2 advances into topics such as pointers, classes, virtual functions, overloading, recursion, linked lists (singly, doubly, circular), and binary trees, building on the foundations laid in data structures-1.
+
+# data structure-2 lab  
+code: 1901236  
+prerequisites: simultaneously with data structures 2  
+data structure-2 lab delves into the practical implementation of advanced data structures, with assessments based on practical quizzes and exams, providing students with the opportunity to apply their knowledge in real-world scenarios.
+
+# problem solving lab  
+code: 1901381  
+prerequisites: algorithms + data structures-2 lab  
+problem solving lab enables students to solve problems using various programming techniques and introduces advanced data structures, graph algorithms, and problem
+
+-solving strategies, aiming to develop comprehensive problem-solving skills.
+
+# computer security  
+code: 1901463  
+prerequisites: computer networks  
+computer security explains security protocols, cryptographic algorithms, and various security measures, focusing on protecting computer systems and networks from unauthorized access and cyber threats.
+
+# discrete mathematics  
+code: 1901101  
+prerequisites: none  
+discrete mathematics studies the mathematical elements of computer science, covering topics like propositional logic, set theory, number theory, and graph theory, providing a mathematical foundation for understanding computational structures and algorithms.
+
+# parallel and distributed systems  
+code: 1901468  
+prerequisites: computer networks  
+parallel and distributed systems explores concepts related to distributed systems, including design issues, communication in distributed systems, and synchronization, preparing students to design and implement distributed computing systems.
+
+# graph theory  
+code: 1901443  
+prerequisites: theory of algorithms  
+graph theory covers concepts of graphs, including undirected and directed graphs, computer representation of graphs, algorithms for shortest paths, and np-complete graph problems, offering a deep dive into the mathematical structures underpinning networked systems.
+
+# logic design  
+code: 1901204  
+prerequisites: discrete mathematics  
+logic design introduces the main concepts of logic design, including boolean algebra, digital logic gates, and the principles of combinational and sequential logic, foundational for understanding the hardware logic underlying computer architecture.
+
+# system programming and compilers  
+code: 1901476  
+prerequisites: computer organization  
+system programming and compilers introduces system programming concepts, focusing on assemblers, loaders, linkers, macro processors, and the phases of compilation, from syntax analysis to code optimization, equipping students with the knowledge to understand and develop compilers.
+
+# operating system  
+code: 1901473  
+prerequisites: computer organization  
+operating system enables students to understand and implement operating systems functions in managing computer systems components, covering process and cpu scheduling, memory management, and security, among other topics.
+
+# modeling and simulation  
+code: 1901353  
+prerequisites: data structures  
+modeling and simulation introduces the fundamental concepts of computer simulation, including model design, random number generation, and discrete-event simulation, aimed at teaching students how to develop and analyze simulation models.
+
+# network programming  
+code: 1901442  
+prerequisites: computer networks + programming in special languages  
+network programming covers basic network programming concepts and the java network programming api, preparing students to implement networked applications using java.
+
+# numerical analysis  
+code: 1901351  
+prerequisites: computer skills for scientific faculties + calculus 1  
+numerical analysis introduces numerical methods for error analysis, solving equations, and numerical integration/differentiation, offering a practical approach to solving mathematical problems computationally.
+
+# special topics  
+code: 1901494  
+prerequisites: theory of algorithms  
+special topics covers different important techniques used in designing and analyzing efficient algorithms, including dynamic programming and greedy algorithms, focusing on advanced algorithmic solutions to computational problems.
+
+# programming techniques in special languages  
+code: 1901239  
+prerequisites: data structures -1  
+programming techniques in special languages aims to equip students with knowledge and skills to build robust programs using defensive programming techniques, current programming trends, and problem-solving techniques, using languages like c++, java, or python.
+
+# theory of algorithms  
+code: 1901239  
+prerequisites: data structures  
+theory of algorithms defines algorithms and covers algorithm design and analysis techniques, complexity analysis, and graph algorithms, providing a comprehensive overview of algorithmic thinking.
+
+# theory of computation  
+code: 1901241  
+prerequisites: discrete mathematics  
+theory of computation covers sets, relations, finite automata, regular languages, context-free grammars, turing machines, and the classification of problems into p and np classes, exploring the fundamental concepts of computational theory.
+
+# artificial intelligence  
+code: 1905320  
+prerequisites: none  
+artificial intelligence introduces ai concepts, including logic programming, search methods, expert systems, and machine learning, preparing students for developing ai-based applications and understanding ai methodologies.
+
+# software engineering
+code: 5401472
+prerequisites: none
+software engineering covers software engineering processes, life cycle, project management, requirements, and specification: requirement engineering, requirement analysis, models, prototyping, formal and algebraic specification; software design: architectural design, object-oriented, function-oriented, real-time and user interface design; reliability; maintenance; portability; documentation; re-engineering and reverse-engineering; case study. this course is aimed at providing students with a comprehensive understanding of the discipline of software engineering, focusing on the methods and techniques used in the development of large and complex software systems.

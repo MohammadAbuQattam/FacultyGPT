@@ -5,8 +5,7 @@ sys.path.append('../')
 from langchain_openai import OpenAIEmbeddings
 from dotenv import load_dotenv, find_dotenv
 from utils import load_file, split_file, save_to_database, create_path
-from constants import (SEPERATED_DATABASE_KNOWLEDGE_FILES_DIRECTORY,
-                       COMBINED_DATABASE_KNOWLEDGE_FILES_DIRECTORY,
+from constants import (COMBINED_DATABASE_KNOWLEDGE_FILES_DIRECTORY,
                        KNOWLEDGE_FILES_DIRECTORY)
 
 
@@ -30,7 +29,6 @@ def process_file(directory, file_name):
         documents = split_file(file_docs)
         embedding = OpenAIEmbeddings()
         save_to_database(documents, embedding, COMBINED_DATABASE_KNOWLEDGE_FILES_DIRECTORY)
-        save_to_database(documents, embedding, create_path(SEPERATED_DATABASE_KNOWLEDGE_FILES_DIRECTORY, file_name))
     except Exception as e:
         print(f"An error occurred: {e}")
         sys.exit(1)
