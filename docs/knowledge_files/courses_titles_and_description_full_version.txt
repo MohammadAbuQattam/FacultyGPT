@@ -1,0 +1,664 @@
+﻿
+#Remedial Computer Skills
+Code: 1902099
+Prerequisites: None
+Remedial Computer Skills course introduces students to information technology and communication. It includes an introduction to information technology, structure of digital computer systems, computer software (system SW and application SW), Internet and networks, security and use of ICT in our daily life. The course also aims to enhance students’ practical skills in using effectively the following software packages: Microsoft Windows 7, MS-Office 2007(Word), and Internet browsers such as Internet Explorer and Google Chrome.
+
+
+# calculus 1  
+code: 0301101  
+prerequisites: none  
+calculus 1 covers topics such as functions (domain, operations, graphs), trigonometric functions, limits (meaning, computational techniques, at infinity, infinite limits), continuity, limits and continuity of trigonometric functions, differentiation techniques, derivatives of trigonometric functions, the chain rule, implicit differentiation, differentials, rolle’s theorem, the mean value theorem, l’hôpital’s rule, and more, focusing on the foundational aspects of calculus.
+
+# calculus 2  
+code: 0301102  
+prerequisites: calculus i  
+calculus 2 delves deeper into topics of calculus, including integration by parts, trigonometric integrals and substitutions, integration of rational functions by partial fractions, improper integrals, volumes, arc length, and series, extending the foundational knowledge established in calculus 1.
+
+# principles of statistics  
+code: 0301131  
+prerequisites: none  
+principles of statistics focuses on describing statistical data with tables, graphs, and numerical measures, counting methods, elements of probability and random variables, and the binomial, poisson, and normal distributions, aiming to provide a solid foundation in statistics.
+
+# physics for computer science students  
+code: 0302108  
+prerequisites: calculus 1  
+physics for computer science students is designed for first-year computer science students, covering physical quantities and their applications to motion, forces, fields, and electrical currents, among other topics, to introduce the basics of physics relevant to computing.
+
+#Physics for Computer Science –Lab
+code:0302116
+prerequisites:physics for computer science students 
+physics for computer science students–Lab focuses on the practical application of the concepts learned in the previous physics for computer science students course in a lab enviroment.
+
+# Linear Algebra for Computational Sciences
+code: 1915101
+prerequisites: calculus 1 
+Linear Algebra for Computational Sciences covers fundemental concepts of linear combinations such as vectors,vector spaces,matricies,matrix operations, linear functions, lines ,planes.
+
+# discrete mathematics  
+code: 1901101  
+prerequisites: none  
+discrete mathematics studies the mathematical elements of computer science, covering topics like propositional logic, set theory, number theory, and graph theory, providing a mathematical foundation for understanding computational structures and algorithms.
+
+# Fundamentals of Information Technology 
+code: 1904101 
+prerequisites: none
+Fundamentals of Information Technology will introduce the fundamental knowledge of information technologies and it works as an introductory course for computer-related courses. It is a combination between a theoretical and a practical course. In particular, the course provides students a grounding knowledge on several areas of information technologies including cutting edge technologies, careers in IT, basic concepts of cloud computing and web technologies, and a general perceptive of project management. Students are also going to be introduced practically to hardware maintenance, software diagnostics and technical support. In addition, critical thinking methodologies and techniques will be discussed, including numbering systems, flowcharts and related case studies. Operating systems such as LINUX/UNIX with, memory allocation, and an introduction to networks and security, and block chain concepts. The final part is concerned with technical applications needed such as excel, advanced excel, technical writing, report generating and type writing.
+
+# computer skills for scientific faculties
+code: 1931102
+prerequisites: Pass Qualifications Exam
+computer skills for scientific faculties covers the fundamental concepts of programming using C++. It covers the basic structures of the programming tools such as variable names; data types; control structures; arrays; functions; and enumeration data type.
+
+# logic design  
+code: 1901204  
+prerequisites: discrete mathematics  
+logic design introduces the main concepts of logic design, including boolean algebra, digital logic gates, and the principles of combinational and sequential logic, foundational for understanding the hardware logic underlying computer architecture.
+
+
+
+
+# computer organization  
+code: 1901322  
+prerequisites: logic design  
+computer organization introduces computer organization concepts, including the cpu, main memory, i/o organization, computer arithmetic, and an introduction to parallel processing, laying the groundwork for understanding the physical structure of computers.
+
+# system programming and compilers  
+code: 1901476  
+prerequisites: computer organization  
+system programming and compilers introduces system programming concepts, focusing on assemblers, loaders, linkers, macro processors, and the phases of compilation, from syntax analysis to code optimization, equipping students with the knowledge to understand and develop compilers.
+
+
+#Computer Architecture and Assembly Language
+Code: 1911231
+Prerequisites: Discrete Mathematics,Fundamentals of Information Technology
+The Computer Architecture and Assembly Language course introduces students to basic concepts about computer architecture from security perspectives. Its emphasis is on the lower level abstraction of a computer system. Topics included: digital logic, instruction set, ALU design, memory and assembly language programming. The course offers programming practice with an assembly language to provide practical application of concepts presented in class.	
+
+#Computer Systems Performance
+Code: 1901446
+Prerequisites: Computer Organization,statistics
+The Computer Systems Performance course aims at introducing students to basic principles and understanding of performance measurement and analysis
+
+# operating system  
+code: 1901473  
+prerequisites: computer organization  
+operating system enables students to understand and implement operating systems functions in managing computer systems components, covering process and cpu scheduling, memory management, and security, among other topics.
+
+
+# theory of computation  
+code: 1901241  
+prerequisites: discrete mathematics  
+theory of computation covers sets, relations, finite automata, regular languages, context-free grammars, turing machines, and the classification of problems into p and np classes, exploring the fundamental concepts of computational theory.
+
+# Design And Implementation of Programming Languages
+code: 1901471
+prerequisites: Theory of Computation
+Design And Implementation of Programming Languages covers the underlying grammatical model for programming languages and their compilers (elementary data types, data structures and encapsulation, inheritance, statements, procedure invocation, storage management, distributed processing, and network programming). Includes an advanced chapter on language semantics--program verification, denotational semantics, and the lambda calculus.
+
+#Compiler Design
+Code: 1901472
+Prerequisites: Theory of computation
+Introduction to Compiling; Lexical analysis: specification and recognition of                                                 tokens, finite automata; Syntax analysis: grammars, top-down and bottom-up passing; Syntax-directed translation; Semantic routines; Storage-allocation strategies; Code generation; Error recovery
+
+# Web Applications Development
+code: 1904121+1931102
+prerequisites: Computer Skills for Scientific Faculties
+Web Applications Development aims to improve students’ ability in developing web applications using Client-Side programming including XHTML, Cascading Style Sheet and JavaScript. Students will have strong knowledge about the methods and tools used in developing web applications. Students will know how the World Wide Web works to be able to design, implement and configure its services and applications effectively
+
+# advanced web development
+code:1904254
+prerequisites:Web Applications Development
+Web Applications Development introduces students to the PHP programming language, the MySQL commonly used
+to create dynamic websites, such as server-side scripting programming, database access for three tier
+data-driven applications, and asynchronous communication between client and server for fast
+partial update of client windows. The course comprises the fundamentals of programming with
+PHP, relational database design and operations with MySQL, and web solutions using PHP and
+MySQL. It also includes the basics of using content management systems for managing website
+
+
+# data structures-1  
+code: 1901233  
+prerequisites: computer skills for scientific faculties  
+data structures-1 explores data structures and concepts such as records, classes, data abstraction, inheritance, composition, templates, lists, stacks, queues, and their implementations, emphasizing the importance of data organization for efficient algorithm design.
+
+# data structure-1 lab  
+code: 1901235  
+prerequisites: simultaneously with data structures 1  
+data structure-1 lab focuses on the practical implementation of data structures, assessing students through practical exams and quizzes, and is designed to complement the theoretical knowledge acquired in data structures-1 with hands-on experience.
+
+# data structures-2  
+code: 1901234  
+prerequisites: data structures 1  
+data structures-2 advances into topics such as pointers, classes, virtual functions, overloading, recursion, linked lists (singly, doubly, circular), and binary trees, building on the foundations laid in data structures-1.
+
+# data structure-2 lab  
+code: 1901236  
+prerequisites: simultaneously with data structures 2  
+data structure-2 lab delves into the practical implementation of advanced data structures, with assessments based on practical quizzes and exams, providing students with the opportunity to apply their knowledge in real-world scenarios.
+
+# Object Oriented Programming
+Code: 1902110
+Prerequisites:None
+The Object-Oriented Programming (OOP) course covers the fundamental concepts of OOP, such as Encapsulation and Information-Hiding, Inheritance, Polymorphism, and Abstraction. The course uses Java Programming language starting from the basic Java syntax based on Eclipse IDE. It focuses on the understanding and practical mastery of OOP principles and java components, such as classes, objects, input/output, scanner objects (to read either from the keyboard or a file), loops, decision-making, array and multidimensional array, data abstraction, methods, method overloading, objects garbage-collector, an introduction to exception-handling, etc. Finally, it presents an Introduction to JavaFX and its Hierarchy based on Java inheritance OOP concepts, for developing rich client applications.
+
+# Object Oriented Programming 1
+Code: 1902211
+Prerequisites:None
+Object-Oriented Programming (OOP) Environment; Input/Output; Loops; Decision; Methods; Arrays and Strings; Encapsulation; Object Oriented Programming; Useful OO features; Classes and objects; inheritance; Polymorphism; Applet
+
+# problem solving lab  
+code: 1901381  
+prerequisites: algorithms + data structures-2 lab  
+problem solving lab enables students to solve problems using various programming techniques and introduces advanced data structures, graph algorithms, and problem-solving strategies, aiming to develop comprehensive problem-solving skills.
+
+# theory of algorithms  
+code: 1901239  
+prerequisites: data structures  
+theory of algorithms defines algorithms and covers algorithm design and analysis techniques, complexity analysis, and graph algorithms, providing a comprehensive overview of algorithmic thinking.
+
+# graph theory  
+code: 1901443  
+prerequisites: theory of algorithms  
+graph theory covers concepts of graphs, including undirected and directed graphs, computer representation of graphs, algorithms for shortest paths, and np-complete graph problems, offering a deep dive into the mathematical structures underpinning networked systems.
+
+# Introduction to Database Systems
+Code: 1902223
+Prerequisites: Data structures-1
+The course objectives are to provide students with an overview of database management system architecture and environment, an understanding of the basic database design and implementation techniques, and a practical experience of designing and building a relational database. Other objectives of this course are to make the student able to discuss and explain the importance of the data, the difference between file management and database. Furthermore, it enables applying conceptual design methodologies for databases and learning about the architecture and environments of the database management system (the Ansi-Sparc model). It also enables the student to design and evaluate suitable security and integrity levels for database schemas.
+
+#Mobile Wireless Networks
+Code: 1901469
+Prerequisites: Data Structures
+The Mobile Wireless Networks  course covers topics such as Wireless networks and their basic operation, different types of wireless technologies and systems, the basics of how they operate, different types of wireless voice, data and broadcast services, key commercial systems. Wi-Fi wireless networks, Bluetooth wireless technology, GSM cellular networks, cellular internet access via Wireless access protocol (WAP), GPRS and UMTS networks, wireless networks operating system; Symbian OS, Palm OS. Mobile IP and Mobile routing, Transport layer over wireless networks, Mobile wireless network applications.
+
+# computer networks  
+code: 1931361  
+prerequisites: data structures  
+computer networks offers a broad overview of computer networks, including network applications, classifications, topologies, layers, performance measures, transmission media, protocols, and the architecture of the internet and local area networks.
+
+# computer networks 2  
+code: 1901461  
+prerequisites: computer networks  
+computer networks 2 describes the architecture, components, and operations of routers and switches in a small network, focusing on configuring routers and switches for basic functionality.
+
+# network programming  
+code: 1901442  
+prerequisites: computer networks + programming in special languages  
+network programming covers basic network programming concepts and the java network programming api, preparing students to implement networked applications using java.
+
+# computer security  
+code: 1901463  
+prerequisites: computer networks  
+computer security explains security protocols, cryptographic algorithms, and various security measures, focusing on protecting computer systems and networks from unauthorized access and cyber threats.
+
+
+# Principles of Information Security
+Code: 1911194
+Prerequisites: None
+This course introduces students to a basis for cyber security. Topics included         are: security properties (integrity, confidentiality, availability), authentication and access rights management, vulnerabilities and attacks, and principles of security models and design.
+
+
+#Cryptography
+Code: 1911241
+Prerequisites: discrete mathematics, Principles of Security
+The Cryptography course introduces cryptography algorithms and mechanisms including: symmetric key algorithms such as AES and 3DES, public key algorithms such as RSA and ECC, digital signature, hash functions and MAC. The course provides security analysis to the algorithms as well.
+
+#Information Security and Privacy
+Code: 1911322
+Prerequisites: Introduction to Database Systems, Computer Network
+This course provides an introduction to information security and privacy. The course covers topics related to cryptography such as symmetric and asymmetric encryptions, hash functions, digital signatures, key management, and public key infrastructures. Also, the course covers topics related to network security as packet sniffing, spoofing, TLS, IPSec, Firewalls, wireless networks security. Furthermore, topics related to Authentication, Authorization, Web security and Steganography will be covered. Risk analysis and ethics, and their applications to the development of a secure healthcare system as a case study will be presented. 
+
+
+
+#Programming for Cyber Security
+Code: 1911211
+Prerequisites: Principles of Security, Object Oriented Programming
+The Programming for Cyber Security course helps students learn the essentials for programming in Python 3. Topics include: fundamentals of Python programming, Object-Oriented programming using Python, Data Structures and Algorithms, and Python packages
+
+# Security Risk management & Ethics
+Code: 1911221
+Prerequisites: 1911101
+ The Security Risk management & Ethics course introduces students to the three key elements of risk management. Topics covered: risk analysis, risk assessment, and vulnerability assessment. Both quantitative and qualitative methodologies will be discussed as well as how security metrics can be modeled, monitored, and controlled. Several case studies will be used to demonstrate the risk management principles featured throughout the course. Risk assessments on the selected case study scenarios will be conducted by team work. Mitigation plans will be developed, and the results of their analysis will be presented, both in written reports and oral presentations. Ethical implications of security procedures will be studied as well.
+
+
+# Security of Web Applications
+Code: 1911351 
+Prerequisites: Web Applications Development, Introduction to Database Systems
+The Security of Web Applications course introduces students to a foundation in the theories and practice relating to web application security. Topics covered: web applications vulnerabilities and attacks, building secure web applications, concepts associated with deploying and securing a typical HTTP environment as well as defensive techniques that can be employed. Teaching of this course will be based on active learning methodology such that students will work in groups to discuss and analyze the vulnerability in web applications.
+
+# Programming Methodologies
+Code: 1901237
+Prerequisites: data structures-1  
+The Programming Methodologies course would basically cover the following areas: Multi-threading and synchronization, Storage and I/O ( i.e.Memory and Garbage Collection, File Structure, I/O Streams, Serialization), defensive programming techniques (error handling, exceptions, assertions, debugging aids), current programming trends (functional and/or scripting), code testing, and tuning strategies and techniques.
+
+# Programming in Special Languages
+Code: 1901238
+Prerequisites:None
+Object-oriented Programming (OOP) Environment; Input/Output; Loops; Decision; Function; Array and Strings; Data structures; Encapsulation; Advanced variables; Object Oriented Programming; Useful OOP features; Class and object; Polymorphism; Exceptions handing; Applet; I/O streams; Threads, Files. Applying all topics through weekly exercises in lab.
+
+# System Programming and Management
+Code: 1901376
+Prerequisites: Computer Organization
+The System Programming and Management course covers the following: Assemblers: basic functions, machine-dependent features, machine-independent features, assembler design options; Loaders and linkers: basic functions, machine-dependent features, machine independent features, loader design options; Macro processors: basic functions, macro processor design options; Compilers: grammars, lexical analysis, syntax analysis, code generation; Drivers. Weekly practice in the lab.
+
+
+# Network Security
+code:1911361
+prerequisites: Computer Networks
+Network Security covers the basic concepts of network security in three main areas: physical, technical, and administrative.
+
+
+# Parallel Processing
+Code: 1901464
+Prerequisites: Operating System
+Introduction to high-performance computing, processor architectures, memory systems, data and parallel decompositions, parallel languages and architectures, multiprocessors, multi-computers; routing topologies; shared memory and passage passing parallel processing, PRAM model (exclusive versus concurrent reads and writes) and sample applications
+	
+# Distributed Systems
+Code: 1901466
+Prerequisites: Computer Networks 1
+Distributed system basic concepts: hardware, software, design issues; communication in distributed systems; layered protocols; synchronous vs. asynchronous communication mechanisms; client-server model vs. peer-to-peer model; Remote Method Invocation (RMI) and Remote Procedure Call (RPC); group communication; processes vs. threads; synchronization: physical vs. logical clocks, Lamport clocks, distributed mutual exclusion, election algorithms; distributed transactions; case studies.
+
+# parallel and distributed systems  
+code: 1901468  
+prerequisites: computer networks  
+parallel and distributed systems explores concepts related to distributed systems, including design issues, communication in distributed systems, and synchronization, preparing students to design and implement distributed computing systems.
+
+
+# modeling and simulation  
+code: 1901353  
+prerequisites: data structures  
+modeling and simulation introduces the fundamental concepts of computer simulation, including model design, random number generation, and discrete-event simulation, aimed at teaching students how to develop and analyze simulation models.
+
+# numerical analysis  
+code: 1901351  
+prerequisites: computer skills for scientific faculties + calculus 1  
+numerical analysis introduces numerical methods for error analysis, solving equations, and numerical integration/differentiation, offering a practical approach to solving mathematical problems computationally.
+
+
+# special topics  
+code: 1901494  
+prerequisites: theory of algorithms  
+special topics covers different important techniques used in designing and analyzing efficient algorithms, including dynamic programming and greedy algorithms, focusing on advanced algorithmic solutions to computational problems.
+
+# programming techniques in special languages  
+code: 1901239  
+prerequisites: data structures -1  
+programming techniques in special languages aims to equip students with knowledge and skills to build robust programs using defensive programming techniques, current programming trends, and problem-solving techniques, using languages like c++, java, or python.
+
+# computer graphics
+code: 1901359  
+prerequisites: data structures  
+computer graphics provides an overview of computer graphics applications, including graphics output primitives and their attributes, 2d and 3d geometric transformations, 2d viewing and clipping, graphical user interface attributes, and an introduction to opengl programming. example applications developed in lectures using c++ and opengl will demonstrate the techniques presented. a project involving well-known 3d computer graphics software is required.
+
+#Pattern Recognition
+Code: 1901452
+Prerequisites: Computer Graphics
+The Pattern Recognition course covers pattern recognition essentials with topics that are suitable for undergraduate levels in computer science and most engineering specialties. It covers wide understanding of different related topics, i.e., pattern recognition systems, preprocessing and feature extraction, theories of supervised and unsupervised learning, object classification and recognition, artificial neural networks, and other topics as well.
+
+#Information Visualization 
+Code: 1901457
+Prerequisites: Computer Graphics
+The Information Visualization course is an introduction to key design principles and techniques for interactively visualizing data. The major goals of this course are to understand how visual representations can help in the analysis and understanding of complex data, how to design effective visualizations, and how to create your own interactive visualizations using modern web based frameworks
+
+# Natural Language Processing
+Code: 1902345
+Prerequisites: None
+The Natural Language Processing course examines a range of issues concerning computer systems that can process human languages. Among the issues to be discussed are morphological analysis, finite state automata, syntactic processing, parsing with CFG, information retrieval, knowledge representation, and NLP applications.
+
+
+
+#Object Oriented Programming 2
+Code: 1902213
+Prerequisites: Object Oriented Programming 1
+the Object Oriented Programming 2 course will cover the following topics: Graphics: Coordinate systems and drawing methods, Graphical User Interface and event handling, Exception handing, Multithreading and Strings
+
+
+# Advanced Database Systems
+Code: 1902423
+Prerequisites: Introduction to Database Systems
+Advanced Database Systems aims to give students an overall understanding of advanced aspects of database management systems including complex data types, application interfaces, concurrency control, and transaction management, database recovery, indexing and hashing, data warehousing, and OLAP. In addition to case studies about data integration between heterogeneous databases.
+
+# Introduction to Software Engineering
+code: 1902371
+prerequisites: none
+Introduction to Software provides a general introduction to software engineering. It introduces concepts such as software processes and agile methods, and essential software development activities, from initial specification through to system maintenance. The course also includes practice in lab to express the role of UML for visualizing, specifying, constructing, and documenting software system. Project management and professional software engineering practice will also be covered. Case studies provide practical examples for many of these concepts.
+
+#Advanced Java Programming
+Code: 1902214
+Prerequisites: Object Oriented Programming
+Advanced Java Programming introduces advanced programming skills based on core concepts of Object-Oriented Programming (OOP) and Design using Java language. It builds on the OOP course to finalize a Java full-stack application. This course starts with using some Java classes such as String, StringBuffer and StringBuilder, and StringtTokenizer for string-processing. It also focuses on I/O operations using files and streams, and JavaFX for developing rich client applications. In addition to, GUI components, event-handling, Generics, exception-handling, multithreading, and JavaFX EventHandler using Inner Class, Anonymous Class, and Lambda Expression. Finally, it introduces databases connectivity using JDBC. The JDBC case study is based on MySQL Database and Eclipse IDE.
+
+#Advanced Multimedia 
+Code: 1902450
+Prerequisites:None
+Advanced Multimedia is mainly designed to further introduce the theoretical concepts of digital media including images, audio, animation and video. Different types of digital media are outlined and their digital storage process is explained in detail such as the GIF standard and file organization. The digital media encoding and decoding concepts and dithering techniques are explained. In addition, different types of digital media compression techniques are introduced. This includes lossless and lossy techniques such as JPEG, MPEG and H.26x video compression standards. The main algorithm used in these compressors are outlined. In addition, performance issues such as hardware, software, Internet-based broadcast, and analog vs digital concerns are also discussed.
+
+#Advanced Software Engineering
+Code: 1902472
+Prerequisites: Introduction to Software Engineering
+Advanced Software Engineering  helps students understand the advanced topics of software engineering, including approaches to development and process improvement. Advanced Software Engineering  presents Requirements analysis, Software design: architectural design, service oriented architecture, distributed software engineering; Formal specification, software verification and validation, Maintenance; evolution, SW Documentation, SW reuse, Re-engineering and reverse QF-AQAC-03.02.1.3 2 engineering
+
+# artificial intelligence  
+code: 1902342  
+prerequisites: none  
+artificial intelligence introduces ai concepts, including logic programming, search methods, expert systems, and machine learning, preparing students for developing ai-based applications and understanding ai methodologies.
+
+
+#Basics of Computing
+Code: 1932099
+Prerequisites:None
+Computer Essentials course introduces fresh students (first year) to the basic concepts in information technology and communications and gives necessary practical skills to use computer and common computer applications. It includes an introduction to computer system, types of computers, basic computer components (hardware, software), activities that can be used in our daily life (such as Ecommerce, E-banking, E-government), Covers the skills needed to understand the key concepts relating to the security, privacy, and introduces students to the legal issues of computer ethics. The course also aims to enhance students’ practical skills in using effectively the operating system such as windows 10, word processing and presentation applications, as well as email etiquette and managing computer files. This course enables students to gain the practical basic skills in using the University of Jordan website, library, students Email and students' portal.
+
+
+#Computer information systems-Certified Software
+Code: 1902458
+Prerequisites: Object oriented programming-1 (Java)
+Certified Software helps students learn the essentials for Android application development, and provides students with the required skills for the design and implementation of different mobile applications. Topics include: building user interfaces, using internet resources, managing files and preferences, using maps and location based services, working with audio, video and using the camera. This course is a lab-based course which includes in-class practical assignments and tasks.
+
+#Computer science-Certified Software
+Code: 1902459
+Prerequisites: None
+This course is designed to help students to gain rapid software application skills such as: Solaris System Software, Sun, Unix, Cisco, MSE and others. in this course the student will be able to develop and design a web applications and services, mobile applications and others using certified software's from Microsoft company or certified software's to achieve the final goal of the course which is getting an intentional certificate from international companies. 
+
+# Computer Assisted Learning
+Code: 1902355
+Prerequisites: Web Development - 1
+Computer Assisted Learning will introduce students to a variety of learning technologies and multimedia authoring tools to use for designing and developing effective eLearning. It will discuss the essential concepts of designing engaging eLearning content for various learners who bring different needs, styles, and wants. Topics include Introduction to eLearning, Key Learning Theories, eLearning Development Methods, Dynamic Instructional Design Model, eLearning storyboarding with text, animation, and scenarios, Academic Software, Administrative Software, Virtual Reality, Augmented Reality, eLearning Authoring tools, and Learning Management Systems (LMS).
+
+# Computer Skills-1
+Code: 1902100
+Prerequisites: None 
+Remedial Computer Skills course introduces students to information technology and communication. It includes an introduction to information technology, structure of digital computer systems, computer software (system SW and application SW), Internet and networks, security and use of ICT in our daily life. The course also aims to enhance students’ practical skills in using effectively the following software packages: Microsoft Windows 7, MS-Office 2007(Word), and Internet browsers such as Internet Explorer and Google Chrome.
+
+# Computing Ethics and Documentation
+Code: 1902202/1902203
+Prerequisites: Fundamentals of Information Technology
+Computing Ethics and Documentation aims to equip students with the necessary computing ethics and technical writing skills. It introduces computing ethics by adhering to the most well-known world standard code of ethics from national and international professional societies, organizations, and governmental bodies (CEI, ACM, IEEE, BCS, E-crime, E-Transaction laws, Artificial Intelligence (AI) in Jordan, and code of conduct in The University of Jordan). In addition, it introduces different types of technical reports (books, articles, QF-AQAC-03.02.1.3 2 proposals, user manual, progress reports, graduation project, and memorandums) and how to write them professionally and ethically with proper data representation, citation, and referencing. This course covers ethical writing through many practical skills including referencing styles, citation, quotation, and also through the awareness of the good document requirements, plagiarism forms, copy rights, fair use, creative commons, and intellectual property rights. Moreover, it covers computing ethics including Ethics in IT profession, programming ethics, AI ethics, and ethical computing responsibility from the professional, philosophical, and social perspectives. Further discussions about AI risks and the possibility of AGI and technological singularity will take place. Other ethical issues in technology are covered including electronic crimes, computer abuse, cyberbullying and stalking, privacy, confidentiality, anonymity, ethics in social media, and freedom of expression through the cyber space.
+
+# Database Management Systems
+Code: 1902224
+Prerequisites: Object-Oriented Programming
+Database Management Systems objectives are to provide students with an overview of database management system architecture and environment, an understanding of the basic database design and implementation techniques, and a practical experience of designing and building a relational database. Other objectives of this course are to make the student able to discuss and explain the importance of the data, the difference between file management and database management systems. Furthermore, it enables applying conceptual design methodologies for databases and learning about the architecture and environments of the database management system (the Ansi-Sparc model). It also enables the student to designand evaluate suitable security and integrity levels for database schemas.
+
+
+# Database technologies and applications
+Code: 1902324
+Prerequisites: Database Management Systems
+Database technologies and applications covers the principles of distributed databases and how they differ from centralized databases. It focuses on understanding the concepts of designing and managing distributed databases. Furthermore, the course introduces the problems of distributed data management, especially in the case of heterogeneous databases. Database technologies and applications will cover the most broadly adopted systems and techniques in the field of data integration for distributed environments, such as data warehousing, Big data management and NoSQL alternatives. Case studies in the field of healthcare information systems and e-commerce information systems are given as examples for data integration issues. Database technologies and applications will provide a cohesive overview regarding the importance of data management and data analytics in the era we are living.
+
+
+
+# Digital Image Processing
+Code: 1902454
+Prerequisites: Computer Graphics
+Digital Image Processing aims to provide an introduction to the basic concepts, techniques, and algorithms of digital image processing. It explains the fundamental techniques of the following: acquisition of the digital images (equipment, sampling, quantization, and color representation), enhancement of digital images in spatial and in frequency domains (smoothing, sharpening, edge detection, thresholding, histogram equalization, morphological operations, etc.), conversion the digital image into Fourier and other transforms, feature identification, image compression, application to models of human and machine vision. In addition, students will be able to apply the image processing techniques to solve real-world problems in any domain. Specifically, students are required to work through a case study in the healthcare domain and show how to deploy the image processing techniques to perform enhancement, segmentation, analysis, diagnosis, etc. into the medical images. Digital Image Processing will also include practical demonstrations on using the state-of-the-art Matlab-Image processing software package.
+
+# Distributed Databases
+Code: 1902425
+Prerequisites: Database Management Systems
+Distributed Databases covers the principles of distributed databases and how they differ from centralized databases. It focuses on understanding the concepts of designing and managing distributed databases. Furthermore, the course introduces the problems of distributed data management, especially in the case of heterogeneous databases.
+
+# Geographical Information Systems
+Code: 1902459
+Prerequisites: None
+The purpose of Geographical Information Systems course is to introduce the concept of Geographic Information Systems (GIS). This includes what can GIS do?, spatial data, GIS data structure, raster verses vector data, topology and spatial relationships, data acquisition, entry, and quality. In addition this course outlines geographic database and inventory operations, basic geographic data analysis, and geographic systems output. The course will also include practical demonstrations on using the state-of-the art GIS software package ESRI’s ArcGIS.
+
+
+# Human Computer Interaction
+Code: 1902353
+Prerequisites: Computer Graphics
+Introduction to Human Computer Interaction; design, implementation and evaluation of interactive computing system for human use; Ergonomics; Components of an interactive system; Human; Computer; Interaction Design; Interaction Design Activities; Data gathering; Prototyping; Evaluation paradigms and techniques; Agents and natural language processing The course gives students an understanding of interaction design process, the content of the course enables the students to deploy interaction design principles into health related application (healthcare and patient management).
+
+# Information Security and Privacy
+Code: 1932322
+Prerequisites: Introduction to Database Systems
+Information Security and Privacy covers Cryptography, Digital Signature, Key Management, Authentication, Authorization, Steganography, Privacy, Risk Analysis, and applies the information security methods and managements to the development of information security within healthcare systems.
+
+# Information Technology Entrepreneurship and Innovation
+Code: 1902383
+Prerequisites: 1902224
+Information Technology Entrepreneurship and Innovation introduces students to new and innovative technologies and examine how these powerful systems have fundamentally reshaped modern organizations.
+
+
+# Information Systems Project Management
+Code: 1902473
+Prerequisites: Introduction to Software Engineering
+Information Systems Project Management aims to introduce students to the concepts of Project Management for Information Systems. It provides students with the required skills to identify and select projects, planning, performing and controlling the project. It gives students an understanding of the different possibilities in developing the schedule, resource utilization, determining costs, managing risk and closing a project. The course Introduces students to Project Management responsibilities and skills needed. An information systems’ project management case study in the healthcare domain constitutes a major part of this course. The topics that are covered each week are demonstrated using the case study to show how the project management process activities are deployed in QF-AQAC-03.02B.1.2 2/8 Course Syllabus healthcare systems.
+
+# Machine Learning
+Code: 1902442
+Prerequisites: Introduction to Database systems
+Machine learning includes introduction and learning bayesian learning, decision tree learning; learning sets of rules, genetic algorithms, analytical learning; reinforcement learning; applications.
+
+# Multimedia
+Code: 1902351
+Prerequisites: Object-Oriented Programming 2
+The Multimedia course is mainly designed to introduce the theoretical concepts of digital media including images, audio, animation and video. The difference between analog and digital media is discussed. Different types of digital media are outlined and their digital storage process is explained in detail. The digital media encoding and decoding concepts are explained. In addition, different types of digital media compression techniques are introduced. The most popular file formats are outlined for each media type. Finally, the Multimedia related hardware, software, and web-related issues are discussed where necessary.
+
+
+
+#Project Management
+Code: 1902478
+Prerequisites: Introduction to Software Engineering
+This course aims to provide students with the required skills to plan and control information technology projects. It gives students an understanding of the different possibilities in developing projects’ schedules, utilizing resources, determining costs, managing risks, and closing projects. The course covers the project management life cycle, the roles and responsibilities of a project manager, and the effective project management tools and techniques that drive successful project outcomes. It also examines project management methods in an agile environment. This course guides students through a practical, hands-on approach through case studies and exercises. An information systems’ project management case study in the healthcare domain constitutes a major part of this course. The topics that are covered each week are demonstrated using the case study to show how the project management process activities are deployed in healthcare systems. Students are required to work in teams to manage a real project and show how to break down the project’s tasks into WBS and perform scheduling, estimation, risk analysis, etc.
+
+
+
+
+#Software Engineering
+Code: 1902372
+Prerequisites: Database Management Systems
+The Software Engineering course aims to present software engineering as a body of knowledge. The course is designed to present software engineering concepts and principles in parallel with the Software Development Life Cycle (SDLC). The course will begin with an introduction to software engineering, giving students a definition of this body of knowledge, as well as a discussion of the main methodologies of software engineering including agile methods i.e., XP. Students will then learn about the five major phases of the SDLC: requirements gathering and analysis, design, coding/implementation, validation, and evolution. This includes software modelling using Unified Modelling Language (UML), a standardized general purpose modelling language used to create visual models of object-oriented software, for requirements gathering and analysis, and design. Students will also learn about project management and quality management for the purpose of delivering high-quality software that satisfies customer needs and is within budget and schedule. Delivery will be by in-class lectures, recorded lectures, practical sessions in the lab, case studies from different domains (i.e., healthcare domain), and assignments. Assignments will include a term project illustrative of professional practice in developing computer information systems. One or two guest speakers with many years of experience in software engineering will be invited to share their first-hand experience with students
+
+
+# Special Topics
+Code: 1902494 
+Prerequisites: Principles of Statistics, Software Engineering and Database
+The Special Topics covers software economics principles and techniques that seek to enable significant improvements in software design and engineering through economic reasoning about product, process, program, and portfolio and policy issue. This includes: Economic Analysis, Business Case Analysis, Risk Evaluation & Management, quality management, Outsourcing, Global S/W Dev. & Software Six Sigma, and Software Process Dynamics.
+
+
+
+# Systems Analysis and Design
+Code: 1902474
+Prerequisites: Database Management Systems
+Systems Analysis and Design aims to provide students with a solid background in information systems analysis and design techniques through a combination of theory and practice. Students will be provided with the skills that are necessary for the analysis and design of information systems, and will apply these skills in a step-bystep manner leading from the recognition of a problem to the implementation of a solution on a case study. The course is divided into four major parts: Systems Analysis Fundamentals (Part I), Information Requirements Analysis (Part II), The Analysis Process (Part III), The Essentials of Design (Part IV). Delivery will combine traditional lectures with other active teaching methodologies, such as group discussions, group solving problems, analysis of cases and debates, case study from healthcare domain, and assignments. Assignments will include a term project illustrative of professional practice in computer information systems analysis and design
+
+
+# Visual Programming
+Code: 1902210
+Prerequisites: None
+Introduction to Visual Basic and Visual Studio environment: Controls, components, wizard; Language constructs and structures: Variables, assignment, arithmetic, selection, repetition, arrays, functions; Advanced controls: Frames, Labels, Boxes and others; Strings: Operations and formatting. Graphics: Coordinate systems and drawing methods
+
+#Social Media
+Code: 1904100
+Prerequisites:None
+Social Media  aims at introducing the main technical, however, general concepts on the social media famous websites, and online applications (i.e. Twitter, Facebook, LinkedIn), and how to manage them considering privacy, security, Cybercrime and ethical issues like intellectual property rights (copyrights and patents). In addition, the course introduces different application fields (e.g. Customer Relationship, e-Commerce) on social media in the modern life of people, how are they utilized in different fields (e.g. Job Searching, Advertising & e-Marketing).
+
+
+content.
+
+#Web Publishing
+Code: 1904252
+Prerequisites: Fundamentals of Information Technology, Application Development-1
+Web Publishing is intended to teach students the skills and techniques required to create fully functioning websites. Students will learn how to configure Internet services, design and publish dynamic and interactive web pages, implement both client and server-side scripting, and use data access technologies to manipulate databases.
+
+# Web Server programming
+Code: 1904253
+Prerequisites: Fundamentals of Information Technology, web Application Development-1
+Web Server programming is intended to teach students the skills and techniques required to create fully functioning websites. Students will learn how to configure Internet services, design and publish dynamic and interactive web pages, implement both client and server-side scripting, and use data access technologies to manipulate databases
+
+# computer ethics  
+code: 1904345
+prerequisites: fundamentals of information technology  
+computer ethics explores the branch of practical philosophy concerning computing professionals' decisions regarding professional and social conduct, addressing privacy issues, ethical behavior in technology, and legal aspects of conduct within a computerized environment.
+
+#Statistical Packages
+Code: 1904255
+Prerequisites: Discrete Mathematics
+Statistical Packages aims at introducing the main statistical and probabilistic concepts for scientific applications. In addition, Statistical Packages introduces different application fields of those concepts in the business intelligence and decision support systems. Statistical Packages graphically introduces those concepts utilizing MATLAB as a programming environment for applying statistical/probabilistic methods and techniques.
+
+# Total Quality Management
+Code: 1904481
+Prerequisites: Statistical Package, Software Engineering, Introduction to Database
+Total Quality Management
+introduces students to the use of quality management (QM) principles to the fast-paced, dynamic, and global software (Product) development. Software Engineering Standards in Testing and Quality Control and Assurance are also introduced.
+
+# Business Intelligence
+Code: 1904371
+Prerequisites: Statistical Packages
+Business Intelligence Systems This course will examine Business Intelligence (BI) technologies that help a company to improve its business. It discusses BI topics from both managerial and technical perspectives. Managerial perspectives discuss how BI affects the organization's decision-making process, while technical perspectives discuss the foundation for an intelligent system (i.e., Machine learning, Warehousing, Online Analytical Processing, Data Mining).
+
+#database languages and tools
+Code: 1904415
+Prerequisites: 1902321
+database languages and tools  provides a comprehensive guide for developing database applications using Oracle 10g relational database and Developer 10g application development utilities. Database developments activities include using SQL commands to create tables and insert, update, delete and view data values. This course provides an overview of PL/SQL, explores the Developer 10g application development tools, and describes how to create an integrated database application, also it covers how to display application component in a Web browser and gives an overview to the database administration activities.
+
+# Decision Support Systems
+Code: 1904332
+Prerequisites: Business Intelligence
+This course aims to provide students with fundamental knowledge on decision support systems for managers and IS developers. This course explores topics in computer-based Decision Support Systems with a practical focus on the application of information technology to the solution of management problems. Topics include Management Support Systems, decision making systems, Data mining for business and intelligent system.
+
+
+
+# Document Analysis and Recognition
+Code: 1904484
+Prerequisites: Discrete Mathematics, Theory of Algorithms
+Document Analysis and Recognition provides a comprehensive knowledge of theoretical background and practical applications of digital image processing techniques, analysis and enhancement both in the spatial and frequency domains; also to be able to work with different image compression techniques.
+
+#E-Learning and Applications
+Code: 1904355
+Prerequisites: Web Application Development-2
+E- Learning and Applications introduces students to the concept of Electronic Learning and its applications within today’s fast-paced, dynamic, and global environment.
+
+#E-Business
+Code: 1904354
+Prerequisites: Web Application Development-2
+E-Business guides the students to understand E-Business models and to create e-business website using PHP and MySQL; designing the visual interface, creating the database, presenting content, generating an online catalog, managing the shopping cart, handling the order and the payment process, and fulfilling the order always with security and best practices emphasized along the way. This course also, teaches the students how to: Create a safe server environment and database, Use secure transactions and prevent common vulnerabilities, Incorporate different payment gateways, Design scalable sites that are easy to maintain, and Build administrative interface. XAMPP, WAM, or TomCat and MYSQL DB are intended to be used throughout the course.
+
+# E-Business Security
+Code: 1904334
+Prereequisites: Web Application Development-2
+E-Business Security  covers issues such as the nature of e-Business security, information security services for e-Business systems, enterprise security architecture design, e-Business security protocols, web security tools and secure programming techniques, perimeter security such firewall technologies, Intrusion detection/prevention systems, SIEM technologies, security requirement engineering and human factors affecting e-Business security.
+
+# E-Government
+Code: 1904357
+Prerequisites: Web Application Development-2
+E-Government covers the technology of e-government with an in-depth examination of current government development models and management challenges in the delivery of services and information, electronically. Furthermore, it will explore the skills and concepts needed to effectively manage e-government projects. Lastly, some successful practices of e-government projects will be addressed to emphasize the importance of implementing e-government.
+
+# Enterprise Resource Planning Systems
+Code: 1904351
+Prerequisites: Management Information Systems
+Enterprise Resource Planning Systems  introduces the concepts of integrated management of main business processes, often in real time and mediated by software and technology. In this course the main integrated system that will be discussed in the ERP system. ERP systems have many modules in a full integrated organization environment, however; for the purpose of this course three main modules will be discussed as follow; manufacturing, inventory and supply chain management. The course is an industrial course, lecturer from the industry take part of teaching cutting edge technologies in this domain such as SAP, Odoo, ERP next, Meta Fres.
+
+# Information Resource Management
+Code: 1903235
+Prerequisites: Fundamentals of Information Technology 
+Information Resource Management   covers how to become knowledgeable participants in information systems decisions.
+
+# Information Retrieval
+Code: 1904382
+Prerequisites: Business Intelligence
+Information Retrieval aims at studying the theory, design, and implementation of text-based information systems. The course introduces IR core concepts on an abstract level, in addition to a design and an implementation of an IR system utilizing the acquired knowledge from the course. The course introduces several state-of-the-art IR concepts, as well as, trendy case studies in modern IR.
+
+# Information Security Risk Management
+Code: 1904434
+Prerequisites: 1901362
+Information Security Risk Management  covers topics such as threats, vulnerabilities, exploits, and countermeasures, standards and best practices, risk assessment and mitigation, business impact analysis, and business continuity and disaster recovery planning and evaluating perimeter security such firewall technologies, Intrusion detection/prevention systems, SIEM technologies. Weekly lab session.
+
+# Management Information Systems
+Code: 1904232
+Prerequisites: Fundamentals of Information Technology
+Management Information Systems aims at introducing the concepts of management information system and its resources. This course works as a road map for system management courses. The course covers fundamental concepts of MIS; by elaborating on the impact of IT on several sectors including: industry, strategy and finance. In industry, Porter’s five forces models are studied and how they are used to gain competitive advantages. On the other hand, in strategy, RGT framework is discussed in addition to Porter’s strategies. Breakeven point is studied as a part of the impact of IT in finance. The major business initiatives are covered including: Supply Chain Management (SCM), Customer Relationship Management (CRM), Enterprise Resource Planning (ERP) and Social Media (SM). OLTP and OLAP information processing tools which support business intelligence (BI) are also discussed. IT tools which are used to support OLTP are database and Database Management System DBMS. On the other hand, IT tools which are used to support OLAP are data warehouse and data mining tools. Decision Support Systems (DSS) and Expert Systems (ES) are discussed in terms of concept and usage. E-commerce models, marketing mix, and how to move money easily and securely are investigated through the course.
+
+# Knowledge Management Systems
+Code: 1904323
+Prerequisites: Management Information Systems
+Knowledge Management Systems introduces students to the concept of knowledge management systems within today’s fast-paced, dynamic, and global business environment.The course covers important topics include tacit and explicit knowledge and how it differs from data and information, strategic use, technologies, people and cultural issues, knowledge transfer, and implementation.
+
+# Operations Research
+Code: 1904341
+Prerequisites: None
+Operations Research emphasizes the use of quantitative methods and techniques for effective decision-making. Model formulations and applications are used in solving business decision problems. Topics include: Linear Programming, Transportation, Assignment, CPM/PERT techniques, and Game Theory are covered. The course is an application oriented, it emphasizes learning by doing. Analytic techniques and computer packages will be used to solve problems facing business managers in decision environments.
+
+# Semantic Web
+Code: 1904453
+Prerequisites: Business Intelligence
+he Web Semantic course will introduce the notion of the Web Semantic, provide an overview of the underlying theory and technology, cover existing technologies and practices, and highlight current and potential applications.
+
+# Simulation in Business
+Code: 1904442
+Prerequisites: Data Structures – 1
+Simulation in Business introduces students to simulation types, mathematical model types and simulation software and languages. The course covers in details simulation of discrete system (Discrete Event Simulation and simulation by different equations) and simulation of continuous system using differential equations with practical examples in management, banking, manufacturing and computer networks. Both Arena and MS Excel software are intended to be used throughout the course.
+
+# Introduction to Artificial Intelligence
+Code: 1905120
+Prerequisites:None
+Introduction to many primary concepts in artificial intelligence such as reasoning, learning, planning, perception and uncertainty management. Subjects covered in the this course include: Knowledge Representation (logic, Prolog), Planning and Reasoning (Logical agents), Expert Systems (production systems), Search (blind-, heuristic-, evolutionary-search methods),Machine Learning QF-AQAC-03.02.1.3 2 and Data Mining (K-means clustering, nearest neighbor classification, Naive Bayesian, Decision trees)
+
+
+#AI Programming
+Code: 1915111 
+Prerequisites:None
+The AI Programming course builds programming skills for students which is required to develop and implement applications and algorithms of Artificial intelligence. This course will focis on programming using Python. Python is a high-level programming language similar to Java, C++, or C#. This course provides students with the required skills to solve problems by implementing programs using Python. Topics include fundamentals of Python programming, object-oriented programming using Python, Data structures and algorithms, and python packages. This course is lab-based course which is includes in class practical assignments and tasks.
+
+# Artificial Intelligence
+Code: 1905320
+Prerequisites: None
+Introduction to artificial intelligence (concepts, research areas and applications), Propositional logic, First order logic, Representing simple domains in First order logic, Logic programming (Prolog), Exhaustive search methods; Heuristic and evolutionary search methods; Production systems; Architecture of expert systems; Model- versus rule-based reasoning. Machine Learning and Data Mining (K-means clustering, nearest neighbor classification, Naive Bayesian, Decision trees)
+
+# Data Mining
+Code: 1905222
+Prerequisites: Database Management Systems
+The Data Mining course is an introductory course on data mining. It introduces the basic concepts, principles, methods, implementation techniques, and applications of data mining, with a focus on three major data mining functions: (1) pattern discovery and (2) Classification and (3) cluster analysis. It also gives an Course Syllabus introduction to data warehousing and data acquisition and pre-processing, dimensionality reduction and outlier detection.  
+
+#Machine Learning and Neural Networks
+Code: 1905370
+Prerequisites: Data Mining 1
+The Machine Learning and Neural Networks course is an introduction to Machine Learning and neural networks models where both theoretical and practical issues being considered. Upon completion of this course, the student should understand the main machine learning and neural network architectures and learning algorithms and be able to apply Machine learning and neural networks to real problems. 
+
+# Computer Vision
+Code: 1905322
+Prerequisites: Machine Learning and Neural Networks
+The Computer Vision course explores how computers understand the visual world, emphasizing probabilistic, statistical, and data-driven approaches in computer vision. Covering image processing, segmentation, grouping, recognition, and motion estimation, it aims to automate tasks analogous to the human visual system. The curriculum progresses from basic image processing to advanced topics like multiple view geometry, focusing on machine learning methods, particularly in supervised learning and classification. The learned algorithms have broad applications beyond vision problems, making them valuable tools for diverse challenges. 
+
+# Principles of Data Science
+Code: 1915121
+Prerequisites: None
+The Principles of Data Science course is designed to equip students with essential knowledge in data science principles. It covers the fundamental aspects of a data scientist's journey, including gathering data, analyzing it, constructing models, and effectively presenting results. The objective is to provide students with the foundational skills necessary for working with data and making well-informed decisions
+
+# Data Engineering and Analytics
+Code: 1915231
+Prerequisites: Principles of Data Science, AI Programming
+The Data Engineering and Analytics course will examine the typical Data Engineering pipeline includes architecting data platforms, designing data stores, ETL, data collection, importing, wrangling, querying, and analysing data. It also includes performance monitoring and finetuning to ensure systems are performing at optimal levels. In addition, Data modelling and design techniques, Data storage and warehousing. Also, the course will discuss the popular data engineering tools such as Airflow. Furthermore, this course introduces you to the core concepts, processes, and tools you need to know to get a foundational knowledge of data engineering. You will gain an understanding of the modern data ecosystem and the role Data Engineers, Data Scientists, and QF-AQAC-03.02B.1.2 2 / 5 Course Syllabus Data Analysts play in this ecosystem. This course will discuss the exploratory data analysis, feature generation and extraction. The course also includes hands-on labs and assignments that guide you to create and load data into the different types of databases, and perform some basic querying operations that help you understand your dataset. Lectures will be given in the lab for practical application. This course is assessed through exams, practical tests and assignments.
+
+
+# Data Visualization
+Code: 1915441
+Prerequisites: Machine Learning and Neural Networks
+The Data Visualization course presents a comprehensive exploration of data visualization essentials, covering techniques from transforming raw data to creating engaging visualizations using R programming language. Topics include Quantity Visualization, Dispersion Visualization, Relative Representation, Multivariate Visualization, Time Series Visualization. Students will gain proficiency in visualizing patterns, trends, geospatial data, uncertainty, and proportional representation. The curriculum also covers figure design principles, and hands-on implementation using R programming software.
+
+#Embedded Systems
+Code: 1905330
+Prerequisites: Data structures, AI Programming
+The Embedded Systems course aims to introduce students to basic logic design system, logic gates, combinational and sequential logic circuits. Then basic input and output devices, after that microcontroller-based embedded systems design, development and implementation with focus on real-time applications. Topics to be covered include, basic logic design, basic input and output systems. Embedded system types, microcontroller architecture, programming (Embedded C), interrupt management and other related topics. This course will use a combination of lectures, class discussions, reading and writing assignments, case studies analysis, and hands-on work.
+
+# Natural Language Processing
+Code: 1905380
+Prerequisites: Artificial Intelligence
+The natural language processing course covers topics like Origins of Natural Language Processing (NLP); Language structure representation; The role of knowledge; Knowledge representation; Parsing techniques; Finite-state techniques; Recursive and augmented transition networks; Language ambiguity; Well-Formed constructs; Features and the lexicon; Language semantics; Applications.
+
+#Healthcare and Medical Data Analytics
+Code: 1915352 
+Prerequisites: Data Mining
+The Healthcare and Medical Data Analytics course introduces the characteristics of medical data and associated data mining challenges on dealing with such data. It focuses on studying those data science techniques in the context of concrete healthcare analytic applications such as predictive modelling, computational phenotyping and patient similarity, diseases detection. In this course, the students will learn how can the application of data analytics improve health and health care and how the data analytics-based solutions can result in better diagnosis, and better care. In healthcare, large amounts of heterogeneous medical data have become available in various healthcare organizations (payers, providers, pharmaceuticals). This data could be an enabling resource for deriving insights for improving care delivery and reducing waste. The enormity and complexity of these datasets present great challenges in analyses and subsequent applications to a practical clinical environment. The basics of data mining within the context of a wide variety of health care settings, and the types of data and data analysis challenges that you will likely encounter by gathering the data, move on to classifying, analyzing and finally visualizing medical data. The course will host a number of experts in the field of IT operations and related healthcare sector from the local market to cover the practical side of the course and share their first-hand experience with students.
+
+
+#Knowledge Representation and Reasoning
+Code: 1905221
+Prerequisites: Introduction to Artificial Intelligence - 1
+In the Knowledge Representation and Reasoning course we discuss the formalization of knowledge and its processing within machines. We shall show how to design and develop computer systems (Knowledge-based systems) that can draw conclusions (using reasoning), similar to human reasoning where knowledge is represented in a machine-interpretable form. We shall examine many knowledge representation formalisms such as rule systems, classical logic (Natural Deduction and Resolution proofs) and (Ontology)description logic. We shall also show how to deal incomplete information using defeasible reasoning.
+
+# Ontologies and Knowledge Graphs
+Code: 1905321
+Prerequisites: Knowledge Representation and Reasoning
+The Ontologies and Knowledge Graphs (OKG) course will introduce the notion of the Data Semantics, provide an overview of the underlying theory and technology, cover existing technologies and practices, and highlight current and potential applications.
