@@ -1,237 +1,257 @@
-
-# remedial computer skills
+﻿# remedial computer skills
 code: 1902099
-ccredit hours:3
-level of course:1
-language of instruction:english
-department:computer science
-teaching methodology(face to face/blended/online):face to face
-taught by:
-required/elective:elective
+program: computer science
+credit hours: 3
+year: 1
+language of instruction: english
+department: computer science
+teaching methodology(face to face/blended/online): face to face
+taught by: not available
+status(elective/required): elective
 prerequisites: none
-description:remedial computer skills course introduces students to information technology and communication. it includes an introduction to information technology, structure of digital computer systems, computer software (system sw and application sw), internet and networks, security and use of ict in our daily life. the course also aims to enhance students’ practical skills in using effectively the following software packages: microsoft windows 7, ms-office 2007(word), and internet browsers such as internet explorer and google chrome.
+textbook: computer skills 1, dr. muhammad tall, authored by dr. ahmad al-shaza'ah, university of jordan, amman-jordan. published by dar samir in 2012. science and technology.
+description: remedial computer skills course introduces students to information technology and communication.
+it includes an introduction to information technology, structure of digital computer systems, computer software (system sw and application sw), internet and networks, security and use of ict in our daily life.
+the course also aims to enhance students’ practical skills in using effectively the following software packages: microsoft windows 7, ms-office 2007(word), and internet browsers such as internet explorer and google chrome.
 
+# calculus 1
+code: 0301101
+program: computer science
+credit hours: 3
+year: 1
+language of instruction: english
+department: mathematics
+teaching methodology(face to face/blended/online): face to face
+taught by: majd mhailan, mona sakkijha
+status(elective/required): required
+prerequisites: none
+textbook: james stewart (2015) calculus (early transcendentals), 8th edition, thomson, metric international version.
+description: calculus 1 covers topics such as functions (domain, operations, graphs), trigonometric functions, limits (meaning, computational techniques, at infinity, infinite limits), continuity, limits and continuity of trigonometric functions, differentiation techniques, derivatives of trigonometric functions, the chain rule, implicit differentiation, differentials, rolle’s theorem, the mean value theorem, l’hôpital’s rule, and more, focusing on the foundational aspects of calculus.
 
-# calculus 1 
-code: 0301101 
+# calculus 2
+code: 0301102
+program: computer science
+credit hours: 3
+year: 1
+language of instruction: english
+department: mathematics
+teaching methodology(face to face/blended/online): face to face
+taught by: abdalla tallafha, isra alshbeil, omar abughneim
+status(elective/required): required
+prerequisites: calculus 1
+textbook: james stewart (2015) calculus (early transcendentals), 8th edition, thomson, metric international version.
+description: calculus 2 delves deeper into topics of calculus, including integration by parts, trigonometric integrals and substitutions, integration of rational functions by partial fractions, improper integrals, volumes, arc length, and series, extending the foundational knowledge established in calculus 1.
+
+# principles of statistics
+code: 0301131
+program: computer science
 credit hours:3
-level of course:1
-language of instruction:english
-department:mathematics 
-teaching methodology(face to face/blended/online):face to face
-taught by:not available
-required/elective:required
-prerequisites: none 
-calculus 1 covers topics such as functions (domain, operations, graphs), trigonometric functions, limits (meaning, computational techniques, at infinity, infinite limits), continuity, limits and continuity of trigonometric functions, differentiation techniques, derivatives of trigonometric functions, the chain rule, implicit differentiation, differentials, rolle’s theorem, the mean value theorem, l’hôpital’s rule, and more, focusing on the foundational aspects of calculus.
+year: 1
+language of instruction: english
+department: mathematics
+teaching methodology(face to face/blended/online): face to face
+taught by: morad ahmad
+status(elective/required): required
+prerequisites: none
+textbook: principles of statistics (latest edition) by m. raqab, a. awad and m. azzam, publisher: academic for publishing and distributing co. jordan.
+description: principles of statistics focuses on describing statistical data with tables, graphs, and numerical measures, counting methods, elements of probability and random variables, and the binomial, poisson, and normal distributions, aiming to provide a solid foundation in statistics.
 
-# calculus 2 
-code: 0301102 
-credit hours:3
-level of course:1
-language of instruction:english
-department:mathematics 
-teaching methodology(face to face/blended/online):face to face
-taught by:not available
-required/elective:required
-prerequisites: calculus 1 
-calculus 2 delves deeper into topics of calculus, including integration by parts, trigonometric integrals and substitutions, integration of rational functions by partial fractions, improper integrals, volumes, arc length, and series, extending the foundational knowledge established in calculus 1.
+# physics for computer science students
+code: 0302108
+program: computer science
+credit hours: 3
+year: 1
+language of instruction: english
+department: physics
+teaching methodology(face to face/blended/online): face to face
+taught by: ola hassunah, deyaaldeen arafah
+status(elective/required): required
+prerequisites: none
+textbook: university physics, sears and zemansky, 14th edition, 2016.
+description: physics for computer science students is designed for first-year computer science students, covering physical quantities and their applications to motion, forces, fields, and electrical currents, among other topics, to introduce the basics of physics relevant to computing.
 
-# principles of statistics 
-code: 0301131 
-prerequisites: none 
-principles of statistics focuses on describing statistical data with tables, graphs, and numerical measures, counting methods, elements of probability and random variables, and the binomial, poisson, and normal distributions, aiming to provide a solid foundation in statistics.
-
-# physics for computer science students 
-code: 0302108 
-prerequisites: calculus 1 
-physics for computer science students is designed for first-year computer science students, covering physical quantities and their applications to motion, forces, fields, and electrical currents, among other topics, to introduce the basics of physics relevant to computing.
-
-# physics for computer science –lab
+# physics for computer science–lab
 code:0302116
-prerequisites:physics for computer science students 
-physics for computer science students–lab focuses on the practical application of the concepts learned in the previous physics for computer science students course in a lab enviroment.
+program: computer science
+credit hours: 1
+year: 1
+language of instruction: english
+department: physics
+teaching methodology(face to face/blended/online): face to face
+taught by: ola hassunah, deyaaldeen arafah
+status(elective/required): required
+prerequisites: physics for computer science students
+textbook: university physics, sears and zemansky, 14th edition, 2016.
+prerequisites: physics for computer science students
+description: physics for computer science students–lab focuses on the practical application of the concepts learned in the previous physics for computer science students course in a lab environment.
 
-# linear algebra for computational sciences
-code: 1915101
-credit hours:3
-level of course:3
+# linear algebra 1
+code: 0301241
+program: computer science
+credit hours: 3
+year: 2
 language of instruction:english
-department:artificial intelligence
-teaching methodology(face to face/blended/online):face to face
-taught by:omar alkadi
-required/elective:elective
-prerequisites: calculus 1 
-linear algebra for computational sciences covers fundemental concepts of linear combinations such as vectors,vector spaces,matricies,matrix operations, linear functions, lines ,planes.
+department: artificial intelligence
+teaching methodology(face to face/blended/online): face to face
+taught by: omar abughneim, fuad kittaneh, hasan alnajjar
+status(elective/required): required
+prerequisites: calculus 1
+textbook: h. anton and c. rorres, elementary linear algebra (11th edition), wiley, 2015.
+description: linear algebra for computational sciences covers fundemental concepts of linear combinations such as vectors,vector spaces,matricies,matrix operations, linear functions, lines ,planes.
 
-# discrete mathematics 
-code: 1901101 
+# discrete mathematics
+code: 1901101
+program: computer science
 credit hours:3
-level of course:1
+year: 1
 language of instruction:english
-department:computer science 
+department: computer science
 teaching methodology(face to face/blended/online):blended
-taught by:lubna naser eddeen,ahmad al sharieh,mohammad al otoum, ahmad al hwaitat,ansar khouri,munseer hasan
-required/elective:required
-prerequisites: none 
-discrete mathematics studies the mathematical elements of computer science, covering topics like propositional logic, set theory, number theory, and graph theory, providing a mathematical foundation for understanding computational structures and algorithms.
-
-# fundamentals of information technology 
-code: 1904101 
-credit hours:3
-level of course:1
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):face to face
-taught by:dana alqudah,mallak alhassan,osama harfoshi,yazan al shamileh,ola shalbak,heba muslah
-required/elective:required
+taught by: lubna naser eddeen, ahmad al sharieh, mohammad al otoum, ahmad al hwaitat, ansar khouri, munseer hasan
+status(elective/required): required
 prerequisites: none
-fundamentals of information technology will introduce the fundamental knowledge of information technologies and it works as an introductory course for computer-related courses. it is a combination between a theoretical and a practical course. in particular, the course provides students a grounding knowledge on several areas of information technologies including cutting edge technologies, careers in it, basic concepts of cloud computing and web technologies, and a general perceptive of project management. students are also going to be introduced practically to hardware maintenance, software diagnostics and technical support. in addition, critical thinking methodologies and techniques will be discussed, including numbering systems, flowcharts and related case studies. operating systems such as linux/unix with, memory allocation, and an introduction to networks and security, and block chain concepts. the final part is concerned with technical applications needed such as excel, advanced excel, technical writing, report generating and type writing.
+textbook: discrete mathematics and its applications, kenneth h. rosen, mcgraw hill, 7th edition, 2012.
+description: discrete mathematics studies the mathematical elements of computer science, covering topics like propositional logic, set theory, number theory, and graph theory, providing a mathematical foundation for understanding computational structures and algorithms.
+
+# fundamentals of information technology
+code: 1904101
+program: computer science
+credit hours: 3
+year: 1
+language of instruction: english
+department: information technology
+teaching methodology(face to face/blended/online): face to face
+taught by: dana alqudah, mallak alhassan, osama harfoshi, yazan al shamileh, ola shalbak, heba muslah
+status(elective/required): required
+prerequisites: none
+textbook: computing essentials 2021, complete edition, timothy j. o'leary, linda i. o'leary, mcgraw-hill education, 2021.
+description: fundamentals of information technology will introduce the fundamental knowledge of information technologies and it works as an introductory course for computer-related courses. it is a combination between a theoretical and a practical course. in particular, the course provides students a grounding knowledge on several areas of information technologies including cutting edge technologies, careers in it, basic concepts of cloud computing and web technologies, and a general perceptive of project management. students are also going to be introduced practically to hardware maintenance, software diagnostics and technical support. in addition, critical thinking methodologies and techniques will be discussed, including numbering systems, flowcharts and related case studies. operating systems such as linux/unix with, memory allocation, and an introduction to networks and security, and block chain concepts. the final part is concerned with technical applications needed such as excel, advanced excel, technical writing, report generating and type writing.
 
 # computer skills for scientific faculties
 code: 1931102
+program: computer science
 credit hours:3
-level of course:1
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
+year: 1
+language of instruction: english
+department: computer science
+teaching methodology(face to face/blended/online): face to face
 taught by:nabeel alassaf,basima elshqeirat, mohammad atoum,lubna naser edden, oraib abualganam, ahmad al hwaitat, tamara hammori, fatima badwan, aroba bagaeen
-required/elective:required
+status(elective/required):required
 prerequisites: pass qualifications exam
-computer skills for scientific faculties covers the fundamental concepts of programming using c++. it covers the basic structures of the programming tools such as variable names; data types; control structures; arrays; functions; and enumeration data type.
+description: computer skills for scientific faculties covers the fundamental concepts of programming using c++. it covers the basic structures of the programming tools such as variable names; data types; control structures; arrays; functions; and enumeration data type.
 
-# logic design 
-code: 1901204 
-credit hours:1
-level of course:2
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:sami al sarhan
-required/elective:required
-prerequisites: discrete mathematics 
-logic design introduces the main concepts of logic design, including boolean algebra, digital logic gates, and the principles of combinational and sequential logic, foundational for understanding the hardware logic underlying computer architecture.
+# logic design
+code: 1901204
+program: computer science
+credit hours: 3
+year: 2
+language of instruction: english
+department: computer science
+teaching methodology(face to face/blended/online): face to face
+taught by: sami al sarhan
+status(elective/required): required
+prerequisites: discrete mathematics, physics for computer science, physics for computer science-lab
+textbook: digital design, m. mano and michael d. ciletti, pearson, 6th edition, 2017
+description: logic design introduces the main concepts of logic design, including boolean algebra, digital logic gates, and the principles of combinational and sequential logic, foundational for understanding the hardware logic underlying computer architecture.
 
-# computer organization 
-code: 1901322 
+# computer organization
+code: 1901322
+program: computer science
 credit hours:3
-level of course:2
+year: 2
 language of instruction:english
-department:computer science 
+department:computer science
 teaching methodology(face to face/blended/online):face to face
-taught by:sami sarhan
-required/elective:required
-prerequisites: logic design 
-computer organization introduces computer organization concepts, including the cpu, main memory, i/o organization, computer arithmetic, and an introduction to parallel processing, laying the groundwork for understanding the physical structure of computers.
+taught by: sami sarhan
+status(elective/required):required
+prerequisites: logic design
+textbook: computer system architecture, 1993, englewood cliffs, nj: prentice hall, 3rd edition.
+description: computer organization introduces computer organization concepts, including the cpu, main memory, i/o organization, computer arithmetic, and an introduction to parallel processing, laying the groundwork for understanding the physical structure of computers.
 
-# system programming and compilers 
-code: 1901476 
+# systems programming and compilers construction
+code: 1901476
+program: computer science
+credit hours: 3
+year: 3
+language of instruction: english
+department: computer science
+teaching methodology(face to face/blended/online): face to face
+taught by: sami sarhan
+status(elective/required): required
+prerequisites: computer organization, theory of computation
+textbook: compilers, principles, techniques, and tools, aho, latest edition, addison wesley.
+description: system programming and compilers introduces system programming concepts, focusing on assemblers, loaders, linkers, macro processors, and the phases of compilation, from syntax analysis to code optimization, equipping students with the knowledge to understand and develop compilers.
+
+
+# operating system
+code: 1901473
+program: computer science
 credit hours:3
-level of course:3
+year: 3
 language of instruction:english
-department:computer science 
+department:computer science
 teaching methodology(face to face/blended/online):face to face
-taught by:sami sarhan
-required/elective:required
-prerequisites: computer organization 
-system programming and compilers introduces system programming concepts, focusing on assemblers, loaders, linkers, macro processors, and the phases of compilation, from syntax analysis to code optimization, equipping students with the knowledge to understand and develop compilers.
+taught by: maen al assaf, mohammad qatawneh
+status(elective/required):required
+prerequisites: 	data structures-1
+description: operating system enables students to understand and implement operating systems functions in managing computer systems components, covering process and cpu scheduling, memory management, and security, among other topics.
 
 
-# computer architecture and assembly language
-code: 1911231
-credit hours:3
-level of course:2
+# theory of computation
+code: 1901241
+program: computer science credit hours:3
+year: 3
 language of instruction:english
-department:computer science 
+department:computer science
 teaching methodology(face to face/blended/online):face to face
-taught by:khair eddin sabri
-required/elective:elective
-prerequisites: discrete mathematics,fundamentals of information technology
-the computer architecture and assembly language course introduces students to basic concepts about computer architecture from security perspectives. its emphasis is on the lower level abstraction of a computer system. topics included: digital logic, instruction set, alu design, memory and assembly language programming. the course offers programming practice with an assembly language to provide practical application of concepts presented in class.	
-
-# computer systems performance
-code: 1901446
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):blended
-taught by:sherenaz alhaj baddar
-required/elective:elective
-prerequisites: computer organization,statistics
-the computer systems performance course aims at introducing students to basic principles and understanding of performance measurement and analysis
-
-# operating system 
-code: 1901473 
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:maen al assaf
-required/elective:required
-prerequisites: computer organization 
-operating system enables students to understand and implement operating systems functions in managing computer systems components, covering process and cpu scheduling, memory management, and security, among other topics.
-
-
-# theory of computation 
-code: 1901241 
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:abdallatif abu dalhoum
-required/elective:required
-prerequisites: discrete mathematics 
-theory of computation covers sets, relations, finite automata, regular languages, context-free grammars, turing machines, and the classification of problems into p and np classes, exploring the fundamental concepts of computational theory.
+taught by: abdallatif abu dalhoum
+status(elective/required): required
+prerequisites: discrete mathematics, computer skills for scientific faculties
+textbook: an introduction to formal languages and automata, peter linz, jones & bartlett learning, 6thedition, 2016
+description: theory of computation covers sets, relations, finite automata, regular languages, context-free grammars, turing machines, and the classification of problems into p and np classes, exploring the fundamental concepts of computational theory.
 
 # design and implementation of programming languages
 code: 1901471
+program: computer science
 credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:saleh abo soud
-required/elective:required
+year: 3
+language of instruction: english
+department: computer science
+teaching methodology(face to face/blended/online): face to face
+taught by: saleh abo soud
+status(elective/required): required
 prerequisites: theory of computation
-design and implementation of programming languages covers the underlying grammatical model for programming languages and their compilers (elementary data types, data structures and encapsulation, inheritance, statements, procedure invocation, storage management, distributed processing, and network programming). includes an advanced chapter on language semantics--program verification, denotational semantics, and the lambda calculus.
+description: design and implementation of programming languages covers the underlying grammatical model for programming languages and their compilers (elementary data types, data structures and encapsulation, inheritance, statements, procedure invocation, storage management, distributed processing, and network programming). includes an advanced chapter on language semantics--program verification, denotational semantics, and the lambda calculus.
 
-# compiler design
-code: 1901472
+# web applications development-1
+code: 1904121
+program: computer science
 credit hours:3
-level of course:4
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:raid jabri
-required/elective:elective
-prerequisites: theory of computation
-introduction to compiling; lexical analysis: specification and recognition of tokens, finite automata; syntax analysis: grammars, top-down and bottom-up passing; syntax-directed translation; semantic routines; storage-allocation strategies; code generation; error recovery
-
-# web applications development
-code: 1904121+1931102
-credit hours:3
-level of course:1
-language of instruction:english
-department:information technology
+year: 1
+language of instruction: english
+department: information technology
 teaching methodology(face to face/blended/online):blended
-taught by:jafar alqatawneh
-required/elective:required
-prerequisites: computer skills for scientific faculties
-web applications development aims to improve students’ ability in developing web applications using client-side programming including xhtml, cascading style sheet and javascript. students will have strong knowledge about the methods and tools used in developing web applications. students will know how the world wide web works to be able to design, implement and configure its services and applications effectively
+taught by: jafar alqatawneh
+status(elective/required):required
+prerequisites: fundamentals of information technology
+textbook: internet & world wide web- how to program, 4th edition, p.j. deitel, h. m. deitel, prentice hall, 2008
+description: web applications development aims to improve students’ ability in developing web applications using client-side programming including xhtml,
+cascading style sheet and javascript. students will have strong knowledge about the methods and tools used in developing web applications.
+students will know how the world wide web works to be able to design, implement and configure its services and applications effectively
 
-# advanced web development
-code:1904254
-credit hours:3
-level of course:3
-language of instruction:english
-department:information technology
+# web application development-2
+code:1904353
+program: computer science
+credit hours: 3
+year: 3
+language of instruction: english
+department: information technology
 teaching methodology(face to face/blended/online):blended
-taught by:bashar al shboul
-required/elective:required
-prerequisites:web applications development
-web applications development introduces students to the php programming language, the mysql commonly used
+taught by: bashar al shboul
+status(elective/required): elective
+prerequisites: web applications development-1
+textbook: internet & world wide web- how to program, 4th edition, p.j. deitel, h. m. deitel, prentice hall, 2008
+description: web applications development introduces students to the php programming language, the mysql commonly used
 to create dynamic websites, such as server-side scripting programming, database access for three tier
 data-driven applications, and asynchronous communication between client and server for fast
 partial update of client windows. the course comprises the fundamentals of programming with
@@ -239,1209 +259,407 @@ php, relational database design and operations with mysql, and web solutions usi
 mysql. it also includes the basics of using content management systems for managing website
 
 
-# data structures-1 
-code: 1901233 
+# data structures-1
+code: 1901233
+program: computer science
 credit hours:3
-level of course:2
-language of instruction:english
-department:computer science 
+year: 2
+language of instruction: english
+department: computer science
 teaching methodology(face to face/blended/online):blended
-taught by:bilal abu salih,heba saadeh,ansar khouri,lubna naser eddeen
-required/elective:required
-prerequisites: computer skills for scientific faculties 
-data structures-1 explores data structures and concepts such as records, classes, data abstraction, inheritance, composition, templates, lists, stacks, queues, and their implementations, emphasizing the importance of data organization for efficient algorithm design.
+taught by: bilal abu salih,heba saadeh,ansar khouri,lubna naser eddeen
+status(elective/required): required
+prerequisites: computer skills for scientific faculties
+textbook: c++ programming: program design including data structures, by d.s. malik, 8th edition.
+description: data structures-1 explores data structures and concepts such as records, classes, data abstraction, inheritance, composition, templates, lists, stacks, queues, and their implementations, emphasizing the importance of data organization for efficient algorithm design.
 
-# data structure-1 lab 
-code: 1901235 
-credit hours:1
-level of course:2
+# data structure-1 lab
+code: 1901235
+program: computer science credit hours:1
+year: 2
 language of instruction:english
-department:computer science 
+department:computer science
 teaching methodology(face to face/blended/online):face to face
 taught by:bilal abu salih,fatima badwan
-required/elective:required
-prerequisites: simultaneously with data structures 1 
-data structure-1 lab focuses on the practical implementation of data structures, assessing students through practical exams and quizzes, and is designed to complement the theoretical knowledge acquired in data structures-1 with hands-on experience.
+status(elective/required):required
+prerequisites: simultaneously with data structures 1
+textbook: c++ programming: program design including data structures, by d.s. malik, 8th edition.
+description: data structure-1 lab focuses on the practical implementation of data structures, assessing students through practical exams and quizzes, and is designed to complement the theoretical knowledge acquired in data structures-1 with hands-on experience.
 
-# data structures-2 
-code: 1901234 
+# data structures-2
+code: 1901234
+program: computer science
 credit hours:3
-level of course:2
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):blended
-taught by:ansar khouri
-required/elective:required
-prerequisites: data structures 1 
-data structures-2 advances into topics such as pointers, classes, virtual functions, overloading, recursion, linked lists (singly, doubly, circular), and binary trees, building on the foundations laid in data structures-1.
+year: 2
+language of instruction: english
+department:computer science
+teaching methodology(face to face/blended/online): blended
+taught by: ansar khouri
+status(elective/required): required
+prerequisites: data structures-1
+textbook: c++ data structures, a laboratory course 3rd edition. by stefan brandle, jonathan geisler, james roberge and david whittington.
+description: data structures-2 advances into topics such as pointers, classes, virtual functions, overloading, recursion, linked lists (singly, doubly, circular), and binary trees, building on the foundations laid in data structures-1.
 
-# data structure-2 lab 
-code: 1901236 
+# data structure-2 lab
+code: 1901236
+program: computer science
 credit hours:1
-level of course:2
-language of instruction:english
-department:computer science 
+year: 2
+language of instruction: english
+department:computer science
 teaching methodology(face to face/blended/online):face to face
-taught by:aroba bagaeen
-required/elective:required
-prerequisites: simultaneously with data structures 2 
-data structure-2 lab delves into the practical implementation of advanced data structures, with assessments based on practical quizzes and exams, providing students with the opportunity to apply their knowledge in real-world scenarios.
+taught by: aroba bagaeen
+status(elective/required):required
+prerequisites: simultaneously with data structures 2
+textbook: c++ data structures, a laboratory course 3rd edition. by stefan brandle, jonathan geisler, james roberge and david whittington.
+description: data structure-2 lab delves into the practical implementation of advanced data structures, with assessments based on practical quizzes and exams, providing students with the opportunity to apply their knowledge in real-world scenarios.
 
-# object oriented programming
-code: 1902110
-credit hours:3
-level of course:1
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:esra alzghoul
-required/elective:required
-prerequisites:none
-the object-oriented programming (oop) course covers the fundamental concepts of oop, such as encapsulation and information-hiding, inheritance, polymorphism, and abstraction. the course uses java programming language starting from the basic java syntax based on eclipse ide. it focuses on the understanding and practical mastery of oop principles and java components, such as classes, objects, input/output, scanner objects (to read either from the keyboard or a file), loops, decision-making, array and multidimensional array, data abstraction, methods, method overloading, objects garbage-collector, an introduction to exception-handling, etc. finally, it presents an introduction to javafx and its hierarchy based on java inheritance oop concepts, for developing rich client applications.
-
-# object oriented programming 1
-code: 1902211
-credit hours:3
-level of course:1
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:rola alkhalid,aseel alanani,esra alzghoul
-required/elective:required
-prerequisites:none
-object-oriented programming (oop) environment; input/output; loops; decision; methods; arrays and strings; encapsulation; object oriented programming; useful oo features; classes and objects; inheritance; polymorphism; applet
-
-# problem solving lab 
-code: 1901381 
+# problem solving lab
+code: 1901381
+program: computer science
 credit hours:1
-level of course:3
+year: 3
 language of instruction:english
-department:computer science 
+department:computer science
 teaching methodology(face to face/blended/online):face to face
-taught by:heba saadeh
-required/elective:required
-prerequisites: algorithms + data structures-2 lab 
-problem solving lab enables students to solve problems using various programming techniques and introduces advanced data structures, graph algorithms, and problem-solving strategies, aiming to develop comprehensive problem-solving skills.
+taught by: heba saadeh
+status(elective/required):required
+prerequisites: theory of algorithms, data structures-2 lab
+description: problem solving lab enables students to solve problems using various programming techniques and introduces advanced data structures, graph algorithms, and problem-solving strategies, aiming to develop comprehensive problem-solving skills.
 
-# theory of algorithms 
-code: 1901239 
+# theory of algorithms
+code: 1901341
+program: computer science
 credit hours:3
-level of course:3
+year: 3
 language of instruction:english
-department:computer science 
+department:computer science
 teaching methodology(face to face/blended/online):face to face
-taught by:sherenaz alhaj baddar,azzam talal sleit
-required/elective:elective
-prerequisites: data structures 
-theory of algorithms defines algorithms and covers algorithm design and analysis techniques, complexity analysis, and graph algorithms, providing a comprehensive overview of algorithmic thinking.
+taught by: sherenaz alhaj baddar, azzam talal sleit
+status(elective/required):elective
+prerequisites: data structures-1
+textbook: introduction to algorithms, thomas h. cormen, charles e. leiserson, ronald l. rivest, clifford stein, the mit press, third edition, 2009.
+description: theory of algorithms defines algorithms and covers algorithm design and analysis techniques, complexity analysis, and graph algorithms, providing a comprehensive overview of algorithmic thinking.
 
-# graph theory 
-code: 1901443 
+# graph theory
+code: 1901443
+program: computer science
 credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:basim elshqeirat
-required/elective:required
-prerequisites: theory of algorithms 
-graph theory covers concepts of graphs, including undirected and directed graphs, computer representation of graphs, algorithms for shortest paths, and np-complete graph problems, offering a deep dive into the mathematical structures underpinning networked systems.
+year: 3
+language of instruction: english
+department: computer science
+teaching methodology(face to face/blended/online): face to face
+taught by: basima elshqeirat
+status(elective/required): required
+prerequisites: theory of algorithms
+textbook: introduction to graph theory, d.b. west, prentice-hall of india/pearson, 2009
+description: graph theory covers concepts of graphs, including undirected and directed graphs, computer representation of graphs, algorithms for shortest paths, and np-complete graph problems, offering a deep dive into the mathematical structures underpinning networked systems.
 
 # introduction to database systems
 code: 1902223
+program: computer science
 credit hours:3
-level of course:2
+year: 2
 language of instruction:english
-department:computer information systems 
+department:computer information systems
 teaching methodology(face to face/blended/online):face to face
 taught by:marwan altaweel,fawaz alzghoul,omar aladwan,esra alzghoul,reem alfayez
-required/elective:required
+status(elective/required):required
 prerequisites: data structures-1
-the course objectives are to provide students with an overview of database management system architecture and environment, an understanding of the basic database design and implementation techniques, and a practical experience of designing and building a relational database. other objectives of this course are to make the student able to discuss and explain the importance of the data, the difference between file management and database. furthermore, it enables applying conceptual design methodologies for databases and learning about the architecture and environments of the database management system (the ansi-sparc model). it also enables the student to design and evaluate suitable security and integrity levels for database schemas.
+textbook: none
+description: the course objectives are to provide students with an overview of database management system architecture and environment, an understanding of the basic database design and implementation techniques, and a practical experience of designing and building a relational database. other objectives of this course are to make the student able to discuss and explain the importance of the data, the difference between file management and database. furthermore, it enables applying conceptual design methodologies for databases and learning about the architecture and environments of the database management system (the ansi-sparc model). it also enables the student to design and evaluate suitable security and integrity levels for database schemas.
 
 # mobile wireless networks
 code: 1901469
+program: computer science
 credit hours:3
-level of course:4
+year: 4
 language of instruction:english
-department:computer science 
+department:computer science
 teaching methodology(face to face/blended/online):face to face
-taught by:saher al manaseer 
-required/elective:elective
-prerequisites: data structures
-the mobile wireless networks course covers topics such as wireless networks and their basic operation, different types of wireless technologies and systems, the basics of how they operate, different types of wireless voice, data and broadcast services, key commercial systems. wi-fi wireless networks, bluetooth wireless technology, gsm cellular networks, cellular internet access via wireless access protocol (wap), gprs and umts networks, wireless networks operating system; symbian os, palm os. mobile ip and mobile routing, transport layer over wireless networks, mobile wireless network applications.
+taught by:saher al manaseer
+status(elective/required):elective
+prerequisites: data structures-1
+textbook: agrawal, dharma, and qing-an zeng. introduction to wireless and mobile systems. cengage learning, 2015.
+description: the mobile wireless networks course covers topics such as wireless networks and their basic operation, different types of wireless technologies and systems, the basics of how they operate, different types of wireless voice, data and broadcast services, key commercial systems. wi-fi wireless networks, bluetooth wireless technology, gsm cellular networks, cellular internet access via wireless access protocol (wap), gprs and umts networks, wireless networks operating system; symbian os, palm os. mobile ip and mobile routing, transport layer over wireless networks, mobile wireless network applications.
 
-# computer networks 
-code: 1931361 
+# computer networks-1
+code: 1901362
+program: computer science
 credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):blended
-taught by:iman almomani,saleh alsharaeh,sherenaz alhaj baddar
-required/elective:required
-prerequisites: data structures 
-computer networks offers a broad overview of computer networks, including network applications, classifications, topologies, layers, performance measures, transmission media, protocols, and the architecture of the internet and local area networks.
+year: 3
+language of instruction: english
+department: computer science
+teaching methodology(face to face/blended/online): blended
+taught by: iman almomani,saleh alsharaeh, sherenaz alhaj baddar
+status(elective/required): required
+prerequisites: data structures-1
+textbook: data communications and networking fourth edition behrouz a. forouzan
+description: computer networks offers a broad overview of computer networks, including network applications, classifications, topologies, layers, performance measures, transmission media, protocols, and the architecture of the internet and local area networks.
 
-# computer networks 2 
+# computer networks-2
 code: 1901461
+program: computer science
 credit hours:3
-level of course:4
+year: 4
 language of instruction:english
-department:computer science 
+department:computer science
 teaching methodology(face to face/blended/online):blended
 taught by:saher manaseer
-required/elective:elective
-prerequisites: computer networks 
-computer networks 2 describes the architecture, components, and operations of routers and switches in a small network, focusing on configuring routers and switches for basic functionality.
+status(elective/required): elective
+prerequisites: computer networks-1
+textbook: data communications and networking fourth edition behrouz a. forouzan
+description: computer networks 2 describes the architecture, components, and operations of routers and switches in a small network, focusing on configuring routers and switches for basic functionality.
 
-# network programming 
-code: 1901442 
+# network programming
+code: 1901442
+program: computer science
 credit hours:3
-level of course:3
+year: 3
 language of instruction:english
-department:computer science 
+department:computer science
 teaching methodology(face to face/blended/online):face to face
-taught by:lubna naser eddeen 
-required/elective:elective
-prerequisites: computer networks + programming in special languages 
-network programming covers basic network programming concepts and the java network programming api, preparing students to implement networked applications using java.
+taught by: lubna naser eddeen, sherenaz alhaj baddar
+status(elective/required): elective
+prerequisites: computer networks-1
+textbook: elliotte rusty harold, java network programming, 4th edition, o'reilly 2013.
+description: network programming covers basic network programming concepts and the java network programming api, preparing students to implement networked applications using java.
 
-# computer security 
-code: 1901463 
+# computer security
+code: 1901463
+program: computer science
 credit hours:3
-level of course:4
+year: 4
 language of instruction:english
-department:computer science 
+department:computer science
 teaching methodology(face to face/blended/online):blended
 taught by:khair eddin sabri
-required/elective:required
-prerequisites: computer networks 
-computer security explains security protocols, cryptographic algorithms, and various security measures, focusing on protecting computer systems and networks from unauthorized access and cyber threats.
+status(elective/required):required
+prerequisites: computer networks-1
+textbook:  cryptography and network security principles and practices, william stallings, pearson: prentice hall, 7th edition, 2016.
+description: computer security explains security protocols, cryptographic algorithms, and various security measures, focusing on protecting computer systems and networks from unauthorized access and cyber threats.
 
-
-# principles of information security
-code: 1911194
+# digital forensics
+code: 1901483
+program: computer science
 credit hours:3
-level of course:1
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:mohammad qatawneh,khair eddeen sabri,maen al assaf
-required/elective:required
-prerequisites: none
-this course introduces students to a basis for cyber security. topics included are: security properties (integrity, confidentiality, availability), authentication and access rights management, vulnerabilities and attacks, and principles of security models and design.
+year: 3
+language of instruction: english
+department: computer science
+teaching methodology(face to face/blended/online): face to face
+taught by: khair eddin sabri
+status(elective/required): elective
+prerequisites: 	computer security
+textbook: web security for developers: real threats, practical defense, malcolm mcdonald, william pollock, 2020.
+description: the security of web applications course introduces students to a foundation in the theories and practice relating to web application security. topics covered: web applications vulnerabilities and attacks, building secure web applications, concepts associated with deploying and securing a typical http environment as well as defensive techniques that can be employed. teaching of this course will be based on active learning methodology such that students will work in groups to discuss and analyze the vulnerability in web applications.
 
-
-# cryptography
-code: 1911241
+# programming techniques in special languages
+code: 1901239
+program: computer science
 credit hours:3
-level of course:4
+year: 3
 language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):blended
-taught by:oraib abualganam,ahmad al hwaitat
-required/elective:required
-prerequisites: discrete mathematics, principles of security
-the cryptography course introduces cryptography algorithms and mechanisms including: symmetric key algorithms such as aes and 3des, public key algorithms such as rsa and ecc, digital signature, hash functions and mac. the course provides security analysis to the algorithms as well.
-
-# information security and privacy
-code: 1911322
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:khair eddeen sabri,iman almomani,mohammad atoum
-required/elective:required
-prerequisites: introduction to database systems, computer network
-this course provides an introduction to information security and privacy. the course covers topics related to cryptography such as symmetric and asymmetric encryptions, hash functions, digital signatures, key management, and public key infrastructures. also, the course covers topics related to network security as packet sniffing, spoofing, tls, ipsec, firewalls, wireless networks security. furthermore, topics related to authentication, authorization, web security and steganography will be covered. risk analysis and ethics, and their applications to the development of a secure healthcare system as a case study will be presented. 
-
-
-
-# programming for cyber security
-code: 1911211
-credit hours:3
-level of course:2
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:mohammad otoum
-required/elective:required
-prerequisites: principles of security, object oriented programming
-the programming for cyber security course helps students learn the essentials for programming in python 3. topics include: fundamentals of python programming, object-oriented programming using python, data structures and algorithms, and python packages
-
-# security risk management & ethics
-code: 1911221
-credit hours:3
-level of course:2
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:mohammad qatawneh
-required/elective:elective
-prerequisites: 1911101
-the security risk management & ethics course introduces students to the three key elements of risk management. topics covered: risk analysis, risk assessment, and vulnerability assessment. both quantitative and qualitative methodologies will be discussed as well as how security metrics can be modeled, monitored, and controlled. several case studies will be used to demonstrate the risk management principles featured throughout the course. risk assessments on the selected case study scenarios will be conducted by team work. mitigation plans will be developed, and the results of their analysis will be presented, both in written reports and oral presentations. ethical implications of security procedures will be studied as well.
-
-
-# security of web applications
-code: 1911351 
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:khair eddin sabri
-required/elective:elective
-prerequisites: web applications development, introduction to database systems
-the security of web applications course introduces students to a foundation in the theories and practice relating to web application security. topics covered: web applications vulnerabilities and attacks, building secure web applications, concepts associated with deploying and securing a typical http environment as well as defensive techniques that can be employed. teaching of this course will be based on active learning methodology such that students will work in groups to discuss and analyze the vulnerability in web applications.
-
-# programming methodologies
-code: 1901237
-credit hours:3
-level of course:2
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:sherenaz alhaj baddad
-required/elective:elective
-prerequisites: data structures-1 
-the programming methodologies course would basically cover the following areas: multi-threading and synchronization, storage and i/o ( i.e.memory and garbage collection, file structure, i/o streams, serialization), defensive programming techniques (error handling, exceptions, assertions, debugging aids), current programming trends (functional and/or scripting), code testing, and tuning strategies and techniques.
-
-# programming in special languages
-code: 1901238
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
+department:computer science
 teaching methodology(face to face/blended/online):face to face
 taught by:lubna nassir edeen
-required/elective:elective
-prerequisites:none
-object-oriented programming (oop) environment; input/output; loops; decision; function; array and strings; data structures; encapsulation; advanced variables; object oriented programming; useful oop features; class and object; polymorphism; exceptions handing; applet; i/o streams; threads, files. applying all topics through weekly exercises in lab.
+status(elective/required):elective
+prerequisites: data structures-1
+textbook: the practice of computing using python 3, william punch, richard enbody, addison-wesley, 3rd edition.
+description: object-oriented programming (oop) environment; input/output; loops; decision; function; array and strings; data structures; encapsulation; advanced variables; object oriented programming; useful oop features; class and object; polymorphism; exceptions handing; applet; i/o streams; threads, files. applying all topics through weekly exercises in lab.
 
-# system programming and management
-code: 1901376
+# parallel and distributed systems
+code: 1901468
+program: computer science
+credit hours: 3
+year: 3
+language of instruction: english
+department: computer science
+teaching methodology(face to face/blended/online): face to face
+taught by: maen al assaf
+status(elective/required):required
+prerequisites: 	computer organization, theory of algorithms
+textbook: distributed systems: concepts and design, george coulouris, jean dollimore, tim kindberg, gordom blair, addison-wesley, 5th edition, 2011.
+description: parallel and distributed systems explores concepts related to distributed systems, including design issues, communication in distributed systems, and synchronization, preparing students to design and implement distributed computing systems.
+
+# modeling and simulation
+code: 1901353
+program: computer science
 credit hours:3
-level of course:3
+year: 3
 language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:raid jabri
-required/elective:required
-prerequisites: computer organization
-the system programming and management course covers the following: assemblers: basic functions, machine-dependent features, machine-independent features, assembler design options; loaders and linkers: basic functions, machine-dependent features, machine independent features, loader design options; macro processors: basic functions, macro processor design options; compilers: grammars, lexical analysis, syntax analysis, code generation; drivers. weekly practice in the lab.
+department:computer science
+teaching methodology(face to face/blended/online): face to face
+taught by: ahmad sharieh, lubna nasir aldeen
+status(elective/required):required
+prerequisites: 	principles of statistics, data structures-2
+textbook: simulation modeling and analysis , 5/e, by averil m law and w. david kelton, mcgraw hill,2015.
+description: modeling and simulation introduces the fundamental concepts of computer simulation, including model design, random number generation, and discrete-event simulation, aimed at teaching students how to develop and analyze simulation models.
 
-
-# network security
-code:1911361
-prerequisites: computer networks
-network security covers the basic concepts of network security in three main areas: physical, technical, and administrative.
-
-
-# parallel processing
-code: 1901464
+# numerical analysis
+code: 1901351
+program: computer science
 credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:raid jabri
-required/elective:required
-prerequisites: operating system
-introduction to high-performance computing, processor architectures, memory systems, data and parallel decompositions, parallel languages and architectures, multiprocessors, multi-computers; routing topologies; shared memory and passage passing parallel processing, pram model (exclusive versus concurrent reads and writes) and sample applications
-	
-# distributed systems
-code: 1901466
+year: 3
+language of instruction: english
+department: computer science
+teaching methodology(face to face/blended/online): face to face
+taught by: ahmad sharieh
+status(elective/required):required
+prerequisites: linear algebra 1, computer skills for scientific faculties
+textbook: : stephen c. chapra and rymond p. canale, numerical methods for engineerins, edition 8, mc craw hill education, 2018.
+description: numerical analysis introduces numerical methods for error analysis, solving equations, and numerical integration/differentiation, offering a practical approach to solving mathematical problems computationally.
+
+# special topics
+code: 1901494
+program: computer science
 credit hours:3
-level of course:3
+year: 3
 language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:maen alassaf
-required/elective:required
-prerequisites: computer networks 1
-distributed system basic concepts: hardware, software, design issues; communication in distributed systems; layered protocols; synchronous vs. asynchronous communication mechanisms; client-server model vs. peer-to-peer model; remote method invocation (rmi) and remote procedure call (rpc); group communication; processes vs. threads; synchronization: physical vs. logical clocks, lamport clocks, distributed mutual exclusion, election algorithms; distributed transactions; case studies.
-
-# parallel and distributed systems 
-code: 1901468 
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:maen al assaf
-required/elective:required
-prerequisites: computer networks 
-parallel and distributed systems explores concepts related to distributed systems, including design issues, communication in distributed systems, and synchronization, preparing students to design and implement distributed computing systems.
-
-
-# modeling and simulation 
-code: 1901353 
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):online
-taught by:ahmad sharieh
-required/elective:required
-prerequisites: data structures 
-modeling and simulation introduces the fundamental concepts of computer simulation, including model design, random number generation, and discrete-event simulation, aimed at teaching students how to develop and analyze simulation models.
-
-# numerical analysis 
-code: 1901351 
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:ahmad sharieh
-required/elective:required
-prerequisites: computer skills for scientific faculties + calculus 1 
-numerical analysis introduces numerical methods for error analysis, solving equations, and numerical integration/differentiation, offering a practical approach to solving mathematical problems computationally.
-
-
-# special topics 
-code: 1901494 
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:khair basima elshqeirat
-required/elective:elective
-prerequisites: theory of algorithms 
-special topics covers different important techniques used in designing and analyzing efficient algorithms, including dynamic programming and greedy algorithms, focusing on advanced algorithmic solutions to computational problems.
-
-# programming techniques in special languages 
-code: 1901239 
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:ahmad sharieh
-required/elective:elective
-prerequisites: data structures -1 
-programming techniques in special languages aims to equip students with knowledge and skills to build robust programs using defensive programming techniques, current programming trends, and problem-solving techniques, using languages like c++, java, or python.
+department:computer science
+teaching methodology(face to face/blended/online): face to face
+taught by: basima elshqeirat
+status(elective/required): elective
+prerequisites: data structures-1
+textbook: jeffrey j. mcconnell, "analysis of algorithms: an active learning approach", second edition, jones& bartlett, 2008.
+description: special topics covers different important techniques used in designing and analyzing efficient algorithms, including dynamic programming and greedy algorithms, focusing on advanced algorithmic solutions to computational problems.
 
 # computer graphics
 code: 1901359
-credit hours:3
-level of course:4
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):blended
-taught by: hazem hiary 
-required/elective:required
-prerequisites: data structures 
-computer graphics provides an overview of computer graphics applications, including graphics output primitives and their attributes, 2d and 3d geometric transformations, 2d viewing and clipping, graphical user interface attributes, and an introduction to opengl programming. example applications developed in lectures using c++ and opengl will demonstrate the techniques presented. a project involving well-known 3d computer graphics software is required.
+program: computer science
+credit hours: 3
+year: 3
+language of instruction: english
+department: computer science
+teaching methodology(face to face/blended/online): face to face
+taught by: hazem hiary
+status(elective/required): required
+prerequisites: data structures-1
+textbook: computer graphics with opengl, hearn and baker, pearson, 4th edition
+description: computer graphics provides an overview of computer graphics applications, including graphics output primitives and their attributes, 2d and 3d geometric transformations, 2d viewing and clipping, graphical user interface attributes, and an introduction to opengl programming. example applications developed in lectures using c++ and opengl will demonstrate the techniques presented. a project involving well-known 3d computer graphics software is required.
 
 # pattern recognition
 code: 1901452
+program: computer science
 credit hours:3
-level of course:4
+year: 4
 language of instruction:english
-department:computer science 
+department:computer science
 teaching methodology(face to face/blended/online):face to face
-taught by:hazem hiari
-required/elective:elective
+taught by: hazem hiari
+status(elective/required):elective
 prerequisites: computer graphics
-the pattern recognition course covers pattern recognition essentials with topics that are suitable for undergraduate levels in computer science and most engineering specialties. it covers wide understanding of different related topics, i.e., pattern recognition systems, preprocessing and feature extraction, theories of supervised and unsupervised learning, object classification and recognition, artificial neural networks, and other topics as well.
+textbook: pattern recognition and machine learning, bishop, springer, 2006.
+description: the pattern recognition course covers pattern recognition essentials with topics that are suitable for undergraduate levels in computer science and most engineering specialties. it covers wide understanding of different related topics, i.e., pattern recognition systems, preprocessing and feature extraction, theories of supervised and unsupervised learning, object classification and recognition, artificial neural networks, and other topics as well.
 
-# information visualization 
+# information visualization
 code: 1901457
-credit hours:3
-level of course:4
+program: computer science credit hours:3
+year: 4
 language of instruction:english
-department:computer science 
+department:computer science
 teaching methodology(face to face/blended/online):face to face
 taught by:jamal alsakran
-required/elective:required
+status(elective/required):required
 prerequisites: computer graphics
-the information visualization course is an introduction to key design principles and techniques for interactively visualizing data. the major goals of this course are to understand how visual representations can help in the analysis and understanding of complex data, how to design effective visualizations, and how to create your own interactive visualizations using modern web based frameworks
-
-# natural language processing
-code: 1902345
-credit hours:3
-level of course:2
-language of instruction:english
-department:artifical intelligence
-teaching methodology(face to face/blended/online):face to face
-taught by:omar alkadi
-required/elective:required
-prerequisites: none
-the natural language processing course examines a range of issues concerning computer systems that can process human languages. among the issues to be discussed are morphological analysis, finite state automata, syntactic processing, parsing with cfg, information retrieval, knowledge representation, and nlp applications.
-
-
-
-# object oriented programming 2
-code: 1902213
-credit hours:3
-level of course:2
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:loai alnemer
-required/elective:required
-prerequisites: object oriented programming 1
-the object oriented programming 2 course will cover the following topics: graphics: coordinate systems and drawing methods, graphical user interface and event handling, exception handing, multithreading and strings
-
-
-# advanced database systems
-code: 1902423
-credit hours:3
-level of course:4
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:reem al fayez
-required/elective:required
-prerequisites: introduction to database systems
-advanced database systems aims to give students an overall understanding of advanced aspects of database management systems including complex data types, application interfaces, concurrency control, and transaction management, database recovery, indexing and hashing, data warehousing, and olap. in addition to case studies about data integration between heterogeneous databases.
+textbook: visualization analysis and design, tamara munzner, crc press (2014) – vad
+description: the information visualization course is an introduction to key design principles and techniques for interactively visualizing data. the major goals of this course are to understand how visual representations can help in the analysis and understanding of complex data, how to design effective visualizations, and how to create your own interactive visualizations using modern web-based frameworks.
 
 # introduction to software engineering
 code: 1902371
-credit hours:3
-level of course:2
+program: computer science
+credit hours: 3
+year: 2
 language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
+department:computer information systems
+teaching methodology(face to face/blended/online): face to face
 taught by:rana yousef,hamad alsawalqah
-required/elective:required
-prerequisites: none
-introduction to software provides a general introduction to software engineering. it introduces concepts such as software processes and agile methods, and essential software development activities, from initial specification through to system maintenance. the course also includes practice in lab to express the role of uml for visualizing, specifying, constructing, and documenting software system. project management and professional software engineering practice will also be covered. case studies provide practical examples for many of these concepts.
+status(elective/required):required
+prerequisites: introduction to database systems
+textbook: none
+description: introduction to software engineering provides a general introduction to software engineering.
+it introduces concepts such as software processes and agile methods, and essential software development activities, from initial specification through to system maintenance. the course also includes practice in lab to express the role of uml for visualizing, specifying, constructing, and documenting software systems. project management and professional software engineering practice will also be covered. case studies provide practical examples for many of these concepts.
 
-# advanced java programming
-code: 1902214
-credit hours:3
-level of course:2
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:esra alzaghoul
-required/elective:required
-prerequisites: object oriented programming
-advanced java programming introduces advanced programming skills based on core concepts of object-oriented programming (oop) and design using java language. it builds on the oop course to finalize a java full-stack application. this course starts with using some java classes such as string, stringbuffer and stringbuilder, and stringttokenizer for string-processing. it also focuses on i/o operations using files and streams, and javafx for developing rich client applications. in addition to, gui components, event-handling, generics, exception-handling, multithreading, and javafx eventhandler using inner class, anonymous class, and lambda expression. finally, it introduces databases connectivity using jdbc. the jdbc case study is based on mysql database and eclipse ide.
-
-# advanced multimedia 
-code: 1902450
-credit hours:3
-level of course:4
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:ammar m huneiti
-required/elective:required
-prerequisites:none
-advanced multimedia is mainly designed to further introduce the theoretical concepts of digital media including images, audio, animation and video. different types of digital media are outlined and their digital storage process is explained in detail such as the gif standard and file organization. the digital media encoding and decoding concepts and dithering techniques are explained. in addition, different types of digital media compression techniques are introduced. this includes lossless and lossy techniques such as jpeg, mpeg and h.26x video compression standards. the main algorithm used in these compressors are outlined. in addition, performance issues such as hardware, software, internet-based broadcast, and analog vs digital concerns are also discussed.
-
-# advanced software engineering
-code: 1902472
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):blended
-taught by:amjad hudaib
-required/elective:required
-prerequisites: introduction to software engineering
-advanced software engineering helps students understand the advanced topics of software engineering, including approaches to development and process improvement. advanced software engineering presents requirements analysis, software design: architectural design, service oriented architecture, distributed software engineering; formal specification, software verification and validation, maintenance; evolution, sw documentation, sw reuse, re-engineering and reverse qf-aqac-03.02.1.3 2 engineering
-
-# artificial intelligence 
-code: 1902342 
-credit hours:3
-level of course:4
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:nadim obeid
-required/elective:required
-prerequisites: none 
-artificial intelligence introduces ai concepts, including logic programming, search methods, expert systems, and machine learning, preparing students for developing ai-based applications and understanding ai methodologies.
-
-
-# basics of computing
-code: 1932099
-credit hours:3
-level of course:1
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:yousef majdalawi
-required/elective:required
-prerequisites:none
-computer essentials course introduces fresh students (first year) to the basic concepts in information technology and communications and gives necessary practical skills to use computer and common computer applications. it includes an introduction to computer system, types of computers, basic computer components (hardware, software), activities that can be used in our daily life (such as ecommerce, e-banking, e-government), covers the skills needed to understand the key concepts relating to the security, privacy, and introduces students to the legal issues of computer ethics. the course also aims to enhance students’ practical skills in using effectively the operating system such as windows 10, word processing and presentation applications, as well as email etiquette and managing computer files. this course enables students to gain the practical basic skills in using the university of jordan website, library, students email and students' portal.
-
-
-# computer information systems-certified software
-code: 1902458
-credit hours:3
-level of course:4
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:rana yousef
-required/elective:required
-prerequisites: object oriented programming-1 (java)
-certified software helps students learn the essentials for android application development, and provides students with the required skills for the design and implementation of different mobile applications. topics include: building user interfaces, using internet resources, managing files and preferences, using maps and location based services, working with audio, video and using the camera. this course is a lab-based course which includes in-class practical assignments and tasks.
-
-# computer science-certified software
-code: 1902459
-credit hours:3
-level of course:4
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:sherenaz alhaj baddar
-required/elective:elective
-prerequisites: none
-this course is designed to help students to gain rapid software application skills such as: solaris system software, sun, unix, cisco, mse and others. in this course the student will be able to develop and design a web applications and services, mobile applications and others using certified software's from microsoft company or certified software's to achieve the final goal of the course which is getting an intentional certificate from international companies. 
-
-# computer assisted learning
-code: 1902355
-credit hours:3
-level of course:2
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):blended
-taught by:thair hamtini
-required/elective:required
-prerequisites: web development - 1
-computer assisted learning will introduce students to a variety of learning technologies and multimedia authoring tools to use for designing and developing effective elearning. it will discuss the essential concepts of designing engaging elearning content for various learners who bring different needs, styles, and wants. topics include introduction to elearning, key learning theories, elearning development methods, dynamic instructional design model, elearning storyboarding with text, animation, and scenarios, academic software, administrative software, virtual reality, augmented reality, elearning authoring tools, and learning management systems (lms).
-
-# computer skills-1
-code: 1902100
-credit hours:3
-level of course:1
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:hiba ali mohammad
-required/elective:required
-prerequisites: none 
-remedial computer skills course introduces students to information technology and communication. it includes an introduction to information technology, structure of digital computer systems, computer software (system sw and application sw), internet and networks, security and use of ict in our daily life. the course also aims to enhance students’ practical skills in using effectively the following software packages: microsoft windows 7, ms-office 2007(word), and internet browsers such as internet explorer and google chrome.
-
-# computing ethics and documentation
-code: 1902202/1902203
+# documentation and ethics
+code: 1902202
+program: computer science
+credit hours: 3
+year: 2
+language of instruction: english
+department: computer information systems
+teaching methodology(face to face/blended/online): face to face
+taught by:rana yousef,hamad alsawalqah
+status(elective/required): required
 prerequisites: fundamentals of information technology
-computing ethics and documentation aims to equip students with the necessary computing ethics and technical writing skills. it introduces computing ethics by adhering to the most well-known world standard code of ethics from national and international professional societies, organizations, and governmental bodies (cei, acm, ieee, bcs, e-crime, e-transaction laws, artificial intelligence (ai) in jordan, and code of conduct in the university of jordan). in addition, it introduces different types of technical reports (books, articles, qf-aqac-03.02.1.3 2 proposals, user manual, progress reports, graduation project, and memorandums) and how to write them professionally and ethically with proper data representation, citation, and referencing. this course covers ethical writing through many practical skills including referencing styles, citation, quotation, and also through the awareness of the good document requirements, plagiarism forms, copy rights, fair use, creative commons, and intellectual property rights. moreover, it covers computing ethics including ethics in it profession, programming ethics, ai ethics, and ethical computing responsibility from the professional, philosophical, and social perspectives. further discussions about ai risks and the possibility of agi and technological singularity will take place. other ethical issues in technology are covered including electronic crimes, computer abuse, cyberbullying and stalking, privacy, confidentiality, anonymity, ethics in social media, and freedom of expression through the cyber space.
-
-# database management systems
-code: 1902224
-credit hours:3
-level of course:2
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):online
-taught by:marwan al tawil, fawaz alzoghoul,reem alfayez
-required/elective:required
-prerequisites: object-oriented programming
-database management systems objectives are to provide students with an overview of database management system architecture and environment, an understanding of the basic database design and implementation techniques, and a practical experience of designing and building a relational database. other objectives of this course are to make the student able to discuss and explain the importance of the data, the difference between file management and database management systems. furthermore, it enables applying conceptual design methodologies for databases and learning about the architecture and environments of the database management system (the ansi-sparc model). it also enables the student to designand evaluate suitable security and integrity levels for database schemas.
-
-
-# database technologies and applications
-code: 1902324
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:reem al fayez
-required/elective:required
-prerequisites: database management systems
-database technologies and applications covers the principles of distributed databases and how they differ from centralized databases. it focuses on understanding the concepts of designing and managing distributed databases. furthermore, the course introduces the problems of distributed data management, especially in the case of heterogeneous databases. database technologies and applications will cover the most broadly adopted systems and techniques in the field of data integration for distributed environments, such as data warehousing, big data management and nosql alternatives. case studies in the field of healthcare information systems and e-commerce information systems are given as examples for data integration issues. database technologies and applications will provide a cohesive overview regarding the importance of data management and data analytics in the era we are living.
-
-
+textbook: none
+description: computing ethics and documentation aims to equip students with the necessary computing ethics and technical writing skills. it introduces computing ethics by adhering to the most well-known world standard code of ethics from national and international professional societies, organizations, and governmental bodies (cei, acm, ieee, bcs, e-crime, e-transaction laws, artificial intelligence (ai) in jordan, and code of conduct in the university of jordan). in addition, it introduces different types of technical reports (books, articles, proposals, user manual, progress reports, graduation project, and memorandums) and how to write them professionally and ethically with proper data representation, citation, and referencing. this course covers ethical writing through many practical skills including referencing styles, citation, quotation, and also through the awareness of the good document requirements, plagiarism forms, copy rights, fair use, creative commons, and intellectual property rights. moreover, it covers computing ethics including ethics in it profession, programming ethics, ai ethics, and ethical computing responsibility from the professional, philosophical, and social perspectives. further discussions about ai risks and the possibility of agi and technological singularity will take place. other ethical issues in technology are covered including electronic crimes, computer abuse, cyberbullying and stalking, privacy, confidentiality, anonymity, ethics in social media, and freedom of expression through the cyberspace.
 
 # digital image processing
 code: 1902454
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:huda karajeh
-required/elective:required
+program: computer science
+credit hours: 3
+year: 3
+language of instruction: english
+department: computer information systems
+teaching methodology(face to face/blended/online): face to face
+taught by: huda karajeh
+status(elective/required): required
 prerequisites: computer graphics
-digital image processing aims to provide an introduction to the basic concepts, techniques, and algorithms of digital image processing. it explains the fundamental techniques of the following: acquisition of the digital images (equipment, sampling, quantization, and color representation), enhancement of digital images in spatial and in frequency domains (smoothing, sharpening, edge detection, thresholding, histogram equalization, morphological operations, etc.), conversion the digital image into fourier and other transforms, feature identification, image compression, application to models of human and machine vision. in addition, students will be able to apply the image processing techniques to solve real-world problems in any domain. specifically, students are required to work through a case study in the healthcare domain and show how to deploy the image processing techniques to perform enhancement, segmentation, analysis, diagnosis, etc. into the medical images. digital image processing will also include practical demonstrations on using the state-of-the-art matlab-image processing software package.
+textbook: none
+description: digital image processing aims to provide an introduction to the basic concepts, techniques, and algorithms of digital image processing. it explains the fundamental techniques of the following: acquisition of the digital images (equipment, sampling, quantization, and color representation), enhancement of digital images in spatial and in frequency domains (smoothing, sharpening, edge detection, thresholding, histogram equalization, morphological operations, etc.), conversion the digital image into fourier and other transforms, feature identification, image compression, application to models of human and machine vision. in addition, students will be able to apply the image processing techniques to solve real-world problems in any domain. specifically, students are required to work through a case study in the healthcare domain and show how to deploy the image processing techniques to perform enhancement, segmentation, analysis, diagnosis, etc. into the medical images. digital image processing will also include practical demonstrations on using the state-of-the-art matlab-image processing software package.
 
-# distributed databases
-code: 1902425
+# multimedia networking
+code: 1901467
+program: computer science
 credit hours:3
-level of course:4
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:reem al fayez
-required/elective:required
-prerequisites: database management systems
-distributed databases covers the principles of distributed databases and how they differ from centralized databases. it focuses on understanding the concepts of designing and managing distributed databases. furthermore, the course introduces the problems of distributed data management, especially in the case of heterogeneous databases.
-
-# geographical information systems
-code: 1902459
-credit hours:3
-level of course:4
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:mohd belal alzoubi
-required/elective:required
-prerequisites: none
-the purpose of geographical information systems course is to introduce the concept of geographic information systems (gis). this includes what can gis do?, spatial data, gis data structure, raster verses vector data, topology and spatial relationships, data acquisition, entry, and quality. in addition this course outlines geographic database and inventory operations, basic geographic data analysis, and geographic systems output. the course will also include practical demonstrations on using the state-of-the art gis software package esri’s arcgis.
-
-
-# human computer interaction
-code: 1902353
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:yousef majdalawi
-required/elective:required
-prerequisites: computer graphics
-introduction to human computer interaction; design, implementation and evaluation of interactive computing system for human use; ergonomics; components of an interactive system; human; computer; interaction design; interaction design activities; data gathering; prototyping; evaluation paradigms and techniques; agents and natural language processing the course gives students an understanding of interaction design process, the content of the course enables the students to deploy interaction design principles into health related application (healthcare and patient management).
-
-# information security and privacy
-code: 1932322
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:khair eddin sabriu
-required/elective:required
-prerequisites: introduction to database systems
-information security and privacy covers cryptography, digital signature, key management, authentication, authorization, steganography, privacy, risk analysis, and applies the information security methods and managements to the development of information security within healthcare systems.
-
-# information technology entrepreneurship and innovation
-code: 1902383
-credit hours:3
-level of course:4
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:majdi sawalha
-required/elective:required
-prerequisites: database management systems
-information technology entrepreneurship and innovation introduces students to new and innovative technologies and examine how these powerful systems have fundamentally reshaped modern organizations.
-
-
-# information systems project management
-code: 1902473
-credit hours:3
-level of course:4
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:rana yousef
-required/elective:required
-prerequisites: introduction to software engineering
-information systems project management aims to introduce students to the concepts of project management for information systems. it provides students with the required skills to identify and select projects, planning, performing and controlling the project. it gives students an understanding of the different possibilities in developing the schedule, resource utilization, determining costs, managing risk and closing a project. the course introduces students to project management responsibilities and skills needed. an information systems’ project management case study in the healthcare domain constitutes a major part of this course. the topics that are covered each week are demonstrated using the case study to show how the project management process activities are deployed in qf-aqac-03.02b.1.2 2/8 course syllabus healthcare systems.
-
-# machine learning
-code: 1902442
-credit hours:3
-level of course:4
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:loai alnemer
-required/elective:elective
-prerequisites: introduction to database systems
-machine learning includes introduction and learning bayesian learning, decision tree learning; learning sets of rules, genetic algorithms, analytical learning; reinforcement learning; applications.
-
-# multimedia
-code: 1902351
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:ammer huneiti
-required/elective:required
-prerequisites: object-oriented programming 2
-the multimedia course is mainly designed to introduce the theoretical concepts of digital media including images, audio, animation and video. the difference between analog and digital media is discussed. different types of digital media are outlined and their digital storage process is explained in detail. the digital media encoding and decoding concepts are explained. in addition, different types of digital media compression techniques are introduced. the most popular file formats are outlined for each media type. finally, the multimedia related hardware, software, and web-related issues are discussed where necessary.
-
-
-
-# project management
-code: 1902478
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):online
-taught by:rana yousef
-required/elective:required
-prerequisites: introduction to software engineering
-this course aims to provide students with the required skills to plan and control information technology projects. it gives students an understanding of the different possibilities in developing projects’ schedules, utilizing resources, determining costs, managing risks, and closing projects. the course covers the project management life cycle, the roles and responsibilities of a project manager, and the effective project management tools and techniques that drive successful project outcomes. it also examines project management methods in an agile environment. this course guides students through a practical, hands-on approach through case studies and exercises. an information systems’ project management case study in the healthcare domain constitutes a major part of this course. the topics that are covered each week are demonstrated using the case study to show how the project management process activities are deployed in healthcare systems. students are required to work in teams to manage a real project and show how to break down the project’s tasks into wbs and perform scheduling, estimation, risk analysis, etc.
-
-# software engineering
-code: 1902372
-prerequisites: database management systems
-the software engineering course aims to present software engineering as a body of knowledge. the course is designed to present software engineering concepts and principles in parallel with the software development life cycle (sdlc). the course will begin with an introduction to software engineering, giving students a definition of this body of knowledge, as well as a discussion of the main methodologies of software engineering including agile methods i.e., xp. students will then learn about the five major phases of the sdlc: requirements gathering and analysis, design, coding/implementation, validation, and evolution. this includes software modelling using unified modelling language (uml), a standardized general purpose modelling language used to create visual models of object-oriented software, for requirements gathering and analysis, and design. students will also learn about project management and quality management for the purpose of delivering high-quality software that satisfies customer needs and is within budget and schedule. delivery will be by in-class lectures, recorded lectures, practical sessions in the lab, case studies from different domains (i.e., healthcare domain), and assignments. assignments will include a term project illustrative of professional practice in developing computer information systems. one or two guest speakers with many years of experience in software engineering will be invited to share their first-hand experience with students
-
-# systems analysis and design
-code: 1902474
-credit hours:3
-level of course:4
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:hamad alsawaqlah
-required/elective:required
-prerequisites: database management systems
-systems analysis and design aims to provide students with a solid background in information systems analysis and design techniques through a combination of theory and practice. students will be provided with the skills that are necessary for the analysis and design of information systems, and will apply these skills in a step-bystep manner leading from the recognition of a problem to the implementation of a solution on a case study. the course is divided into four major parts: systems analysis fundamentals (part i), information requirements analysis (part ii), the analysis process (part iii), the essentials of design (part iv). delivery will combine traditional lectures with other active teaching methodologies, such as group discussions, group solving problems, analysis of cases and debates, case study from healthcare domain, and assignments. assignments will include a term project illustrative of professional practice in computer information systems analysis and design
-
-
-# visual programming
-code: 1902210
-credit hours:3
-level of course:2
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:rana yousef
-required/elective:elective
-prerequisites: none
-introduction to visual basic and visual studio environment: controls, components, wizard; language constructs and structures: variables, assignment, arithmetic, selection, repetition, arrays, functions; advanced controls: frames, labels, boxes and others; strings: operations and formatting. graphics: coordinate systems and drawing methods
-
-# web publishing
-code: 1904252
-credit hours:3
-level of course:2
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:omar sultajn alkadi
-required/elective:required
-prerequisites: fundamentals of information technology, application development-1
-web publishing is intended to teach students the skills and techniques required to create fully functioning websites. students will learn how to configure internet services, design and publish dynamic and interactive web pages, implement both client and server-side scripting, and use data access technologies to manipulate databases.
-
-# web server programming
-code: 1904253
-credit hours:3
-level of course:2
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:mariam itriq
-required/elective:required
-prerequisites: fundamentals of information technology, web application development-1
-web server programming is intended to teach students the skills and techniques required to create fully functioning websites. students will learn how to configure internet services, design and publish dynamic and interactive web pages, implement both client and server-side scripting, and use data access technologies to manipulate databases
-
-# computer ethics 
-code: 1904345
-credit hours:3
-level of course:2
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):blended
-taught by:tahani khatib,huda kharajeh
-required/elective:required
-prerequisites: fundamentals of information technology 
-computer ethics explores the branch of practical philosophy concerning computing professionals' decisions regarding professional and social conduct, addressing privacy issues, ethical behavior in technology, and legal aspects of conduct within a computerized environment.
-
-# statistical packages
-code: 1904255
-credit hours:3
-level of course:2
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:bashar shboul
-required/elective:required
-prerequisites: discrete mathematics
-statistical packages aims at introducing the main statistical and probabilistic concepts for scientific applications. in addition, statistical packages introduces different application fields of those concepts in the business intelligence and decision support systems. statistical packages graphically introduces those concepts utilizing matlab as a programming environment for applying statistical/probabilistic methods and techniques.
-
-# total quality management
-code: 1904481
-credit hours:3
-level of course:4
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:yazan alshamaileh
-required/elective:required
-prerequisites: statistical package, software engineering, introduction to database
-total quality management
-introduces students to the use of quality management (qm) principles to the fast-paced, dynamic, and global software (product) development. software engineering standards in testing and quality control and assurance are also introduced.
-
-# business intelligence
-code: 1904371
-credit hours:3
-level of course:3
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:ali rodan
-required/elective:required
-prerequisites: statistical packages
-business intelligence systems this course will examine business intelligence (bi) technologies that help a company to improve its business. it discusses bi topics from both managerial and technical perspectives. managerial perspectives discuss how bi affects the organization's decision-making process, while technical perspectives discuss the foundation for an intelligent system (i.e., machine learning, warehousing, online analytical processing, data mining).
-
-# database languages and tools
-code: 1904415
-credit hours:3
-level of course:4
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:rizik alsayyed
-required/elective:required
-prerequisites: none
-database languages and tools provides a comprehensive guide for developing database applications using oracle 10g relational database and developer 10g application development utilities. database developments activities include using sql commands to create tables and insert, update, delete and view data values. this course provides an overview of pl/sql, explores the developer 10g application development tools, and describes how to create an integrated database application, also it covers how to display application component in a web browser and gives an overview to the database administration activities.
-
-# decision support systems
-code: 1904332
-credit hours:3
-level of course:2
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:bashar shboul,hussam faris
-required/elective:required
-prerequisites: business intelligence
-this course aims to provide students with fundamental knowledge on decision support systems for managers and is developers. this course explores topics in computer-based decision support systems with a practical focus on the application of information technology to the solution of management problems. topics include management support systems, decision making systems, data mining for business and intelligent system.
-
-
-
-# document analysis and recognition
-code: 1904484
-credit hours:3
-level of course:4
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:omar alkadi
-required/elective:elective
-prerequisites: discrete mathematics, theory of algorithms
-document analysis and recognition provides a comprehensive knowledge of theoretical background and practical applications of digital image processing techniques, analysis and enhancement both in the spatial and frequency domains; also to be able to work with different image compression techniques.
-
-# elearning and applications
-code: 1904355
-credit hours:3
-level of course:3
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:omar harfoushi
-required/elective:elective
-prerequisites: web application development-2
-elearning and applications introduces students to the concept of electronic learning and its applications within today’s fast-paced, dynamic, and global environment.
-
-# ebusiness
-code: 1904354
-credit hours:3
-level of course:3
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:osama rababah
-required/elective:required
-prerequisites: web application development-2
-ebusiness guides the students to understand e-business models and to create e-business website using php and mysql; designing the visual interface, creating the database, presenting content, generating an online catalog, managing the shopping cart, handling the order and the payment process, and fulfilling the order always with security and best practices emphasized along the way. this course also, teaches the students how to: create a safe server environment and database, use secure transactions and prevent common vulnerabilities, incorporate different payment gateways, design scalable sites that are easy to maintain, and build administrative interface. xampp, wam, or tomcat and mysql db are intended to be used throughout the course.
-
-# ebusiness security
-code: 1904334
-credit hours:3
-level of course:2
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:jafar alqatawna
-required/elective:required
-prereequisites: web application development-2
-ebusiness security covers issues such as the nature of e-business security, information security services for e-business systems, enterprise security architecture design, e-business security protocols, web security tools and secure programming techniques, perimeter security such firewall technologies, intrusion detection/prevention systems, siem technologies, security requirement engineering and human factors affecting e-business security.
-
-# e-government
-code: 1904357
-credit hours:3
-level of course:3
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:malak alhasan
-required/elective:elective
-prerequisites: web application development-2
-e-government covers the technology of e-government with an in-depth examination of current government development models and management challenges in the delivery of services and information, electronically. furthermore, it will explore the skills and concepts needed to effectively manage e-government projects. lastly, some successful practices of e-government projects will be addressed to emphasize the importance of implementing e-government.
-
-# enterprise resource planning systems
-code: 1904351
-credit hours:3
-level of course:4
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):face to face
-taught by:dana alqudah
-required/elective:required
-prerequisites: management information systems
-enterprise resource planning systems introduces the concepts of integrated management of main business processes, often in real time and mediated by software and technology. in this course the main integrated system that will be discussed in the erp system. erp systems have many modules in a full integrated organization environment, however; for the purpose of this course three main modules will be discussed as follow; manufacturing, inventory and supply chain management. the course is an industrial course, lecturer from the industry take part of teaching cutting edge technologies in this domain such as sap, odoo, erp next, meta fres.
-
-# information resource management
-code: 1903235
-credit hours:3
-level of course:3
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:dana alqudah
-required/elective:required
-prerequisites: fundamentals of information technology 
-information resource management covers how to become knowledgeable participants in information systems decisions.
-
-# information retrieval
-code: 1904382
-credit hours:3
-level of course:3
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:bashar shboul
-required/elective:elective
-prerequisites: business intelligence
-information retrieval aims at studying the theory, design, and implementation of text-based information systems. the course introduces ir core concepts on an abstract level, in addition to a design and an implementation of an ir system utilizing the acquired knowledge from the course. the course introduces several state-of-the-art ir concepts, as well as, trendy case studies in modern ir.
-
-# information security risk management
-code: 1904434
-credit hours:3
-level of course:1
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:jafar alqatawneh
-required/elective:required
-prerequisites: 1901362
-information security risk management covers topics such as threats, vulnerabilities, exploits, and countermeasures, standards and best practices, risk assessment and mitigation, business impact analysis, and business continuity and disaster recovery planning and evaluating perimeter security such firewall technologies, intrusion detection/prevention systems, siem technologies. weekly lab session.
-
-# management information systems
-code: 1904232
-credit hours:3
-level of course:2
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:hussam faris
-required/elective:elective
-prerequisites: fundamentals of information technology
-management information systems aims at introducing the concepts of management information system and its resources. this course works as a road map for system management courses. the course covers fundamental concepts of mis; by elaborating on the impact of it on several sectors including: industry, strategy and finance. in industry, porter’s five forces models are studied and how they are used to gain competitive advantages. on the other hand, in strategy, rgt framework is discussed in addition to porter’s strategies. breakeven point is studied as a part of the impact of it in finance. the major business initiatives are covered including: supply chain management (scm), customer relationship management (crm), enterprise resource planning (erp) and social media (sm). oltp and olap information processing tools which support business intelligence (bi) are also discussed. it tools which are used to support oltp are database and database management system dbms. on the other hand, it tools which are used to support olap are data warehouse and data mining tools. decision support systems (dss) and expert systems (es) are discussed in terms of concept and usage. e-commerce models, marketing mix, and how to move money easily and securely are investigated through the course.
-
-# knowledge management systems
-code: 1904323
-credit hours:3
-level of course:2
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:dima suleiman
-required/elective:required
-prerequisites: management information systems
-knowledge management systems introduces students to the concept of knowledge management systems within today’s fast-paced, dynamic, and global business environment.the course covers important topics include tacit and explicit knowledge and how it differs from data and information, strategic use, technologies, people and cultural issues, knowledge transfer, and implementation.
+year: 3
+language of instruction: english
+department:computer information systems
+teaching methodology(face to face/blended/online): face to face
+taught by: ammer huneiti
+status(elective/required): elective
+prerequisites: computer networks-1
+textbook: none
+description: the multimedia course is mainly designed to introduce the theoretical concepts of digital media including images, audio, animation, and video. the difference between analog and digital media is discussed. different types of digital media are outlined and their digital storage process is explained in detail. the digital media encoding and decoding concepts are explained. in addition, different types of digital media compression techniques are introduced. the most popular file formats are outlined for each media type. finally, the multimedia-related hardware, software, and web-related issues are discussed where necessary.
 
 # operations research
 code: 1904341
-credit hours:3
-level of course:3
+program: computer science credit hours:3
+year: 3
 language of instruction:english
 department:information technology
 teaching methodology(face to face/blended/online):blended
 taught by:ibrahim aljarah
-required/elective:required
-prerequisites: none
-operations research emphasizes the use of quantitative methods and techniques for effective decision-making. model formulations and applications are used in solving business decision problems. topics include: linear programming, transportation, assignment, cpm/pert techniques, and game theory are covered. the course is an application oriented, it emphasizes learning by doing. analytic techniques and computer packages will be used to solve problems facing business managers in decision environments.
-
-# semantic web
-code: 1904453
-credit hours:3
-level of course:3
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:hussam faris
-required/elective:required
-prerequisites: business intelligence
-he web semantic course will introduce the notion of the web semantic, provide an overview of the underlying theory and technology, cover existing technologies and practices, and highlight current and potential applications.
-
-# simulation in business
-code: 1904442
-credit hours:3
-level of course:4
-language of instruction:english
-department:information technology
-teaching methodology(face to face/blended/online):blended
-taught by:rizik alsayyed
-required/elective:required
-prerequisites: data structures – 1
-simulation in business introduces students to simulation types, mathematical model types and simulation software and languages. the course covers in details simulation of discrete system (discrete event simulation and simulation by different equations) and simulation of continuous system using differential equations with practical examples in management, banking, manufacturing and computer networks. both arena and ms excel software are intended to be used throughout the course.
-
-# introduction to artificial intelligence
-code: 1905120
-credit hours:3
-level of course:2
-language of instruction:english
-department:artificial intelligence
-teaching methodology(face to face/blended/online):face to face
-taught by:nadim obeid
-required/elective:required
-prerequisites:none
-introduction to many primary concepts in artificial intelligence such as reasoning, learning, planning, perception and uncertainty management. subjects covered in the this course include: knowledge representation (logic, prolog), planning and reasoning (logical agents), expert systems (production systems), search (blind-, heuristic-, evolutionary-search methods),machine learning qf-aqac-03.02.1.3 2 and data mining (k-means clustering, nearest neighbor classification, naive bayesian, decision trees)
-
-
-# ai programming
-code: 1915111 
-credit hours:3
-level of course:1
-language of instruction:english
-department:computer information systems
-teaching methodology(face to face/blended/online):face to face
-taught by:reem al fayez
-required/elective:required
-prerequisites:none
-the ai programming course builds programming skills for students which is required to develop and implement applications and algorithms of artificial intelligence. this course will focis on programming using python. python is a high-level programming language similar to java, c++, or c# . this course provides students with the required skills to solve problems by implementing programs using python. topics include fundamentals of python programming, object-oriented programming using python, data structures and algorithms, and python packages. this course is lab-based course which is includes in class practical assignments and tasks.
+status(elective/required):elective
+prerequisites: principles of statistics
+textbook: none
+description: operations research emphasizes the use of quantitative methods and techniques for effective decision-making. model formulations and applications are used in solving business decision problems. topics include linear programming, transportation, assignment, cpm/pert techniques, and game theory are covered. the course is application-oriented; it emphasizes learning by doing. analytic techniques and computer packages will be used to solve problems facing business managers in decision environments.
 
 # artificial intelligence
-code: 1905320
-credit hours:3
-level of course:1
+code: 1902342
+program: computer science
+credit hours: 3
+year: 2
 language of instruction:english
-department:computer information systems
-teaching methodology(face to face/blended/online):online
-taught by:nadeem obeid
-required/elective:required
-prerequisites: none
-introduction to artificial intelligence (concepts, research areas and applications), propositional logic, first order logic, representing simple domains in first order logic, logic programming (prolog), exhaustive search methods; heuristic and evolutionary search methods; production systems; architecture of expert systems; model- versus rule-based reasoning. machine learning and data mining (k-means clustering, nearest neighbor classification, naive bayesian, decision trees)
-
-# data mining
-code: 1905222
-credit hours:3
-level of course:2
-language of instruction:english
-department:computer information systems
-teaching methodology(face to face/blended/online):face to face
-taught by:ibrahim aljarah
-required/elective:required
-prerequisites: database management systems
-the data mining course is an introductory course on data mining. it introduces the basic concepts, principles, methods, implementation techniques, and applications of data mining, with a focus on three major data mining functions: (1) pattern discovery and (2) classification and (3) cluster analysis. it also gives an course syllabus introduction to data warehousing and data acquisition and pre-processing, dimensionality reduction and outlier detection. 
-
-# machine learning and neural networks
-code: 1905370
-credit hours:3
-level of course:3
-language of instruction:english
-department:artificial intelligence
-teaching methodology(face to face/blended/online):face to face
-taught by:ali rodan
-required/elective:elective
-prerequisites: data mining 1
-the machine learning and neural networks course is an introduction to machine learning and neural networks models where both theoretical and practical issues being considered. upon completion of this course, the student should understand the main machine learning and neural network architectures and learning algorithms and be able to apply machine learning and neural networks to real problems. 
-
-# computer vision
-code: 1905322
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer information systems
-teaching methodology(face to face/blended/online):face to face
-taught by:omar alkadi
-required/elective:required
-prerequisites: machine learning and neural networks
-the computer vision course explores how computers understand the visual world, emphasizing probabilistic, statistical, and data-driven approaches in computer vision. covering image processing, segmentation, grouping, recognition, and motion estimation, it aims to automate tasks analogous to the human visual system. the curriculum progresses from basic image processing to advanced topics like multiple view geometry, focusing on machine learning methods, particularly in supervised learning and classification. the learned algorithms have broad applications beyond vision problems, making them valuable tools for diverse challenges. 
-
-# principles of data science
-code: 1915121
-credit hours:3
-level of course:3
-language of instruction:english
-department:artificial intelligence
-teaching methodology(face to face/blended/online):face to face
-taught by:omar alkadi
-required/elective:elective
-prerequisites: none
-the principles of data science course is designed to equip students with essential knowledge in data science principles. it covers the fundamental aspects of a data scientist's journey, including gathering data, analyzing it, constructing models, and effectively presenting results. the objective is to provide students with the foundational skills necessary for working with data and making well-informed decisions
-
-# data engineering and analytics
-code: 1915231
-credit hours:3
-level of course:2
-language of instruction:english
-department:computer information systems
-teaching methodology(face to face/blended/online):face to face
-taught by:ibrahim aljarah
-required/elective:required
-prerequisites: principles of data science, ai programming
-the data engineering and analytics course will examine the typical data engineering pipeline includes architecting data platforms, designing data stores, etl, data collection, importing, wrangling, querying, and analysing data. it also includes performance monitoring and finetuning to ensure systems are performing at optimal levels. in addition, data modelling and design techniques, data storage and warehousing. also, the course will discuss the popular data engineering tools such as airflow. furthermore, this course introduces you to the core concepts, processes, and tools you need to know to get a foundational knowledge of data engineering. you will gain an understanding of the modern data ecosystem and the role data engineers, data scientists, and qf-aqac-03.02b.1.2 2 / 5 course syllabus data analysts play in this ecosystem. this course will discuss the exploratory data analysis, feature generation and extraction. the course also includes hands-on labs and assignments that guide you to create and load data into the different types of databases, and perform some basic querying operations that help you understand your dataset. lectures will be given in the lab for practical application. this course is assessed through exams, practical tests and assignments.
-
-
-# data visualization
-code: 1915441
-credit hours:3
-level of course:2
-language of instruction:english
-department:computer information systems
-teaching methodology(face to face/blended/online):face to face
-taught by:omar alkadi
-required/elective:required
-prerequisites: machine learning and neural networks
-the data visualization course presents a comprehensive exploration of data visualization essentials, covering techniques from transforming raw data to creating engaging visualizations using r programming language. topics include quantity visualization, dispersion visualization, relative representation, multivariate visualization, time series visualization. students will gain proficiency in visualizing patterns, trends, geospatial data, uncertainty, and proportional representation. the curriculum also covers figure design principles, and hands-on implementation using r programming software.
-
-# embedded systems
-code: 1905330
-credit hours:3
-level of course:3
-language of instruction:english
-department:artifical intelligence
-teaching methodology(face to face/blended/online):face to face
-taught by:musa alyaman
-required/elective:required
-prerequisites: data structures, ai programming
-the embedded systems course aims to introduce students to basic logic design system, logic gates, combinational and sequential logic circuits. then basic input and output devices, after that microcontroller-based embedded systems design, development and implementation with focus on real-time applications. topics to be covered include, basic logic design, basic input and output systems. embedded system types, microcontroller architecture, programming (embedded c), interrupt management and other related topics. this course will use a combination of lectures, class discussions, reading and writing assignments, case studies analysis, and hands-on work.
-
-# natural language processing
-code: 1905380
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer information systems 
-teaching methodology(face to face/blended/online):face to face
-taught by:bassam hammo
-required/elective:elective
-prerequisites: artificial intelligence
-the natural language processing course covers topics like origins of natural language processing (nlp); language structure representation; the role of knowledge; knowledge representation; parsing techniques; finite-state techniques; recursive and augmented transition networks; language ambiguity; well-formed constructs; features and the lexicon; language semantics; applications.
-
-# healthcare and medical data analytics
-code: 1915352 
-credit hours:3
-level of course:3
-language of instruction:english
-department:artificial intelligence
-teaching methodology(face to face/blended/online):face to face
-taught by:bassam hammo
-required/elective:elective
-prerequisites: data mining
-the healthcare and medical data analytics course introduces the characteristics of medical data and associated data mining challenges on dealing with such data. it focuses on studying those data science techniques in the context of concrete healthcare analytic applications such as predictive modelling, computational phenotyping and patient similarity, diseases detection. in this course, the students will learn how can the application of data analytics improve health and health care and how the data analytics-based solutions can result in better diagnosis, and better care. in healthcare, large amounts of heterogeneous medical data have become available in various healthcare organizations (payers, providers, pharmaceuticals). this data could be an enabling resource for deriving insights for improving care delivery and reducing waste. the enormity and complexity of these datasets present great challenges in analyses and subsequent applications to a practical clinical environment. the basics of data mining within the context of a wide variety of health care settings, and the types of data and data analysis challenges that you will likely encounter by gathering the data, move on to classifying, analyzing and finally visualizing medical data. the course will host a number of experts in the field of it operations and related healthcare sector from the local market to cover the practical side of the course and share their first-hand experience with students.
-
-
-# knowledge representation and reasoning
-code: 1905221
-credit hours:3
-level of course:3
-language of instruction:english
-department:artificial intelligence
+department: artificial intelligence
 teaching methodology(face to face/blended/online):face to face
 taught by:nadim obeid
-required/elective:elective
-prerequisites: introduction to artificial intelligence - 1
-in the knowledge representation and reasoning course we discuss the formalization of knowledge and its processing within machines. we shall show how to design and develop computer systems (knowledge-based systems) that can draw conclusions (using reasoning), similar to human reasoning where knowledge is represented in a machine-interpretable form. we shall examine many knowledge representation formalisms such as rule systems, classical logic (natural deduction and resolution proofs) and (ontology)description logic. we shall also show how to deal incomplete information using defeasible reasoning.
+status(elective/required):required
+prerequisites: none
+textbook: luger g., artificial intelligence, the benjajmin/cummings publishing company, 6th edition, 2008.
+description: introduction to many primary concepts in artificial intelligence such as reasoning, learning, planning, perception, and uncertainty management. subjects covered in this course include knowledge representation (logic, prolog), planning and reasoning (logical agents), expert systems (production systems), search (blind-, heuristic-, evolutionary-search methods), machine learning, and data mining (k-means clustering, nearest neighbor classification, naive bayesian, decision trees).
 
-# ontologies and knowledge graphs
-code: 1905321
-credit hours:3
-level of course:3
-language of instruction:english
-department:artificial intelligence
-teaching methodology(face to face/blended/online):face to face
-taught by:bashar alshboul
-required/elective:elective
-prerequisites: knowledge representation and reasoning
-the ontologies and knowledge graphs (okg) course will introduce the notion of the data semantics, provide an overview of the underlying theory and technology, cover existing technologies and practices, and highlight current and potential applications.
+# project-1
+code: 1901496
+program: computer science
+credit hours: 0
+year: 4
+prerequisites: student should complete 90 credit hours
+description: project one includes theoretical and practical aspects in computer science; the first stage of the graduation project, includes project proposal, analysis and preparation, and project design stages. a report at the end of each stage should be delivered to the department and the supervisor.
+
+# project-2
+code: 1901497
+program: computer science
+credit hours: 0
+year: 4
+prerequisites: project-1
+description: project two includes the second stage of the graduation project, which covers the implementation, testing and evaluation stages, and completing the project in its final version. a documentation of the whole project should be delivered to the department and the supervisor. Finally, the project should be submitted for final examination.

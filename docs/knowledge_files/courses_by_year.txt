@@ -1,0 +1,11 @@
+# year one courses
+year one courses are: remedial computer skills, calculus 1, calculus 2, physics for computer science students, physics for computer science–lab, fundamentals of information technology, principles of statistics, discrete mathematics, computer skills for scientific faculties, web applications development-1
+
+# year two courses
+year two courses are: linear algebra 1, logic design, computer organization, data structures-1, data structure-1 lab, data structures-2, data structures-2 lab, introduction to database systems, introduction to software engineering, documentation and ethics, artificial intelligence
+
+# year three courses
+year three courses are: systems programming and compilers construction, operating system, theory of computation, design and implementation of programming languages, web application development-2, problem solving lab, theory of algorithms, graph theory, computer networks-1, network programming, digital forensics, programming techniques in special languages, parallel and distributed systems, modeling and simulation, numerical analysis, special topics, computer graphics, digital image processing, multimedia networking, operations research
+
+# year four courses
+year four courses are: mobile wireless networks, computer networks-2, computer security, pattern recognition, information visualization, project-1, project-2, training
