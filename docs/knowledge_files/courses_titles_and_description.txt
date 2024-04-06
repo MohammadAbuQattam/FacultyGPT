@@ -73,7 +73,7 @@ physics for computer science students–lab focuses on the practical application
 # linear algebra for computational sciences
 code: 1915101
 credit hours:3
-level of course:3
+level of course:1
 language of instruction:english
 department:artificial intelligence
 teaching methodology(face to face/blended/online):face to face
@@ -145,7 +145,7 @@ computer organization introduces computer organization concepts, including the c
 # system programming and compilers 
 code: 1901476 
 credit hours:3
-level of course:3
+level of course:4
 language of instruction:english
 department:computer science 
 teaching methodology(face to face/blended/online):face to face
@@ -181,7 +181,7 @@ operating system enables students to understand and implement operating systems 
 # theory of computation 
 code: 1901241 
 credit hours:3
-level of course:3
+level of course:2
 language of instruction:english
 department:computer science 
 teaching methodology(face to face/blended/online):face to face
@@ -205,7 +205,7 @@ design and implementation of programming languages covers the underlying grammat
 # web applications development
 code: 1904121+1931102
 credit hours:3
-level of course:1
+level of course:2
 language of instruction:english
 department:information technology
 teaching methodology(face to face/blended/online):blended
@@ -483,18 +483,6 @@ required/elective:elective
 prerequisites: theory of algorithms 
 special topics covers different important techniques used in designing and analyzing efficient algorithms, including dynamic programming and greedy algorithms, focusing on advanced algorithmic solutions to computational problems.
 
-# programming techniques in special languages 
-code: 1901239 
-credit hours:3
-level of course:3
-language of instruction:english
-department:computer science 
-teaching methodology(face to face/blended/online):face to face
-taught by:ahmad abdel-aziz sharieh
-required/elective:elective
-prerequisites: data structures -1 
-programming techniques in special languages aims to equip students with knowledge and skills to build robust programs using defensive programming techniques, current programming trends, and problem-solving techniques, using languages like c++, java, or python.
-
 # computer graphics
 code: 1901359
 credit hours:3
@@ -534,7 +522,7 @@ artificial intelligence introduces ai concepts, including logic programming, sea
 # computing ethics and documentation
 code: 1902202/1902203
 credit hours:3
-level of course:1
+level of course:2
 language of instruction:english
 department:computer information 
 teaching methodology(face to face/blended/online):blended
@@ -546,7 +534,7 @@ computing ethics and documentation aims to equip students with the necessary com
 # database technologies and applications
 code: 1902324
 credit hours:3
-level of course:3
+level of course:4
 language of instruction:english
 department:computer information systems 
 teaching methodology(face to face/blended/online):face to face
