@@ -1,0 +1,21 @@
+#first semester
+logic design 
+web applications development
+data structures-1 
+introduction to database systems
+a course from outside the computer science plan
+
+#second semester
+computer organization
+numerical analysis 
+computing ethics and documentation
+data structures-1 -lab
+data structures-2 
+a course from outside the computer science plan
+
+#summer semester
+theory of computation 
+theory of algorithms 
+a course from outside the computer science plan
+
+#(by the end of the second year you should ideally complete 70 hours or more)

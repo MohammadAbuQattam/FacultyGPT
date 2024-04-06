@@ -1,0 +1,20 @@
+(on the first semester of the first year the courses you take are determined by the university)
+#first semester
+calculus 1 
+discrete mathematics 
+fundamentals of information technology 
+a course from outside the computer science plan
+
+#second semester
+calculus 2 
+principles of statistics 
+physics for computer science
+computer skills for scientific faculties
+a course from outside the computer science plan
+
+#summer semester
+physics for computer science-lab
+linear algebra for computational sciences
+a course from outside the computer science plan
+
+#(by the end of the first year you should ideally complete 30 hours or more)
