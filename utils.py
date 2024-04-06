@@ -40,7 +40,9 @@ def split_file(file_docs):
     Notes:
     - The headers used for splitting are defined in the HEADERS_TO_SPLIT_ON constant.
     """
-    markdown_splitter = MarkdownHeaderTextSplitter(headers_to_split_on=HEADERS_TO_SPLIT_ON)
+    markdown_splitter = MarkdownHeaderTextSplitter(headers_to_split_on=HEADERS_TO_SPLIT_ON,
+                                                   strip_headers=False,
+                                                   return_each_line=False)
     splits = []
     for doc in file_docs:
         splits.extend(markdown_splitter.split_text(doc.page_content))

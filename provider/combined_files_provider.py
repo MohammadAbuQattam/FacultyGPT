@@ -41,15 +41,14 @@ if not load_dotenv(find_dotenv()):
     print("Failed to load .env file.")
     sys.exit(1)
 
-
-question1 = "Please provide me with the prerequisites for Special Topics."
 chain = get_chain()
 
-res1 = chain({"question": question1.lower()})
+while True:
+    user_input = input("Enter a string (or type 'exit' to stop): ")
+    if user_input.lower() == 'exit':
+        break
 
-print(res1)
 
-question2 = "ok give me info about it"
-res2 = chain({"question": question2.lower()})
+    answer = chain({"question": user_input.lower()})['answer']
 
-print(res2)
+    print(f"Question: {user_input}\nAnswer: {answer}")
