@@ -1,4 +1,4 @@
-﻿# remedial computer skills
+# remedial computer skills
 code: 1902099
 program: computer science
 credit hours: 3
@@ -11,7 +11,7 @@ status(elective/required): elective
 prerequisites: none
 textbook: computer skills 1, dr. muhammad tall, authored by dr. ahmad al-shaza'ah, university of jordan, amman-jordan. published by dar samir in 2012. science and technology.
 description: remedial computer skills course introduces students to information technology and communication.
-it includes an introduction to information technology, structure of digital computer systems, computer software (system sw and application sw), internet and networks, security and use of ict in our daily life.
+it includes an introduction to information technology, structure of digital computer systems, computer software (system software and application software), internet and networks, security and use of ict in our daily life.
 the course also aims to enhance students’ practical skills in using effectively the following software packages: microsoft windows 7, ms-office 2007(word), and internet browsers such as internet explorer and google chrome.
 
 # calculus 1
@@ -46,7 +46,7 @@ description: calculus 2 delves deeper into topics of calculus, including integra
 code: 0301131
 program: computer science
 credit hours:3
-year: 1
+year:1
 language of instruction: english
 department: mathematics
 teaching methodology(face to face/blended/online): face to face
@@ -103,7 +103,7 @@ description: linear algebra for computational sciences covers fundemental concep
 code: 1901101
 program: computer science
 credit hours:3
-year: 1
+year:1
 language of instruction:english
 department: computer science
 teaching methodology(face to face/blended/online):blended
@@ -131,14 +131,14 @@ description: fundamentals of information technology will introduce the fundament
 code: 1931102
 program: computer science
 credit hours:3
-year: 1
+year:1
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
 taught by:nabeel alassaf,basima elshqeirat, mohammad atoum,lubna naser edden, oraib abualganam, ahmad al hwaitat, tamara hammori, fatima badwan, aroba bagaeen
 status(elective/required):required
 prerequisites: pass qualifications exam
-description: computer skills for scientific faculties covers the fundamental concepts of programming using c++. it covers the basic structures of the programming tools such as variable names; data types; control structures; arrays; functions; and enumeration data type.
+description: computer skills for scientific faculties covers the fundamental concepts of programming using c++. it covers the basic structures of the programming tools such as variable names, data types, control structures, arrays, functions, and enumeration data type.
 
 # logic design
 code: 1901204
@@ -168,11 +168,11 @@ prerequisites: logic design
 textbook: computer system architecture, 1993, englewood cliffs, nj: prentice hall, 3rd edition.
 description: computer organization introduces computer organization concepts, including the cpu, main memory, i/o organization, computer arithmetic, and an introduction to parallel processing, laying the groundwork for understanding the physical structure of computers.
 
-# systems programming and compilers construction
+# 	systems programming and compilers construction
 code: 1901476
 program: computer science
 credit hours: 3
-year: 3
+year:3
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
@@ -187,7 +187,7 @@ description: system programming and compilers introduces system programming conc
 code: 1901473
 program: computer science
 credit hours:3
-year: 3
+year:3
 language of instruction:english
 department:computer science
 teaching methodology(face to face/blended/online):face to face
@@ -200,7 +200,7 @@ description: operating system enables students to understand and implement opera
 # theory of computation
 code: 1901241
 program: computer science credit hours:3
-year: 3
+year:3
 language of instruction:english
 department:computer science
 teaching methodology(face to face/blended/online):face to face
@@ -214,7 +214,7 @@ description: theory of computation covers sets, relations, finite automata, regu
 code: 1901471
 program: computer science
 credit hours:3
-year: 3
+year:3
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
@@ -227,7 +227,7 @@ description: design and implementation of programming languages covers the under
 code: 1904121
 program: computer science
 credit hours:3
-year: 1
+year:1
 language of instruction: english
 department: information technology
 teaching methodology(face to face/blended/online):blended
@@ -239,7 +239,7 @@ description: web applications development aims to improve students’ ability in
 cascading style sheet and javascript. students will have strong knowledge about the methods and tools used in developing web applications.
 students will know how the world wide web works to be able to design, implement and configure its services and applications effectively
 
-# web application development-2
+# web application development - 2
 code:1904353
 program: computer science
 credit hours: 3
@@ -263,7 +263,7 @@ mysql. it also includes the basics of using content management systems for manag
 code: 1901233
 program: computer science
 credit hours:3
-year: 2
+year:2
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online):blended
@@ -276,7 +276,7 @@ description: data structures-1 explores data structures and concepts such as rec
 # data structure-1 lab
 code: 1901235
 program: computer science credit hours:1
-year: 2
+year:2
 language of instruction:english
 department:computer science
 teaching methodology(face to face/blended/online):face to face
@@ -296,7 +296,7 @@ department:computer science
 teaching methodology(face to face/blended/online): blended
 taught by: ansar khouri
 status(elective/required): required
-prerequisites: data structures-1
+prerequisites: data structures 1
 textbook: c++ data structures, a laboratory course 3rd edition. by stefan brandle, jonathan geisler, james roberge and david whittington.
 description: data structures-2 advances into topics such as pointers, classes, virtual functions, overloading, recursion, linked lists (singly, doubly, circular), and binary trees, building on the foundations laid in data structures-1.
 
@@ -304,7 +304,7 @@ description: data structures-2 advances into topics such as pointers, classes, v
 code: 1901236
 program: computer science
 credit hours:1
-year: 2
+year:2
 language of instruction: english
 department:computer science
 teaching methodology(face to face/blended/online):face to face
@@ -318,7 +318,7 @@ description: data structure-2 lab delves into the practical implementation of ad
 code: 1901381
 program: computer science
 credit hours:1
-year: 3
+year:3
 language of instruction:english
 department:computer science
 teaching methodology(face to face/blended/online):face to face
@@ -331,7 +331,7 @@ description: problem solving lab enables students to solve problems using variou
 code: 1901341
 program: computer science
 credit hours:3
-year: 3
+year:3
 language of instruction:english
 department:computer science
 teaching methodology(face to face/blended/online):face to face
@@ -345,7 +345,7 @@ description: theory of algorithms defines algorithms and covers algorithm design
 code: 1901443
 program: computer science
 credit hours:3
-year: 3
+year:3
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
@@ -359,7 +359,7 @@ description: graph theory covers concepts of graphs, including undirected and di
 code: 1902223
 program: computer science
 credit hours:3
-year: 2
+year:2
 language of instruction:english
 department:computer information systems
 teaching methodology(face to face/blended/online):face to face
@@ -373,7 +373,7 @@ description: the course objectives are to provide students with an overview of d
 code: 1901469
 program: computer science
 credit hours:3
-year: 4
+year:4
 language of instruction:english
 department:computer science
 teaching methodology(face to face/blended/online):face to face
@@ -381,13 +381,13 @@ taught by:saher al manaseer
 status(elective/required):elective
 prerequisites: data structures-1
 textbook: agrawal, dharma, and qing-an zeng. introduction to wireless and mobile systems. cengage learning, 2015.
-description: the mobile wireless networks course covers topics such as wireless networks and their basic operation, different types of wireless technologies and systems, the basics of how they operate, different types of wireless voice, data and broadcast services, key commercial systems. wi-fi wireless networks, bluetooth wireless technology, gsm cellular networks, cellular internet access via wireless access protocol (wap), gprs and umts networks, wireless networks operating system; symbian os, palm os. mobile ip and mobile routing, transport layer over wireless networks, mobile wireless network applications.
+description: the mobile wireless networks course covers topics such as wireless networks and their basic operation, different types of wireless technologies and systems, the basics of how they operate, different types of wireless voice, data and broadcast services, key commercial systems. wi-fi wireless networks, bluetooth wireless technology, gsm cellular networks, cellular internet access via wireless access protocol (wap), gprs and umts networks, wireless networks operating system, symbian os, palm os. mobile ip and mobile routing, transport layer over wireless networks, mobile wireless network applications.
 
 # computer networks-1
 code: 1901362
 program: computer science
 credit hours:3
-year: 3
+year:3
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): blended
@@ -415,7 +415,7 @@ description: computer networks 2 describes the architecture, components, and ope
 code: 1901442
 program: computer science
 credit hours:3
-year: 3
+year:3
 language of instruction:english
 department:computer science
 teaching methodology(face to face/blended/online):face to face
@@ -429,7 +429,7 @@ description: network programming covers basic network programming concepts and t
 code: 1901463
 program: computer science
 credit hours:3
-year: 4
+year:3
 language of instruction:english
 department:computer science
 teaching methodology(face to face/blended/online):blended
@@ -443,7 +443,7 @@ description: computer security explains security protocols, cryptographic algori
 code: 1901483
 program: computer science
 credit hours:3
-year: 3
+year:4
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
@@ -457,7 +457,7 @@ description: the security of web applications course introduces students to a fo
 code: 1901239
 program: computer science
 credit hours:3
-year: 3
+year:3
 language of instruction:english
 department:computer science
 teaching methodology(face to face/blended/online):face to face
@@ -465,7 +465,7 @@ taught by:lubna nassir edeen
 status(elective/required):elective
 prerequisites: data structures-1
 textbook: the practice of computing using python 3, william punch, richard enbody, addison-wesley, 3rd edition.
-description: object-oriented programming (oop) environment; input/output; loops; decision; function; array and strings; data structures; encapsulation; advanced variables; object oriented programming; useful oop features; class and object; polymorphism; exceptions handing; applet; i/o streams; threads, files. applying all topics through weekly exercises in lab.
+description: object-oriented programming (oop) environment, input/output, loops, decision, function, array and strings, data structures, encapsulation, advanced variables, object oriented programming, useful oop features, class and object, polymorphism, exceptions handing, applet, i/o streams, threads, files. applying all topics through weekly exercises in lab.
 
 # parallel and distributed systems
 code: 1901468
@@ -485,7 +485,7 @@ description: parallel and distributed systems explores concepts related to distr
 code: 1901353
 program: computer science
 credit hours:3
-year: 3
+year:3
 language of instruction:english
 department:computer science
 teaching methodology(face to face/blended/online): face to face
@@ -499,7 +499,7 @@ description: modeling and simulation introduces the fundamental concepts of comp
 code: 1901351
 program: computer science
 credit hours:3
-year: 3
+year:3
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
@@ -513,7 +513,7 @@ description: numerical analysis introduces numerical methods for error analysis,
 code: 1901494
 program: computer science
 credit hours:3
-year: 3
+year:3
 language of instruction:english
 department:computer science
 teaching methodology(face to face/blended/online): face to face
@@ -527,7 +527,7 @@ description: special topics covers different important techniques used in design
 code: 1901359
 program: computer science
 credit hours: 3
-year: 3
+year: 4
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
@@ -541,7 +541,7 @@ description: computer graphics provides an overview of computer graphics applica
 code: 1901452
 program: computer science
 credit hours:3
-year: 4
+year:4
 language of instruction:english
 department:computer science
 teaching methodology(face to face/blended/online):face to face
@@ -554,7 +554,7 @@ description: the pattern recognition course covers pattern recognition essential
 # information visualization
 code: 1901457
 program: computer science credit hours:3
-year: 4
+year:4
 language of instruction:english
 department:computer science
 teaching methodology(face to face/blended/online):face to face
@@ -611,7 +611,7 @@ description: digital image processing aims to provide an introduction to the bas
 code: 1901467
 program: computer science
 credit hours:3
-year: 3
+year:3
 language of instruction: english
 department:computer information systems
 teaching methodology(face to face/blended/online): face to face
@@ -632,13 +632,13 @@ taught by:ibrahim aljarah
 status(elective/required):elective
 prerequisites: principles of statistics
 textbook: none
-description: operations research emphasizes the use of quantitative methods and techniques for effective decision-making. model formulations and applications are used in solving business decision problems. topics include linear programming, transportation, assignment, cpm/pert techniques, and game theory are covered. the course is application-oriented; it emphasizes learning by doing. analytic techniques and computer packages will be used to solve problems facing business managers in decision environments.
+description: operations research emphasizes the use of quantitative methods and techniques for effective decision-making. model formulations and applications are used in solving business decision problems. topics include linear programming, transportation, assignment, cpm/pert techniques, and game theory are covered. the course is application-oriented, it emphasizes learning by doing analytic techniques and computer packages will be used to solve problems facing business managers in decision environments.
 
 # artificial intelligence
 code: 1902342
 program: computer science
 credit hours: 3
-year: 2
+year:2
 language of instruction:english
 department: artificial intelligence
 teaching methodology(face to face/blended/online):face to face
@@ -647,19 +647,3 @@ status(elective/required):required
 prerequisites: none
 textbook: luger g., artificial intelligence, the benjajmin/cummings publishing company, 6th edition, 2008.
 description: introduction to many primary concepts in artificial intelligence such as reasoning, learning, planning, perception, and uncertainty management. subjects covered in this course include knowledge representation (logic, prolog), planning and reasoning (logical agents), expert systems (production systems), search (blind-, heuristic-, evolutionary-search methods), machine learning, and data mining (k-means clustering, nearest neighbor classification, naive bayesian, decision trees).
-
-# project-1
-code: 1901496
-program: computer science
-credit hours: 0
-year: 4
-prerequisites: student should complete 90 credit hours
-description: project one includes theoretical and practical aspects in computer science; the first stage of the graduation project, includes project proposal, analysis and preparation, and project design stages. a report at the end of each stage should be delivered to the department and the supervisor.
-
-# project-2
-code: 1901497
-program: computer science
-credit hours: 0
-year: 4
-prerequisites: project-1
-description: project two includes the second stage of the graduation project, which covers the implementation, testing and evaluation stages, and completing the project in its final version. a documentation of the whole project should be delivered to the department and the supervisor. Finally, the project should be submitted for final examination.
