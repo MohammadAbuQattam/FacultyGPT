@@ -23,7 +23,7 @@ phone: +9625355000
 extension: 22574
 email: samiserh@ju.edu.jo
 office hours: 8:30-09:30 (sun, mon, tue)
-courses:logic design ,computer organization,system programming and compilers,design and implementation of programming languages 
+courses:logic design,computer organization,system programming and compilers,design and implementation of programming languages 
 
 # iman almomani
 department:computer science
@@ -141,7 +141,7 @@ extension 22617
 office hours: not available
 courses: artificial intelligence 
 
-# ola hassouneh
+# ola hassunah
 department: physics
 office number: not available
 phone number: not available
