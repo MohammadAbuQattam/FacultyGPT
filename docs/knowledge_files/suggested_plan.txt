@@ -1,0 +1,56 @@
+# year 1 - first semester
+credit hours: 15
+all courses are 3 credit hours. 
+in year 1, semester 1, the faculty typically registers you for the following courses: discrete mathematics, calculus 1, fundamentals of information technology, and a university required/elective course. additionally, if you haven't passed your qualification exams you can be signed up for remedial computer skills which is a prerequisite for computer skills for scientific facualties, alternatively if you have passed your qualification exam you can be signed up for computer skills for scietific facualties. discrete mathematics is a prerequisite for logic design and theory of computation, making it essential for the first semester. similarly, calculus 1, being a prerequisite for calculus 2 and linear algebra for computational sciences,  must also be taken in the first semester. additionally, fundamentals of information technology isn't a prerequisite for anything. finally, a university required/elective course is also included in the semester's curriculum. computer skills for scientific facualties is a prerequisite for web application development, object-oriented programming and theory of computation. 
+
+# year 1 - second semester
+credit hours: up to 18
+all courses are 3 credit hours, unless stated otherwise. 
+in year 1, semester 2, you can register for courses that have no prerequisites, such as physics for computer science students(which is 2 credit hours) and the physics for computer science students lab(which is 1 credit hour). you can also sign up for linear algebra for computational sciences(prerequisite:calculas 1). if you haven't already finished computer skills for scientific faculties you can sign up for it in this semester . if you have finished computer skills for scietific facualties you can now sign up for web application development and object-oriented planning. you can also apply for up to two university required/elective courses. physics for computer science students and its lab are a prerequisite for logic design. web application development is a prerequisite for advanced web development and security of web applications. object oriented programming is a prerequisite for data structures, database management systems and mobile development frameworks. linear algebra is a prerequisite for numerical analysis. 
+
+# year 1 - summer semester
+credit hours: up to 12
+all courses are 3 credit hours, unless stated otherwise. 
+during summer semesters, you have the option to skip. however, if you choose to register for summer semester in your year 1, you can enroll in the following year 2 courses early such as:calculas 2(requirment:calculas 1), logic design (requirments: discrete math, physics for comuter science students and its lab), database management systems(requirment: object oriented programming) and a university required/elective course if you so choose. alternatively if you have some courses from year 1 semester 1 or semester 2 you can finish it in this semester instead. 
+
+# year 2 - first semester
+credit hours: up to 18
+all courses are 3 credit hours, except for labs. 
+in year 2, semester 1, you have the opportunity to register for courses such as data structures (prerequisite: object-oriented programming) and its lab(the lab is 2 credit hours). you can also enroll in calculas 2 (prerequisite: calculus 1), as well as logic design (prerequisites: discrete mathematics, physics for computer science students and its lab), and database management systems (prerequisite: object-oritented programming). additionally you can sign up for one of the university required/elective courses. data structures and its lab are prerequisites for many subject such as artificial intelligence, operating systems, theory of algorithms, computer networks, advanced programming in special languages, modeling and simulation, special topics and computer graphics. logic design is a prerequisite for computer organizaton. database management systems is a prerequisite for software engineering, 
+security of web applications. 
+
+# year 2 - second semester
+credit hours: up to 18
+all courses are 3 credit hours, except for labs. 
+in year 2, semester 2, you can enroll in principles of statistics , as well as advanced programming in special languages (prerequisites: data structures), and numerical analysis (prerequisites: linear algebra for computational sciences, computer skills for scientific faculties) and theory of computation (discrete mathematics, computer skills for scientific faculties), and one of the university required/elective courses. principles of statistics is a prerequisite for modeling and simulation and computer systems performance and applied statistics. advanced programming in special languages is prerequisite for design patterns and clean code. numerical analysis isn't a prerequisite for anything. theory of computation is a prerequisite for systems programming and compilers construction. 
+
+# year 2 - summer semester
+credit hours: up to 12
+all courses are 3 credit hours, except for labs. 
+during the summer semesters, you have the flexibility to skip. however, if you choose to enroll in your year 2 summer semester, you can take any remaining year 2 courses you might have not completed in semester 1 or semester 2. alternatively you can enroll for any year 3 course whos requirments you have already fullfilled early such as software engineering(prerequisites: database management systems), computer networks(prerequisites: data structures), theory of algorithms(prerequisites: data structures) and if you want also a university required/elective course. 
+
+# year 3 - first semester
+credit hours: up to 18
+all courses are 3 credit hours. 
+in year 3, semester 1, you can choose from a selection of courses, including software engineering(prerequisites: database management systems), computer networks(prerequisites: data structures), theory of algorithms(prerequisites: data structures), computer organization(prerequisites:logic design) and also a university required/elective course. software engineering is a prerequisite for computer ethics, design patterns and clean code. computer networks is a prerequisite for network programming, information security and privacy, parallel and distributed systems, mobile wireless networks, advanced networking, fundementals of iot, cloud computing concepts and network security. theory of algorithms is a prerequisite for design and implementation of programming languages, computational problems and techniques, graph theory, parallel and distributed systems. computer organization is prerequisite for systems programming and compilers construction, parallel and distributed systems, computer systems performance. 
+
+# year 3 - second semester
+credit hours: up to 18
+all courses are 3 credit hours. 
+in year 3, semester 1, you can choose from a selection of remaining courses from this set, including computer graphics (prerequisite: data structures), computer ethics(which is 1 credit hours) and has a single prerequisite which is software engineering, artificial intelligence (prerequisites:data structures), a computer science plan elective course and any of the university required/elective courses. also if you have passed 45 credit hours you can also register for seminar-road to software industry which has no credit hours attached. 
+
+# year 3 - summer semester
+credit hours: up to 9
+all courses are 3 credit hours. 
+during the summer semester of year 3, you have the option to skip. however, if you choose to enroll in your year 3 summer semester, you can select from any of the remaining year 3 courses which you havent completed in semester 1 or 2. alternatively you can register some year 4 courses early if you have completed their requirments
+
+# year 4 - first semester
+credit hours: up to 18
+all courses are 3 credit hours, except for labs. 
+in year 4, semester 1, you are just a few steps away from graduating, in this semester you can sign up for computational problems and techniques(prerequisites:theory of algorithms), design and implementation of programming languages(prerequisites:theory of algorithms), operating systems(prerequisites: data structures) and a computer science plan elective course of your choice. additionally, this semester is an opportunity to finish any required or elective university courses left. additionally, you have to register for project-1 (0 credit hours). 
+computational problems and techniques is prerequisite for bioinformatics, machine learning and nueral networks. operating sytems is a prerequisite for fundamentals of iot and cloud computing concepts
+
+# year 4 - second semester
+credit hours: up to 18
+all courses are 3 credit hours, except for labs. 
+in year 4, semester 2, as you approach your final semester, you can register for parallel and distributed systems(prerequisites:computer organization, theory of algorithms, computer networks), systems programming and compilers construction(prerequisites: computer organization, theory of computation), information security and privacy(prerequisites: computer networks, database management systemns) and a computer science plan elective course of your choice. additionally, you are required to register for project-2 and training, if you haven't done so already. this is a critical period to ensure all academic requirements are met for graduation. 
