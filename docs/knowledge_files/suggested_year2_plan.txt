@@ -1,0 +1,65 @@
+# year 2 courses and suggested plan for year 2
+
+ general guidelines
+- each academic year comprises three semesters: first semester, second semester, and an optional summer semester.
+- first and second semesters are mandatory.
+- students can enroll in four university requirement courses (3 credit hours each, unless stated in notes) during their second year.
+- students must adhere to prerequisites; courses without the necessary prerequisites cannot be registered.
+- courses should not be repeated across semesters unless the student fails them.
+
+courses and prerequisites for year 2 students:
+
+ calculus 2
+- prerequisites: calculus 1
+- enables registration for: none
+
+ principles of statistics
+- prerequisites: none
+- enables registration for: modeling and simulation, computer systems performance, applied statistics
+
+ logic design
+- prerequisites: discrete mathematics, physics for computer science students, physics for computer science students-lab
+- enables registration for: computer organization
+
+ data structures
+- prerequisites: object-oriented programming
+- enables registration for: advanced programming in special languages, data structures lab, theory of algorithms, modeling and simulation, computer graphics, computer networks, operating systems, artificial intelligence, special topics
+
+ data structure lab
+- prerequisites: data structures (simultaneous registration allowed)
+- enables registration for: none
+- note: credit hours for this course is 2
+
+ database management systems
+- prerequisites: object-oriented programming
+- enables registration for: software engineering, information security and privacy, database technologies and applications, security of web applications
+
+ theory of computation
+- prerequisites: discrete mathematics, computer skills for scientific faculties
+- enables registration for: systems programming and compilers construction, design and implementation of programming languages
+
+ advanced programming in special languages
+- prerequisites: data structures
+- enables registration for: design patterns and clean code
+
+ numerical analysis
+- prerequisites: linear algebra for computational sciences, computer skills for scientific faculties
+- enables registration for: none
+
+ suggested first semester courses
+- calculus 2
+- data structures
+- data structures lab
+- database management systems
+- logic design
+- one university requirement course
+
+ suggested second semester courses
+- advanced programming in special languages
+- principles of statistics
+- numerical analysis
+- theory of computation
+- one university requirement course
+- one university requirement course or elective course.
+
+for the summer semester, students have the option to register for courses, but it is not mandatory. they are eligible to enroll in courses for which they have met the prerequisites. specifically, students can choose to register for courses from the third year, required university courses, or any elective courses.

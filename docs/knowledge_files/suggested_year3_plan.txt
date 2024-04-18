@@ -1,0 +1,85 @@
+# year 3 courses and suggested plan for year 3
+
+ general guidelines
+- each academic year comprises three semesters: first semester, second semester, and an optional summer semester.
+- first and second semesters are mandatory.
+- students must adhere to prerequisites; courses without the necessary prerequisites cannot be registered.
+- courses should not be repeated across semesters unless the student fails them.
+
+courses and prerequisites for year 3 students:
+
+ computer organization
+- prerequisites: logic design
+- enables registration for: systems programming and compilers construction, parallel and distributed systems, computer systems performance
+
+ software engineering
+- prerequisites: database management systems
+- enables registration for: computer ethics, design patterns and clean code
+
+ computer ethics
+- prerequisites: software engineering
+- enables registration for: none
+- note: credit hours for this course is 1
+
+ artificial intelligence
+- prerequisites: data structures
+- enables registration for: none
+
+ seminar-road to software industry
+- prerequisites: pass 45 hours
+- enables registration for: none
+- note: credit hours for this course is 0
+
+ theory of algorithms
+- prerequisites: data structures
+- enables registration for: computational problems and techniques, parallel and distributed systems, graph theory
+
+ advanced web development
+- prerequisites: web applications development
+- enables registration for: none
+
+ graph theory
+- prerequisites: theory of algorithms
+- enables registration for: none
+
+ computer networks
+- prerequisites: data structures
+- enables registration for: parallel and distributed systems, information security and privacy, advanced networking, network programming, mobile wireless networks, fundamentals of iot, cloud computing concepts, network security
+
+ network programming
+- prerequisites: computer networks
+- enables registration for: none
+
+ modeling and simulation
+- prerequisites: principles of statistics, data structures
+- enables registration for: none
+
+ special topics
+- prerequisites: data structures
+- enables registration for: none
+
+ computer graphics
+- prerequisites: data structures
+- enables registration for: digital image processing
+
+ digital image processing
+- prerequisites: computer graphics
+- enables registration for: none
+
+ suggested first semester courses
+- modeling and simulation
+- software engineering
+- computer organization
+- computer networks
+- theory of algorithms
+- one university requirement course or elective course.
+
+ suggested second semester courses
+- computer graphics
+- artificial intelligence
+- computer ethics
+- seminar-road to software industry
+- elective course
+- one university requirement course or elective course.
+
+for the summer semester, students have the option to register for courses, but it is not mandatory. they are eligible to enroll in courses for which they have met the prerequisites. specifically, students can choose to register for courses from the fourth year, required university courses, or any elective courses.

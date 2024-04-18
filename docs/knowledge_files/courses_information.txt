@@ -204,7 +204,7 @@ status(elective/required): required
 prerequisites: calculus 1
 prerequisite for: numerical analysis
 textbook: h. anton and c. rorres, elementary linear algebra (11th edition), wiley, 2015.
-description: linear algebra for computational sciences covers fundemental concepts of linear combinations such as vectors, vector spaces, matricies, matrix operations, linear functions, lines , planes.
+description: linear algebra for computational sciences covers fundamental concepts of linear combinations such as vectors, vector spaces, matricies, matrix operations, linear functions, lines , planes.
 
 # logic design
 code: 1901204
@@ -240,7 +240,7 @@ description: computer organization introduces computer organization concepts, in
 code: 1902110
 program: computer science
 credit hours: 3
-year: 2
+year: 1
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face

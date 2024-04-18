@@ -1,0 +1,114 @@
+ year 4 courses and suggested plan for year 4
+
+ general guidelines
+- each academic year comprises three semesters: first semester, second semester, and an optional summer semester.
+- first and second semesters are mandatory.
+- students must adhere to prerequisites; courses without the necessary prerequisites cannot be registered.
+- courses should not be repeated across semesters unless the student fails them.
+
+courses and prerequisites for year 4 students:
+
+ systems programming and compilers construction
+- prerequisites: computer organization, theory of computation
+- enables registration for: none
+
+ operating system
+- prerequisites: data structures
+- enables registration for: fundamentals of iot, cloud computing concepts
+
+ design and implementation of programming languages
+- prerequisites: theory of algorithms
+- enables registration for: none
+
+ computational problems and techniques
+- prerequisites: theory of algorithms
+- enables registration for: bioinformatics, machine learning and neural network
+
+ information security and privacy
+- prerequisites: computer networks, database management systems
+- enables registration for: none
+
+ parallel and distributed systems
+- prerequisites: computer organization, theory of algorithms, computer networks
+- enables registration for: none
+
+ mobile wireless networks
+- prerequisites: computer networks
+- enables registration for: none
+
+ advanced networking
+- prerequisites: computer networks
+- enables registration for: none
+
+ security of web applications
+- prerequisites: database management systems, web application development
+- enables registration for: none
+
+ project-1
+- prerequisites: pass 90 hours
+- enables registration for: project-2
+- note: credit hours for this course is 0
+
+ project-2
+- prerequisites: project-1
+- enables registration for: none
+
+ training
+- prerequisites: pass 90 hours
+- enables registration for: none
+- note: credit hours for this course is 0
+
+ design patterns and clean code
+- prerequisites: software engineering, advanced programming in special languages
+- enables registration for: none
+
+ computer systems performance
+- prerequisites: computer organization, principles of statistics
+- enables registration for: none
+
+ fundamentals of iot
+- prerequisites: computer networks, operating systems
+- enables registration for: none
+
+ cloud computing concepts
+- prerequisites: computer networks, operating systems
+- enables registration for: none
+
+ mobile development frameworks
+- prerequisites: web applications development, object-oriented programming
+- enables registration for: none
+
+ network security
+- prerequisites: computer networks
+- enables registration for: none
+
+ applied statistics
+- prerequisites: principles of statistics
+- enables registration for: none
+
+ bioinformatics
+- prerequisites: computational problems and techniques
+- enables registration for: none
+
+ machine learning and neural network
+- prerequisites: computational problems and techniques
+- enables registration for: none
+
+ suggested first semester courses
+- computational problems and techniques
+- design and implementation of programming languages
+- operating systems
+- project-1
+- elective course
+- one university requirement course
+- elective course
+
+ suggested second semester courses
+- parallel and distributed systems
+- systems programming and compilers construction
+- information security and privacy
+- project-2
+- training
+- elective course
+
+for the summer semester, registration for courses is optional. students often enroll in courses during this period to improve their gpa or to retake courses they previously failed.
