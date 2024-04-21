@@ -62,4 +62,4 @@ courses and prerequisites for year 2 students:
 - one university requirement course
 - one university requirement course or elective course.
 
-for the summer semester, students have the option to register for courses, but it is not mandatory. they are eligible to enroll in courses for which they have met the prerequisites. specifically, students can choose to register for courses from the third year, required university courses, or any elective courses.
+for the summer semester, students have the option to register for courses, but it is not mandatory. they are eligible to enroll in courses for which they have met the prerequisites. specifically, students can choose to register for courses from the second year which they haven't finished, courses from the third year, required university courses, or any elective courses.

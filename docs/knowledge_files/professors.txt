@@ -1,143 +1,129 @@
+
 # hazem hiary
-department:computer science
-location:kasit building,computer science department, office no. 113, 1st floor
-phone: +9625355000.
-extension: 22578
+department: computer science
+location: kasit building, computer science department, office no. 113, 1st floor
+phone: +9625355000 extension: 22578
 email: hazemh@ju.edu.jo
-office hours: 12:30-1:30 (sun, tue)
-courses:computer graphics
+office hours: 12: 30-1: 30 (sun, tue)
+courses: computer graphics
 
-# saher manaseer
-department:computer science
+# saher al manaseer
+department: computer science
 location: not available
-phone:+96265355000 
-extension: 22573
-email:saher@ju.edu.jo
+phone: +96265355000 extension: 22573
+email: saher@ju.edu.jo
 office hours : 12 – 1 pm everyday
-courses:computer networks 2 
+courses: mobile wireless networks, advanced networking
 
-# sami serhan
-department :computer science
-location:kasit building computer science department, office no. 107
-phone: +9625355000
-extension: 22574
+# sami al sarhan
+department : computer science
+location: kasit building computer science department, office no. 107
+phone: +9625355000 extension: 22574
 email: samiserh@ju.edu.jo
-office hours: 8:30-09:30 (sun, mon, tue)
-courses:logic design,computer organization,system programming and compilers,design and implementation of programming languages 
+office hours: 8: 30-09: 30 (sun, mon, tue)
+courses: logic design, computer organization, system programming and compilers
 
 # iman almomani
-department:computer science
+department: computer science
 location: kasit building computer science department
-phone: +96265355000 
-extension: 22570
+phone: +96265355000 extension: 22570
 email: i.momani@ju.edu.jo
 office hours: not available
-courses:computer networks ,information security and privacy
+courses: computer networks , information security and privacy
 
 # saleh alsharaeh
-department:computer science
+department: computer science
 location: kasit building computer science department, office no. 111
-phone:+96265355000 
-extension:22576
+phone: +96265355000 extension: 22576
 email: ssharaeh@ju.edu.jo
 office hours: not available
-courses:computer networks 
+courses: computer networks 
 
-# sherenaz al-haj baddar
-department:computer science
-location:kasit building computer science department
-phone: +96265355000 
-extension: 22589
+# sherenaz alhaj baddar
+department: computer science
+location: kasit building computer science department
+phone: +96265355000 extension: 22589
 email: s.baddar@ju.edu.jo
-office hours:not available
-courses:computer networks ,programming methodologies,computer systems performance,theory of algorithms 
+office hours: not available
+courses: computer networks , computer systems performance, theory of algorithms 
 
 # bilal abu salih
-department:computer science
+department: computer science
 location: kasit building computer science department, office no. 325
 phone : not available
 email: b.abusalih@ju.edu.jo
-office hours: sundays and tuesday (12:30 – 13:30)
-courses:data structures-1 ,data structure-1 lab 
+office hours: sundays and tuesday (12: 30 – 13: 30)
+courses: data structures, object-oriented programming, data structure lab
 
-# ansar khoury
-department:computer science
+# ansar khouri
+department: computer science
 location: kasit building computer science department, office no. 106
-phone: +9625355000
-extension: 22581
+phone: +9625355000 extension: 22581
 email: ansar@ju.edu.jo
 office hours: not available
-courses:discrete mathematics ,data structures-1 ,data structures-2 
+courses: discrete mathematics , data structures, object-oriented programming 
 
 # khair eddin sabri
-department:computer science
+department: computer science
 office numbers: kasit building computer science department, office no. 117
-phone:+96265355000 
-extension 22557
+phone: +96265355000 extension: 22557
 email addresses: k.sabri@ju.edu.jo
-office hours: sun, tue: 9:00 – 10:00, wed: 9:30-11
-courses:security of web applications,network security,information security and privacy
+office hours: sun, tue: 9: 00 – 10: 00, wed: 9: 30-11
+courses: security of web applications, information security and privacy
 
-# lubna nasir eddeen
-department:computer science
+# lubna naser eddeen
+department: computer science
 location: kasit building computer science department, office no. 125
-phone: +96265355000 
-extension 22625
+phone: +96265355000 extension: 22625
 email addresses: lubna@ju.edu.jo
 office hours: not available
-courses:discrete mathematics ,computer skills for scientific faculties,data structures-1 ,network programming ,programming in special languages
+courses: discrete mathematics, computer skills for scientific faculties, object-oriented programming , network programming, advanced programming in special languages, modeling and simulation
 
 # maen al assaf
-department:computer science
+department: computer science
 location: not available
-phone: +96265355000 
-extension 22587
+phone: +96265355000 extension: 22587
 e-mail: m_alassaf@ju.edu.jo
-office hours: 12-1 sun,mon,thur .
-courses:operating system ,parallel and distributed systems 
+office hours: 12-1 sun, mon, thur .
+courses: operating system , parallel and distributed systems 
 
 # basima elshqeirat
-department:computer science
+department: computer science
 location: kasit first floor – cs department office
-phone: 06-5355000 
-extension: 22592
+phone: 06-5355000 extension: 22592
 e-mail: b.shoqurat@ju.edu.jo
-office hours: wednesday 1:00-2:30pm
-courses:computer skills for scientific faculties,special topics ,graph theory 
+office hours: wednesday 1: 00-2: 30pm
+courses: computer skills for scientific faculties, special topics , graph theory 
 
-# ahmad abdel-aziz sharieh
-department:computer science
+# ahmad al sharieh
+department: computer science
 location: kasit ground floor room: 105.
-phone: +96265355000 
-extension:22584
+phone: +96265355000 extension: 22584
 email: sharieh@ju.edu.jo
-office hours: sunday, tuesday: 1:00 -2:00; monday : 12:00 – 1:00
-courses:discrete mathematics ,modeling and simulation ,parallel and distributed systems ,numerical analysis ,programming techniques in special languages 
+office hours: sunday, tuesday: 1: 00 -2: 00; monday : 12: 00 – 1: 00
+courses: discrete mathematics, modeling and simulation, numerical analysis 
 
 # heba saadeh
-department:computer science
+department: computer science
 location: kasit building computer science department, office no. 327
 email: heba.saadeh@ju.edu.jo
-phone number: +9625355000
- extension: 22573
+phone number: +9625355000 extension: 22573
 office hours: not available
-courses:data structures-1 ,problem solving lab 
+courses: object-oriented programming, data structures, computational problems and techniques
 
-# fawaz ahmad al-zaghoul
-department:computer information systems
+# fawaz alzghoul
+department: computer information systems
 location: kasit building computer information systemns department, 2nd floor
 email: fawaz@ju.edu.jo
-phone number: +96265355000 
-extension 22607
+phone number: +96265355000 extension: 22607
 office hours: not available
-courses:introduction to database systems
+courses: database management systems
 
 # nadim obeid
-department:artificial intelligence
+department: artificial intelligence
 location: kasit building computer information systems 2nd floor office no. 207
 e-mail: obein@ju.edu.jo
-phone: +96265355000 
-extension 22617
+phone: +96265355000 extension: 22617
 office hours: not available
 courses: artificial intelligence 
 
@@ -147,199 +133,148 @@ office number: not available
 phone number: not available
 email: o.hassouneh@ju.edu.jo
 office hours: not available
-courses:physics for computer science students,physics for computer science –lab
+courses: physics for computer science students, physics for computer science –lab
 
 # mohammad al otoum
 department: computer science
-office number: kasit computer science department,first floor,head office
+office number: kasit computer science department, first floor, head office
 phone number: not available
 email: m.atoum@ju.edu.jo
 office hours: not available
-courses:information security and privacy,discrete mathematics ,computer skills for scientific faculties
+courses: discrete mathematics , computer skills for scientific faculties
 
 # omar sultan al-kadi
 department: artificial intelligence
-office number: kasit information technology department,third floor
-phone number: +96265355000 
-extension:22623
+office number: kasit information technology department, third floor
+phone number: +96265355000 extension: 22623
 email: o.alkadi@ju.edu.jo
 office hours: not available
-courses:linear algebra for computational sciences
+courses: linear algebra for computational sciences
 
 # hamed al-bdour
 department: information technology
-office number: kasit information technology department,third floor
-phone number: +96265355000 
-extension: 22626
+office number: kasit information technology department, third floor
+phone number: +96265355000 extension: 22626
 email: h.bdour@ju.edu.jo
 office hours: not available
 courses: operations research
 
 # ahmad al hwaitat
 department: computer science
-office number: kasit computer science department,first floor
+office number: kasit computer science department, first floor
 phone number: not available
 email: a.hwaitat@ju.edu.jo
 office hours: not available
-courses: discrete mathematics ,computer skills for scientific faculties
+courses: discrete mathematics , computer skills for scientific faculties
 
 # dana alqudah
 department: information technology
-office number: kasit information technology department,third floor
-phone number: +96265355000 
-extension: 22632
-email:d.qudah@ju.edu.jo
+office number: kasit information technology department, third floor
+phone number: +96265355000 extension: 22632
+email: d.qudah@ju.edu.jo
 office hours: not available
-courses:fundamentals of information technology 
+courses: fundamentals of information technology 
 
 # nabeel alassaf
 department: computer science
-office number: kasit computer science department,first floor
-phone number: +96265355000 
-extension: 22638
+office number: kasit computer science department, first floor
+phone number: +96265355000 extension: 22638
 email: n.alassaf@ju.edu.jo
 office hours: not available
-courses:computer skills for scientific faculties
+courses: computer skills for scientific faculties
 
 # oraib abualganam
 department: computer science
-office number: kasit computer science department,first floor
+office number: kasit computer science department, first floor
 phone number: not availabe
 email: not available
 office hours: not available
-courses:computer skills for scientific faculties 
+courses: computer skills for scientific faculties 
 
 # abdallatif abu dalhoum
 department: computer science
-office number: kasit computer science department,first floor
-phone number: +96265355000 
-extension : 22573
+office number: kasit computer science department, first floor
+phone number: +96265355000 extension: 22573
 email: a.latif@ju.edu.jo
 office hours: not available
-courses:theory of computation 
+courses: theory of computation 
 
 # jafar alqatawneh
 department: information technology
 office number: kasit information technology department
-phone number: +962 6 5355000
- extension :22655
+phone number: +962 6 5355000 extension: 22655
 email: j.alqatawna@ju.edu.jo
 office hours: not available 
-courses:web applications development
+courses: web applications development
 
 # bashar al shboul
 department: information technology
 office number: kasit information technology department
-phone number:+96265355000
-extension : 22640
+phone number: +96265355000 extension: 22640
 email: bashar.shboul@gmail.com
 office hours: not available 
-courses:advanced web development
+courses: advanced web development
 
 # marwan altaweel
 department: computer information systems
 office number: kasit computer information systems department
-phone : +969665355000
-extension : 22573
+phone : +969665355000 extension: 22573
 email: m.altawil@ju.edu.jo
 office hours: not available 
-courses:introduction to database systems
+courses: database management systems
 
 # omar aladwan
 department: computer information systems
 office number: kasit computer information systemsdepartment
-phone number:+96265355000
-extension : 22590
+phone number: +96265355000 extension: 22590
 email: adwanoy@ju.edu.jo
 office hours: not available
-courses: introduction to database systems
+courses: database management systems
 
 # esra alzghoul
 department: computer information systems
 office number: kasit computer information systems department
-phone number: +96265355000 
-extension : 22614
+phone number: +96265355000 extension: 22614
 email: e.zaghoul@ju.edu.jo
 office hours: not available 
-courses:database technologies and applications
+courses: database management systems
 
 # reem alfayez
 department: computer information systems
 office number: kasit computer information systemsdepartment
-phone number: +96265355000 
-extension : 22565
+phone number: +96265355000 extension: 22565
 email: r.alfayez@ju.edu.jo
 office hours: not available 
-courses:introduction to database systems,database technologies and applications
+courses: introduction to database systems, database technologies and applications, database management systems
 
 # hamad alsawalqah
 department: computer information systems
 office number: kasit computer information systems department
-phone number: +96265355000
-extension : 22643
+phone number: +96265355000 extension: 22643
 email: h.sawalqah@ju.edu.jo
 office hours: not available 
-courses:introduction to software engineering,software engineering
+courses: software engineering, computer ethics
 
 # rana yousef
 department: computer information systems
 office number: kasit computer information systems department
-phone number: +96265355000
-extension : 22641
-email:rana.yousef@ju.edu.jo
+phone number: +96265355000 extension: 22641
+email: rana.yousef@ju.edu.jo
 office hours: not available 
-courses:software engineering,introduction to software engineering
-
-# tahani khatib
-department: computer information systems
-office number: kasit computer information systems department
-phone number: +96265355000
-extension : 22608
-email: tahani.khatib@ju.edu.jo
-office hours: not available 
-courses:computing ethics and documentation
+courses: software engineering, computer ethics
 
 # huda karajeh
 department: computer information systems
 office number: kasit computer information systemsdepartment
-phone number: +96265355000
-extension : 22618
+phone number: +96265355000 extension: 22618
 email: h.karajeh@ju.edu.jo
 office hours: not available 
-courses:digital image processing,computing ethics and documentation
-
-# mohd belal alzoubi
-department: computer information systems
-office number: kasit computer information systems department
-phone number: +96265355000
-extension : 22615
-email: mba@ju.edu.jo
-office hours: not available 
-courses:geographical information systems
-
-# ammar huneiti
-department: computer information systems
-office number: kasit computer information systems department
-phone number: +96265355000
-extension : 22577
-email: a.huneiti@ju.edu.jo
-office hours: not available 
-courses:multimedia
-
-# ibrahim aljarah
-department: artificial intelligence
-office number: kasit information technology department
-phone number: +96265355000 
-extension : 22637
-email: i.aljarah@ju.edu.jo
-office hours: not available 
-courses:operations research
+courses: digital image processing
 
 # ali rodan
 department: artificial intelligence
 office number: kasit information technology department
-phone number: +96265355000
-extension : 22631
+phone number: +96265355000 extension: 22631
 email: j.alqatawna@ju.edu.jo
 office hours: not available 
-courses:machine learning and neural networks
+courses: machine learning and neural networks

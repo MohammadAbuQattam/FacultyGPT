@@ -93,7 +93,7 @@ year: 1
 language of instruction: english
 department: information technology
 teaching methodology(face to face/blended/online): face to face
-taught by: dana alqudah, mallak alhassan, osama harfoshi, yazan al shamileh, ola shalbak, heba muslah
+taught by: dana alqudah, ola shalbak, heba muslah
 status(elective/required): required
 prerequisites: none
 prerequisite for: none
@@ -136,7 +136,7 @@ year: 1
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): blended
-taught by: lubna naser eddeen, ahmad al sharieh, mohammad al otoum, ahmad al hwaitat, ansar khouri, munseer hasan
+taught by: lubna naser eddeen, ahmad al sharieh,  mohammad al otoum, ahmad al hwaitat, ansar khouri
 status(elective/required): required
 prerequisites: none
 prerequisite for: logic design, theory of computation
@@ -156,7 +156,7 @@ year: 1
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
-taught by: nabeel alassaf, basima elshqeirat, mohammad atoum, lubna naser edden, oraib abualganam, ahmad al hwaitat, tamara hammori, fatima badwan, aroba bagaeen
+taught by: nabeel alassaf, basima elshqeirat,  mohammad al otoum, lubna naser eddeen, oraib abualganam, ahmad al hwaitat, fatima badwan
 status(elective/required): required
 prerequisites: remedial computer skills if you havent passed the qualification exam
 prerequisite for: web applications development, object-oriented programming, theory of computation, numerical analysis
@@ -229,7 +229,7 @@ year: 3
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
-taught by: sami sarhan
+taught by: sami al sarhan
 status(elective/required): required
 prerequisites: logic design
 prerequisite for: systems programming and compilers construction, parallel and distributed systems, computer systems performance
@@ -266,7 +266,7 @@ year: 2
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
-taught by: bilal abu salih, heba saadeh, ansar khouri, 
+taught by: bilal abu salih, heba saadeh, ansar khouri
 status(elective/required): required
 prerequisites: object-oriented programming
 prerequisite for: advanced programming in special languages, data structures lab, theory of algorithms, modeling and simulation, computer graphics, computer networks, operating systems, artificial intelligence, 	special topics
@@ -279,7 +279,7 @@ recursion. tree dynamic, like binary search trees, segment, red-black, avl trees
 collision resolution. weekly lab assignments will be given to the students and to be discussed
 thourhg active teaching methodologies, in addition to problem solving tasks.
 
-# data structure lab
+# data structures lab
 code: 1901243
 program: computer science 
 credit hours: 2
@@ -441,7 +441,7 @@ year: 4
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
-taught by: sami sarhan
+taught by: sami al sarhan
 status(elective/required): required
 prerequisites: computer organization, theory of computation
 prerequisite for: none
@@ -456,7 +456,7 @@ year: 4
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
-taught by: maen al assaf, mohammad qatawneh
+taught by: maen al assaf
 status(elective/required): required
 prerequisites: 	data structures
 prerequisite for: fundamentals of iot, cloud computing concepts
@@ -471,7 +471,7 @@ year: 3
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
-taught by: sherenaz alhaj baddar, azzam talal sleit
+taught by: sherenaz alhaj baddar
 status(elective/required): required
 prerequisites: data structures
 prerequisite for: computational problems and techniques, parallel and distributed systems, graph theory
@@ -573,7 +573,7 @@ year: 3
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
-taught by: lubna naser eddeen, sherenaz alhaj baddar
+taught by: lubna naser eddeen
 status(elective/required): elective
 prerequisites: computer network
 prerequisite for: none
@@ -588,7 +588,7 @@ year: 4
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): blended
-taught by: khair eddin sabri
+taught by: khair eddin sabri, iman almomani
 status(elective/required): required
 prerequisites: computer networks, database management systems
 prerequisite for: none
@@ -610,7 +610,7 @@ year: 2
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
-taught by: lubna nassir edeen
+taught by: lubna naser eddeen
 status(elective/required): required
 prerequisites: data structures
 prerequisite for: design patterns and clean code
@@ -646,7 +646,7 @@ year: 3
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
-taught by: ahmad sharieh, lubna nasir aldeen
+taught by: ahmad al sharieh, lubna naser eddeen
 status(elective/required): required
 prerequisites: 	principles of statistics, data structures
 prerequisite for: none
@@ -661,7 +661,7 @@ year: 2
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): face to face
-taught by: ahmad sharieh
+taught by: ahmad al sharieh
 status(elective/required): required
 prerequisites: linear algebra for computational sciences, computer skills for scientific faculties
 prerequisite for: none
@@ -736,7 +736,7 @@ year: 4
 language of instruction: english
 department: computer science
 teaching methodology(face to face/blended/online): blended
-taught by: saher manaseer
+taught by: saher al manaseer
 status(elective/required): elective
 prerequisites: computer networks
 prerequisite for: none
@@ -994,7 +994,7 @@ year: 4
 language of instruction: english
 department: artificial intelligence
 teaching methodology(face to face/blended/online): face to face
-taught by: not available
+taught by: ali rodan
 status(elective/required): elective
 prerequisites: computational problems and techniques
 prerequisite for: none
