@@ -74,10 +74,10 @@ suggested first semester courses if qualification exam  passed
  suggested second semester courses (skip any given course from a previous question)
 - physics for computer science students–lab
 - physics for computer science students
-- object-oriented programming(only if you have already taken computer skills for scietific faculties)
+- object-oriented programming(only if you have already taken computer skills for scientific faculties)
 - computer skills for scientific faculties (only if not taken in the first semester)
 - linear algebra for computational sciences
-- web applications development(only if you have already taken computer skills for scietific faculties)
+- web applications development(only if you have already taken computer skills for scientific faculties)
 - one university requirement course
 - one university requirement course
 

@@ -3,7 +3,6 @@ import sys
 sys.path.append('../')
 
 from initializer.prepare_knowledge_docs import FileManager
-from dotenv import load_dotenv, find_dotenv
 from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
@@ -65,24 +64,3 @@ class ChatManager:
             memory=self.memory
         )
 
-    def interact(self):
-        """
-        Starts the interaction loop, processing user input and generating responses using the configured chain.
-        The loop continues until the user types 'exit'.
-        """
-        while True:
-            user_input = input("Enter a string (or type 'exit' to stop): ")
-            if user_input.lower() == 'exit':
-                break
-
-            answer = self.chain({"question": user_input.lower()})['answer']
-            print(f"Question: {user_input}\nAnswer: {answer}")
-
-
-if __name__ == "__main__":
-    if not load_dotenv(find_dotenv()):
-        print("Failed to load .env file.")
-        sys.exit(1)
-
-    chat_manager = ChatManager()
-    chat_manager.interact()

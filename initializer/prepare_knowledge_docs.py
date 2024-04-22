@@ -3,9 +3,9 @@ import sys
 from dotenv import load_dotenv, find_dotenv
 from constants import (COMBINED_DATABASE_KNOWLEDGE_FILES_DIRECTORY,
                        KNOWLEDGE_FILES_DIRECTORY)
-from helper.database_manager import DatabaseManager
+from manager.database_manager import DatabaseManager
 from helper.file_processor import FileProcessor
-from helper.path_manager import PathManager
+from manager.path_manager import PathManager
 
 
 class FileManager:
