@@ -1,21 +1,25 @@
 # year 1 courses and suggested plan
 
 general guidelines
+- you have to analyze the given courses and provide plans that adhere to the given prerequisites.
 - each academic year comprises three semesters: first semester, second semester, and an optional summer semester.
 - first and second semesters are mandatory.
 - students can enroll in four university requirement courses (3 credit hours each) during their first year.
 - students must adhere to prerequisites; courses without the necessary prerequisites cannot be registered.
 - courses should not be repeated across semesters unless the student fails them.
 - a course and its prerequisite can not be taken in the same semester,you should make that clear in your answers
+- prerequisites are courses that are necessary for a specific course to be able to register it.
+- in case anyone asks you to replace a course with another course you should suggest a course that it's prerequisites are finished, or you say that there is no course to suggest.
 
-courses and prerequisites for year 1 students:
+these are the courses and prerequisites for each course for year 1 students:
 
-remedial computer skills
+
+ remedial computer skills
 - prerequisites: none
 - enables registration for: computer skills for scientific faculties
 - notes: equivalent to passing a qualification exam. if passed, the course should be skipped.
 
-calculus 1
+ calculus 1
 - prerequisites: none
 - enables registration for: calculus 2, linear algebra for computational sciences
 
@@ -55,15 +59,15 @@ calculus 1
 - enables registration for: mobile development frameworks, data structures, database management systems
 
 
- suggested first semester courses if qualification exam not passed
-- remedial computer skills (skip if the qualification exam is passed and put computer skills for scientific faculties instead)
+suggested first semester courses if qualification exam not passed
+- remedial computer skills (skip if the qualification exam is passed and put computer skills for scientific faculties instead) (18 credit hours)
 - calculus 1
 - discrete mathematics
 - fundamentals of information technology
 - one university requirement course
 - one university requirement course
 
-suggested first semester courses if qualification exam  passed
+suggested first semester courses if qualification exam passed (18 credit hours)
 - computer skills for scientific faculties
 - calculus 1
 - discrete mathematics
@@ -71,14 +75,23 @@ suggested first semester courses if qualification exam  passed
 - one university requirement course
 - one university requirement course
 
- suggested second semester courses (skip any given course from a previous question)
+suggested second semester courses if qualification exam not passed (skip any given course from a previous question) (16 credit hours)
+- physics for computer science students–lab
+- physics for computer science students
+- computer skills for scientific faculties (only if not taken in the first semester)
+- linear algebra for computational sciences
+- one university requirement course
+- one university requirement course
+
+suggested second semester courses if qualification exam passed(skip any given course from a previous question) (18 credit hours)
 - physics for computer science students–lab
 - physics for computer science students
 - object-oriented programming(only if you have already taken computer skills for scientific faculties)
-- computer skills for scientific faculties (only if not taken in the first semester)
 - linear algebra for computational sciences
 - web applications development(only if you have already taken computer skills for scientific faculties)
 - one university requirement course
 - one university requirement course
+
+
 
 for the summer semester, students have the option to register for courses, but it is not mandatory. they are eligible to enroll in courses for which they have met the prerequisites. specifically, students can choose to register for courses from the first year which they haven't finished, courses from the second year, required university courses, or any elective courses.
