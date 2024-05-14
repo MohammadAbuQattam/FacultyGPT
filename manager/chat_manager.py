@@ -2,7 +2,7 @@ import sys
 
 sys.path.append('../')
 
-from initializer.prepare_knowledge_docs import FileManager
+from manager.file_manager import FileManager
 from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
@@ -18,7 +18,7 @@ class ChatManager:
         and the conversational retrieval chain.
         """
         self.file_manager = FileManager()
-        self.file_manager.create_database()
+        self.file_manager.process_files()
         self.memory = self.get_memory()
         self.embedding = OpenAIEmbeddings()
         self.vectordb = self.get_vectordb(self.embedding)
@@ -57,10 +57,9 @@ class ChatManager:
         Returns:
             ConversationalRetrievalChain: An instance of the conversational retrieval chain.
         """
-        llm = ChatOpenAI(model_name=LLM_NAME, temperature=0)
+        llm = ChatOpenAI(model_name=LLM_NAME, temperature=0.3)
         return ConversationalRetrievalChain.from_llm(
             llm,
             retriever=self.vectordb.as_retriever(),
             memory=self.memory
         )
-

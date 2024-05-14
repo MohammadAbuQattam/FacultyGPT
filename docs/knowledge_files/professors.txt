@@ -112,7 +112,7 @@ location: kasit ground floor room: 105.
 phone: +96265355000 extension: 22584
 email: sharieh@ju.edu.jo
 office hours: sunday, tuesday: 1: 00 -2: 00; monday : 12: 00 – 1: 00
-courses: discrete mathematics, modeling and simulation, numerical analysis 
+courses: discrete mathematics, modeling and simulation, numerical analysis
 rank: professor
 
 # heba saadeh
@@ -228,7 +228,7 @@ department: information technology
 office number: kasit information technology department
 phone number: +962 6 5355000 extension: 22655
 email: j.alqatawna@ju.edu.jo
-office hours: not available 
+office hours: not available
 courses: web applications development
 rank: professor
 
@@ -237,7 +237,7 @@ department: information technology
 office number: kasit information technology department
 phone number: +96265355000 extension: 22640
 email: bashar.shboul@gmail.com
-office hours: not available 
+office hours: not available
 courses: advanced web development
 rank: associate professor
 
@@ -246,7 +246,7 @@ department: computer information systems
 office number: kasit computer information systems department
 phone : +969665355000 extension: 22573
 email: m.altawil@ju.edu.jo
-office hours: not available 
+office hours: not available
 courses: database management systems
 rank: assistant professor
 
@@ -264,7 +264,7 @@ department: computer information systems
 office number: kasit computer information systems department
 phone number: +96265355000 extension: 22614
 email: e.zaghoul@ju.edu.jo
-office hours: not available 
+office hours: not available
 courses: database management systems
 rank: associate  professor
 
@@ -273,7 +273,7 @@ department: computer information systems
 office number: kasit computer information systemsdepartment
 phone number: +96265355000 extension: 22565
 email: r.alfayez@ju.edu.jo
-office hours: not available 
+office hours: not available
 courses: introduction to database systems, database technologies and applications, database management systems
 rank: assistant professor
 
@@ -282,7 +282,7 @@ department: computer information systems
 office number: kasit computer information systems department
 phone number: +96265355000 extension: 22643
 email: h.sawalqah@ju.edu.jo
-office hours: not available 
+office hours: not available
 courses: software engineering, computer ethics
 rank: associate professor
 
@@ -291,7 +291,7 @@ department: computer information systems
 office number: kasit computer information systems department
 phone number: +96265355000 extension: 22641
 email: rana.yousef@ju.edu.jo
-office hours: not available 
+office hours: not available
 courses: software engineering, computer ethics
 rank: associate professor
 
@@ -301,7 +301,7 @@ department: computer information systems
 office number: kasit computer information systemsdepartment
 phone number: +96265355000 extension: 22618
 email: h.karajeh@ju.edu.jo
-office hours: not available 
+office hours: not available
 courses: digital image processing
 rank: associate professor
 
@@ -310,6 +310,6 @@ department: artificial intelligence
 office number: kasit information technology department
 phone number: +96265355000 extension: 22631
 email: j.alqatawna@ju.edu.jo
-office hours: not available 
+office hours: not available
 courses: machine learning and neural networks
 rank: associate professor
